@@ -18,16 +18,25 @@ document.addEventListener('DOMContentLoaded', () => {
     const currentPath = window.location.hash.slice(1);
 
     // Initial Render
-    if (typeof newsData === 'undefined' || newsData.length === 0) {
-        gallery.innerHTML = '<p style="grid-column: 1/-1; text-align: center;">No news items generated yet.</p>';
+    if (typeof newsData === 'undefined' || !Array.isArray(newsData)) {
+        console.error("newsData is missing or invalid");
+        gallery.innerHTML = '<p style="grid-column: 1/-1; text-align: center;">No news items loaded.</p>';
         return;
+    }
+
+    if (newsData.length === 0) {
+        gallery.innerHTML = '<p style="grid-column: 1/-1; text-align: center;">No news items generated yet.</p>';
     }
 
     // Render Gallery Grid
     newsData.forEach(item => {
         const card = document.createElement('div');
         card.className = 'card';
-        const coverImg = `${item.assets_path}/${item.content.general_summary.image}`;
+        // Safety check for image
+        let coverImg = 'placeholder.png'; // Fallback?
+        if (item.content && item.content.general_summary && item.content.general_summary.image) {
+            coverImg = `${item.assets_path}/${item.content.general_summary.image}`;
+        }
 
         card.innerHTML = `
             <img src="${coverImg}" alt="${item.title}" class="card-img">
@@ -37,14 +46,20 @@ document.addEventListener('DOMContentLoaded', () => {
             </div>
         `;
 
-        card.onclick = () => showDetail(item.id);
+        // Add click listener
+        card.addEventListener('click', () => {
+            console.log("Card clicked:", item.id);
+            showDetail(item.id);
+        });
+
         gallery.appendChild(card);
     });
 
     // Navigation and Routing
     backBtn.onclick = () => {
         showGallery();
-        history.pushState(null, null, ' ');
+        // Clear hash cleanly
+        history.pushState(null, null, window.location.pathname + window.location.search);
     };
 
     window.onpopstate = () => {
@@ -69,65 +84,73 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     function showDetail(id) {
+        console.log("Showing detail for:", id);
         const item = newsData.find(n => n.id === id);
-        if (!item) return;
+        if (!item) {
+            console.error("Item not found:", id);
+            return;
+        }
 
         // Populate Data
-        detailDate.innerHTML = `<i class="far fa-calendar"></i> ${formatDate(item.date)}`;
-        detailTitle.textContent = item.title;
-        detailTitleText.textContent = item.title;
+        if (detailDate) detailDate.innerHTML = `<i class="far fa-calendar"></i> ${formatDate(item.date)}`;
+        if (detailTitle) detailTitle.textContent = item.title;
+        if (detailTitleText) detailTitleText.textContent = item.title;
 
-        const tiktokSummary = item.content.tiktok_summary || "No TikTok summary available.";
-        detailTikTokText.textContent = tiktokSummary;
+        const tiktokSummary = (item.content && item.content.tiktok_summary) ? item.content.tiktok_summary : "No TikTok summary available.";
+        if (detailTikTokText) detailTikTokText.textContent = tiktokSummary;
 
-        // Full Description (Concatenating parts)
-        const parts = [
-            item.content.introduction.text,
-            item.content.development.text,
-            item.content.conclusion.text
-        ].filter(Boolean).join('\n\n');
+        // Full Description
+        const parts = [];
+        if (item.content.introduction && item.content.introduction.text) parts.push(item.content.introduction.text);
+        if (item.content.development && item.content.development.text) parts.push(item.content.development.text);
+        if (item.content.conclusion && item.content.conclusion.text) parts.push(item.content.conclusion.text);
 
-        detailDescription.textContent = parts;
+        if (detailDescription) detailDescription.textContent = parts.join('\n\n');
 
         // Download Link
-        downloadZipBtn.href = item.zip_path;
+        if (downloadZipBtn) downloadZipBtn.href = item.zip_path;
 
         // Populate Images Grid
-        detailCardsGrid.innerHTML = '';
-        const images = [
-            'general_summary',
-            'introduction',
-            'development',
-            'conclusion'
-        ];
+        if (detailCardsGrid) {
+            detailCardsGrid.innerHTML = '';
+            const images = [
+                'general_summary',
+                'introduction',
+                'development',
+                'conclusion'
+            ];
 
-        images.forEach(key => {
-            const imgData = item.content[key];
-            if (imgData && imgData.image) {
-                const img = document.createElement('img');
-                img.src = `${item.assets_path}/${imgData.image}`;
-                img.className = 'grid-img';
-                img.onclick = () => window.open(img.src, '_blank');
-                detailCardsGrid.appendChild(img);
-            }
-        });
+            images.forEach(key => {
+                const imgData = item.content[key];
+                if (imgData && imgData.image) {
+                    const img = document.createElement('img');
+                    img.src = `${item.assets_path}/${imgData.image}`;
+                    img.className = 'grid-img';
+                    img.title = "Click to open full size";
+                    img.onclick = () => window.open(img.src, '_blank');
+                    detailCardsGrid.appendChild(img);
+                }
+            });
+        }
 
         // Switch View
         galleryView.classList.add('hidden');
         detailView.classList.remove('hidden');
         window.scrollTo(0, 0);
 
-        // Update URL
+        // Update URL if needed
         if (window.location.hash.slice(1) !== id) {
             history.pushState(null, null, `#${id}`);
         }
     }
 
     function formatDate(dateString) {
-        if (!dateString) return 'Invalid Date';
-        // Handle YYYY-MM-DD or assume it's valid check
+        if (!dateString) return 'Data nd';
         try {
-            return new Date(dateString).toLocaleDateString('pt-BR');
+            // Check if it's already formatted or timestamp
+            const d = new Date(dateString);
+            if (isNaN(d.getTime())) return dateString;
+            return d.toLocaleDateString('pt-BR');
         } catch {
             return dateString;
         }
@@ -135,9 +158,13 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // Copy Utility
     window.copyContent = (elementId) => {
-        const text = document.getElementById(elementId).textContent;
+        const el = document.getElementById(elementId);
+        if (!el) return;
+        const text = el.textContent;
         navigator.clipboard.writeText(text).then(() => {
-            alert('Copiado para a área de transferência!');
+            alert('Copiado!');
+        }).catch(err => {
+            console.error('Failed to copy', err);
         });
     };
 });
