@@ -1,34 +1,15 @@
-# Virtual Envs
-venv/
-venv12/
-venv312/
-.env
-.venv
+# Ignore everything by default
+*
 
-# Python
+# Whitelist docs folder (The Site)
+!docs/
+!docs/**
+
+# Whitelist configuration
+!.gitignore
+!README.md
+
+# Explicitly ignore python cache if it somehow sneaks in
 __pycache__/
 *.pyc
 
-# Heavy Models
-*.safetensors
-*.ckpt
-*.bin
-data/models/
-data/images/
-
-# References & Tests (User requested exclusion)
-reference/
-referencia/
-tests/
-scrapers/tests/
-test_*
-*.png
-!data/**/*.png
-!docs/**/*.png
-
-# System
-.DS_Store
-Thumbs.db
-
-# Logs
-*.log
