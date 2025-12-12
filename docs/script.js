@@ -108,7 +108,12 @@ document.addEventListener('DOMContentLoaded', () => {
         if (detailDescription) detailDescription.textContent = parts.join('\n\n');
 
         // Download Link
-        if (downloadZipBtn) downloadZipBtn.href = item.zip_path;
+        if (downloadZipBtn) {
+            downloadZipBtn.href = item.zip_path;
+            // Force filename in download attribute
+            const filename = item.zip_path.split('/').pop();
+            downloadZipBtn.setAttribute('download', filename);
+        }
 
         // Populate Images Grid
         if (detailCardsGrid) {
