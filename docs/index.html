@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -7,25 +8,82 @@
     <link rel="stylesheet" href="styles.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
 </head>
-<body>
-    <header>
-        <h1>FlashCards News Gallery</h1>
-        <p>Latest generated news cards and assets</p>
-    </header>
-    
-    <main id="gallery" class="gallery">
-        <!-- Cards will be injected here by script.js -->
-    </main>
 
-    <!-- Modal for details -->
-    <div id="modal" class="modal hidden">
-        <div class="modal-content">
-            <span class="close-btn">&times;</span>
-            <div id="modal-body"></div>
+<body>
+    <!-- Gallery View -->
+    <div id="gallery-view">
+        <header>
+            <h1>FlashCards News Gallery</h1>
+            <p>Latest generated news cards and assets</p>
+        </header>
+
+        <main id="gallery" class="gallery">
+            <!-- Cards injected here -->
+        </main>
+    </div>
+
+    <!-- Detail View (Hidden by default) -->
+    <div id="detail-view" class="hidden">
+        <nav class="top-nav">
+            <button id="back-btn" class="nav-btn"><i class="fas fa-chevron-left"></i> Voltar</button>
+        </nav>
+
+        <div class="detail-container">
+            <!-- Header Card -->
+            <div class="header-card">
+                <div class="meta-tags">
+                    <span class="tag-general">Geral</span>
+                    <span class="tag-date" id="detail-date"><i class="far fa-calendar"></i> Date</span>
+                </div>
+                <h1 id="detail-title">Title Here</h1>
+
+                <!-- Title Copy Section -->
+                <div class="copy-section">
+                    <div class="copy-header">
+                        <i class="fas fa-heading"></i> <span>Título</span>
+                        <button class="copy-btn blue" onclick="copyContent('detail-title-text')"><i
+                                class="far fa-copy"></i> Copiar</button>
+                    </div>
+                    <div class="copy-content" id="detail-title-text">
+                        <!-- Title text goes here again or specific hook -->
+                    </div>
+                </div>
+
+                <!-- TikTok Summary Section -->
+                <div class="copy-section">
+                    <div class="copy-header">
+                        <i class="fab fa-tiktok" style="color: #E91E63;"></i> <span>Resumo TikTok</span>
+                        <button class="copy-btn purple" onclick="copyContent('detail-tiktok-text')"><i
+                                class="far fa-copy"></i> Copiar</button>
+                    </div>
+                    <div class="copy-content" id="detail-tiktok-text">
+                        <!-- TikTok summary content -->
+                    </div>
+                </div>
+
+                <!-- Full Text Description -->
+                <div class="full-description" id="detail-description">
+                    <!-- Intro/Dev/Conc text concatenated -->
+                </div>
+
+                <!-- Download Action -->
+                <a id="download-zip-btn" href="#" class="action-btn download-all" download>
+                    <i class="fas fa-file-archive"></i> Baixar Todos os Cards (ZIP)
+                </a>
+            </div>
+
+            <!-- Cards Grid -->
+            <div class="cards-section">
+                <h3><i class="fas fa-images"></i> Cards</h3>
+                <div class="cards-grid" id="detail-cards-grid">
+                    <!-- Images injected here -->
+                </div>
+            </div>
         </div>
     </div>
 
     <script src="data.js"></script>
     <script src="script.js"></script>
 </body>
+
 </html>

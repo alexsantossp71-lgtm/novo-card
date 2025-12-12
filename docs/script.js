@@ -1,97 +1,143 @@
 document.addEventListener('DOMContentLoaded', () => {
+    // Elements
+    const galleryView = document.getElementById('gallery-view');
+    const detailView = document.getElementById('detail-view');
     const gallery = document.getElementById('gallery');
-    const modal = document.getElementById('modal');
-    const modalBody = document.getElementById('modal-body');
-    const closeBtn = document.querySelector('.close-btn');
+    const backBtn = document.getElementById('back-btn');
 
-    // Render Cards
+    // Detail Elements
+    const detailDate = document.getElementById('detail-date');
+    const detailTitle = document.getElementById('detail-title');
+    const detailTitleText = document.getElementById('detail-title-text');
+    const detailTikTokText = document.getElementById('detail-tiktok-text');
+    const detailDescription = document.getElementById('detail-description');
+    const downloadZipBtn = document.getElementById('download-zip-btn');
+    const detailCardsGrid = document.getElementById('detail-cards-grid');
+
+    // State
+    const currentPath = window.location.hash.slice(1);
+
+    // Initial Render
     if (typeof newsData === 'undefined' || newsData.length === 0) {
         gallery.innerHTML = '<p style="grid-column: 1/-1; text-align: center;">No news items generated yet.</p>';
         return;
     }
 
+    // Render Gallery Grid
     newsData.forEach(item => {
         const card = document.createElement('div');
         card.className = 'card';
-
-        // Use general_summary image as cover
         const coverImg = `${item.assets_path}/${item.content.general_summary.image}`;
 
         card.innerHTML = `
-            <img src="${coverImg}" alt="${item.title}" class="card-img" onclick="openModal('${item.id}')">
+            <img src="${coverImg}" alt="${item.title}" class="card-img">
             <div class="card-body">
                 <div class="card-title">${item.title}</div>
-                <div class="card-meta"><i class="far fa-clock"></i> ${new Date(item.date).toLocaleDateString('pt-BR')}</div>
-                <div class="btn-group">
-                    <a href="${item.zip_path}" class="btn btn-download" download>
-                        <i class="fas fa-download"></i> Download ZIP
-                    </a>
-                    <button class="btn" onclick="openModal('${item.id}')">
-                        <i class="fas fa-eye"></i> View Details
-                    </button>
-                    <button class="btn" onclick="copyToClipboard('${escapeText(item.content.tiktok_summary)}', 'TikTok Summary')">
-                        <i class="fab fa-tiktok"></i> Copy Caption
-                    </button>
-                </div>
+                <div class="card-meta"><i class="far fa-clock"></i> ${formatDate(item.date)}</div>
             </div>
         `;
+
+        card.onclick = () => showDetail(item.id);
         gallery.appendChild(card);
     });
 
-    // Modal Logic
-    window.openModal = (id) => {
+    // Navigation and Routing
+    backBtn.onclick = () => {
+        showGallery();
+        history.pushState(null, null, ' ');
+    };
+
+    window.onpopstate = () => {
+        const id = window.location.hash.slice(1);
+        if (id) {
+            showDetail(id);
+        } else {
+            showGallery();
+        }
+    };
+
+    // Check initial hash
+    if (currentPath) {
+        showDetail(currentPath);
+    }
+
+    // View Functions
+    function showGallery() {
+        detailView.classList.add('hidden');
+        galleryView.classList.remove('hidden');
+        window.scrollTo(0, 0);
+    }
+
+    function showDetail(id) {
         const item = newsData.find(n => n.id === id);
         if (!item) return;
 
-        let html = `<h2>${item.title}</h2>`;
+        // Populate Data
+        detailDate.innerHTML = `<i class="far fa-calendar"></i> ${formatDate(item.date)}`;
+        detailTitle.textContent = item.title;
+        detailTitleText.textContent = item.title;
 
-        // Sections to display
-        const sections = [
-            { key: 'general_summary', label: 'Capa / General' },
-            { key: 'introduction', label: 'Introdução' },
-            { key: 'development', label: 'Desenvolvimento' },
-            { key: 'conclusion', label: 'Conclusão' }
+        const tiktokSummary = item.content.tiktok_summary || "No TikTok summary available.";
+        detailTikTokText.textContent = tiktokSummary;
+
+        // Full Description (Concatenating parts)
+        const parts = [
+            item.content.introduction.text,
+            item.content.development.text,
+            item.content.conclusion.text
+        ].filter(Boolean).join('\n\n');
+
+        detailDescription.textContent = parts;
+
+        // Download Link
+        downloadZipBtn.href = item.zip_path;
+
+        // Populate Images Grid
+        detailCardsGrid.innerHTML = '';
+        const images = [
+            'general_summary',
+            'introduction',
+            'development',
+            'conclusion'
         ];
 
-        sections.forEach(sec => {
-            const content = item.content[sec.key];
-            const imgPath = `${item.assets_path}/${content.image}`;
-
-            html += `
-                <div class="detail-section">
-                    <div>
-                        <img src="${imgPath}" class="detail-img">
-                        <br>
-                        <a href="${imgPath}" download class="btn" style="margin-top:5px; width:100%; justify-content:center;">Download Image</a>
-                    </div>
-                    <div class="detail-text">
-                        <h3>${sec.label}</h3>
-                        ${content.text ? `<p><strong>Texto:</strong> ${content.text} <i class="fas fa-copy copy-icon" onclick="copyToClipboard('${escapeText(content.text)}')"></i></p>` : ''}
-                        ${content.prompt ? `<div class="prompt-box"><strong>Prompt:</strong> ${content.prompt} <i class="fas fa-copy copy-icon" onclick="copyToClipboard('${escapeText(content.prompt)}')"></i></div>` : ''}
-                    </div>
-                </div>
-            `;
+        images.forEach(key => {
+            const imgData = item.content[key];
+            if (imgData && imgData.image) {
+                const img = document.createElement('img');
+                img.src = `${item.assets_path}/${imgData.image}`;
+                img.className = 'grid-img';
+                img.onclick = () => window.open(img.src, '_blank');
+                detailCardsGrid.appendChild(img);
+            }
         });
 
-        modalBody.innerHTML = html;
-        modal.classList.remove('hidden');
-    };
+        // Switch View
+        galleryView.classList.add('hidden');
+        detailView.classList.remove('hidden');
+        window.scrollTo(0, 0);
 
-    // Close Modal
-    closeBtn.onclick = () => modal.classList.add('hidden');
-    window.onclick = (e) => {
-        if (e.target == modal) modal.classList.add('hidden');
-    };
-
-    // Utils
-    window.copyToClipboard = (text, type = "Text") => {
-        navigator.clipboard.writeText(text).then(() => {
-            alert(`${type} copied to clipboard!`);
-        });
-    };
-
-    function escapeText(text) {
-        if (!text) return '';
-        return text.replace(/'/g, "\\'").replace(/"/g, '&quot;').replace(/\n/g, '\\n');
+        // Update URL
+        if (window.location.hash.slice(1) !== id) {
+            history.pushState(null, null, `#${id}`);
+        }
     }
+
+    function formatDate(dateString) {
+        if (!dateString) return 'Invalid Date';
+        // Handle YYYY-MM-DD or assume it's valid check
+        try {
+            return new Date(dateString).toLocaleDateString('pt-BR');
+        } catch {
+            return dateString;
+        }
+    }
+
+    // Copy Utility
+    window.copyContent = (elementId) => {
+        const text = document.getElementById(elementId).textContent;
+        navigator.clipboard.writeText(text).then(() => {
+            alert('Copiado para a área de transferência!');
+        });
+    };
 });
