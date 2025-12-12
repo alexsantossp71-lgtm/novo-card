@@ -5,7 +5,7 @@ const newsData = [
     "date": "2025-12-12T19:44:57+00:00",
     "url": "https://www.cartacapital.com.br/politica/como-governistas-reagiram-ao-fim-da-magnitsky-contra-moraes/?utm_source=terra_capa_noticias&utm_medium=referral",
     "assets_path": "assets/10_Como_governistas_reagiram_ao_fim_da_Magnitsky_cont",
-    "zip_path": "assets/10_Como_governistas_reagiram_ao_fim_da_Magnitsky_cont/images.zip",
+    "zip_path": "assets/10_Como_governistas_reagiram_ao_fim_da_Magnitsky_cont/10_Como_governistas_reagiram_ao_fim_da_Magnitsky_cont.zip",
     "content": {
       "introduction": {
         "text": "O presidente dos Estados Unidos Donald Trump voltou atrás na punição ao magistrado do Supremo Tribunal Federal Alexandre de Moraes e sua esposa.",
@@ -35,7 +35,7 @@ const newsData = [
     "date": null,
     "url": "https://www.brasil247.com/blog/o-brasil-vive-um-estado-de-coisas-golpistas",
     "assets_path": "assets/9_O_Brasil_vive_um_estado_de_coisas_golpistas",
-    "zip_path": "assets/9_O_Brasil_vive_um_estado_de_coisas_golpistas/images.zip",
+    "zip_path": "assets/9_O_Brasil_vive_um_estado_de_coisas_golpistas/9_O_Brasil_vive_um_estado_de_coisas_golpistas.zip",
     "content": {
       "introduction": {
         "text": "O Legislativo brasileiro está envolvido em um golpe silencioso que subverte o sistema democrático.",
@@ -65,7 +65,7 @@ const newsData = [
     "date": null,
     "url": "https://www.brasil247.com/blog/senhores-do-supremo-tenham-juizo",
     "assets_path": "assets/8_Senhores_do_Supremo_tenham_juízo",
-    "zip_path": "assets/8_Senhores_do_Supremo_tenham_juízo/images.zip",
+    "zip_path": "assets/8_Senhores_do_Supremo_tenham_juízo/8_Senhores_do_Supremo_tenham_juízo.zip",
     "content": {
       "introduction": {
         "text": "O texto aborda as atitudes tomadas por certas autoridades no Brasil que contaminam o ambiente político, incluindo reuniões informais e conluio entre ministros do STF.",
@@ -95,7 +95,7 @@ const newsData = [
     "date": null,
     "url": "https://www.brasil247.com/blog/o-dizimo-e-o-milagre-economico-de-jesus-que-salva-os-mais-ricos-e-condena-os-mais-pobres",
     "assets_path": "assets/7_O_dízimo_é_o_milagre_econômico_de_Jesus_que_salva_",
-    "zip_path": "assets/7_O_dízimo_é_o_milagre_econômico_de_Jesus_que_salva_/images.zip",
+    "zip_path": "assets/7_O_dízimo_é_o_milagre_econômico_de_Jesus_que_salva_/7_O_dízimo_é_o_milagre_econômico_de_Jesus_que_salva_.zip",
     "content": {
       "introduction": {
         "text": "A concentração de renda entre pastores evangélicos milionários gera desigualdade social e econômica na sociedade.",
@@ -125,7 +125,7 @@ const newsData = [
     "date": "2025-12-11T19:33:39Z",
     "url": "https://www.terra.com.br/noticias/terra-agora/videos/pl-da-dosimetria-e-uma-meia-anistia-aos-bolsonaristas-de-8-de-janeiro-analisa-jornalista,e0c1d1e9e0b6f56b7f5aeb348d946678n4ao502i.html",
     "assets_path": "assets/6_PL_da_dosimetria_é_uma_meia_anistia_aos_bolsonaris",
-    "zip_path": "assets/6_PL_da_dosimetria_é_uma_meia_anistia_aos_bolsonaris/images.zip",
+    "zip_path": "assets/6_PL_da_dosimetria_é_uma_meia_anistia_aos_bolsonaris/6_PL_da_dosimetria_é_uma_meia_anistia_aos_bolsonaris.zip",
     "content": {
       "introduction": {
         "text": "A PL da dosimetria é um assunto polêmico que pode alterar as penas nos condenados em crimes relacionados ao golpe de 8 de janeiro de 2023.",
@@ -155,7 +155,7 @@ const newsData = [
     "date": "2025-12-11T23:38:29+00:00",
     "url": "https://www.cartacapital.com.br/cartaexpressa/stf-marca-sessao-para-confirmar-a-decisao-que-encerra-o-mandato-de-zambelli/?utm_source=terra_capa_noticias&utm_medium=referral",
     "assets_path": "assets/5_STF_marca_sessão_para_confirmar_a_decisão_que_ence",
-    "zip_path": "assets/5_STF_marca_sessão_para_confirmar_a_decisão_que_ence/images.zip",
+    "zip_path": "assets/5_STF_marca_sessão_para_confirmar_a_decisão_que_ence/5_STF_marca_sessão_para_confirmar_a_decisão_que_ence.zip",
     "content": {
       "introduction": {
         "text": "O presidente da Primeira Turma do Supremo Tribunal Federal, Flávio Dino, agendou um julgamento para sexta-feira, que visa referendar a decisão de ministro Alexandre de Moraes sobre a perda do mandato da deputada Carla Zambelli.",
@@ -185,7 +185,7 @@ const newsData = [
     "date": "2025-12-11T21:03:41Z",
     "url": "https://www.terra.com.br/noticias/mundo/trump-diz-que-assinara-decreto-para-restringir-leis-estaduais-de-ia,12483b3a589bdbaaf36ae67c185c07890w1cce2q.html",
     "assets_path": "assets/4_Trump_diz_que_assinará_decreto_para_restringir_lei",
-    "zip_path": "assets/4_Trump_diz_que_assinará_decreto_para_restringir_lei/images.zip",
+    "zip_path": "assets/4_Trump_diz_que_assinará_decreto_para_restringir_lei/4_Trump_diz_que_assinará_decreto_para_restringir_lei.zip",
     "content": {
       "introduction": {
         "text": "O presidente dos EUA, Donald Trump, anunciou planos para assinar um decreto sobre inteligência artificial.",
@@ -215,7 +215,7 @@ const newsData = [
     "date": "2025-12-10T18:21:32Z",
     "url": "https://www.terra.com.br/byte/ciencia/hackeou-o-espaco-alemao-fez-o-que-a-nasa-nao-conseguiu-e-reativou-satelite-de-12-anos-que-a-ciencia-havia-dado-como-morto,a74842c276371b5c8ea73246091e1e80t2usaklc.html",
     "assets_path": "assets/3_Hackeou_o_espaço_alemão_fez_o_que_a_NASA_não_conse",
-    "zip_path": "assets/3_Hackeou_o_espaço_alemão_fez_o_que_a_NASA_não_conse/images.zip",
+    "zip_path": "assets/3_Hackeou_o_espaço_alemão_fez_o_que_a_NASA_não_conse/3_Hackeou_o_espaço_alemão_fez_o_que_a_NASA_não_conse.zip",
     "content": {
       "introduction": {
         "text": "Um satélite universitário falhou em órbita há 12 anos e foi hackeado por um estudante, mas conseguiu ser consertado após dois anos. O BEESAT-1, lançado em 2009, apresentou problemas de software que nunca foram resolvidos.",
@@ -245,7 +245,7 @@ const newsData = [
     "date": "2025-12-10T13:22:37Z",
     "url": "https://www.terra.com.br/byte/a-geracao-z-esta-perdendo-uma-habilidade-milenar-da-humanidade-a-fluencia-comunicativa,f5c8f8d2ccf18bd1a69bfde6384acdb0nwbd80hm.html",
     "assets_path": "assets/2_A_Geração_Z_está_perdendo_uma_habilidade_milenar_d",
-    "zip_path": "assets/2_A_Geração_Z_está_perdendo_uma_habilidade_milenar_d/images.zip",
+    "zip_path": "assets/2_A_Geração_Z_está_perdendo_uma_habilidade_milenar_d/2_A_Geração_Z_está_perdendo_uma_habilidade_milenar_d.zip",
     "content": {
       "introduction": {
         "text": "A Geração Z está abandonando habilidades de escrita e expressão clara, levantando questões sobre se é parte de uma transformação natural ou um problema que precisa ser enfrentado.",
@@ -275,7 +275,7 @@ const newsData = [
     "date": "2025-12-12T02:01:36+00:00",
     "url": "https://www.cartacapital.com.br/politica/lula-afirma-ter-dito-a-trump-que-nao-quer-guerra-na-america-latina/?utm_source=terra_capa_noticias&utm_medium=referral",
     "assets_path": "assets/1_Lula_afirma_ter_dito_a_Trump_que_não_quer_guerra_n",
-    "zip_path": "assets/1_Lula_afirma_ter_dito_a_Trump_que_não_quer_guerra_n/images.zip",
+    "zip_path": "assets/1_Lula_afirma_ter_dito_a_Trump_que_não_quer_guerra_n/1_Lula_afirma_ter_dito_a_Trump_que_não_quer_guerra_n.zip",
     "content": {
       "introduction": {
         "text": "O presidente Luiz Inácio Lula da Silva revelou que manifestou sua oposição a uma guerra na América Latina durante uma conversa com Donald Trump.",
