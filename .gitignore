@@ -1,0 +1,34 @@
+# Virtual Envs
+venv/
+venv12/
+venv312/
+.env
+.venv
+
+# Python
+__pycache__/
+*.pyc
+
+# Heavy Models
+*.safetensors
+*.ckpt
+*.bin
+data/models/
+data/images/
+
+# References & Tests (User requested exclusion)
+reference/
+referencia/
+tests/
+scrapers/tests/
+test_*
+*.png
+!data/**/*.png
+!docs/**/*.png
+
+# System
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log

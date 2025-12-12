@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FlashCards News Gallery</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body>
+    <header>
+        <h1>FlashCards News Gallery</h1>
+        <p>Latest generated news cards and assets</p>
+    </header>
+    
+    <main id="gallery" class="gallery">
+        <!-- Cards will be injected here by script.js -->
+    </main>
+
+    <!-- Modal for details -->
+    <div id="modal" class="modal hidden">
+        <div class="modal-content">
+            <span class="close-btn">&times;</span>
+            <div id="modal-body"></div>
+        </div>
+    </div>
+
+    <script src="data.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
