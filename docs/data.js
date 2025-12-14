@@ -1,5 +1,155 @@
 const newsData = [
   {
+    "id": "13_Moraes_autoriza_Bolsonaro_a_fazer_exame_médico_na_",
+    "title": "Moraes autoriza Bolsonaro a fazer exame médico na sede da Polícia Federal",
+    "date": null,
+    "url": "https://noticias.r7.com/brasilia/moraes-autoriza-bolsonaro-a-fazer-exame-medico-na-sede-da-policia-federal-13122025/",
+    "assets_path": "assets/13_Moraes_autoriza_Bolsonaro_a_fazer_exame_médico_na_",
+    "zip_path": "assets/13_Moraes_autoriza_Bolsonaro_a_fazer_exame_médico_na_/13_Moraes_autoriza_Bolsonaro_a_fazer_exame_médico_na_.zip",
+    "content": {
+      "introduction": {
+        "text": "O ministro Alexandre de Moraes autorizou o ex-presidente Jair Bolsonaro a realizar exames médicos na Superintendência da PF no Distrito Federal.",
+        "image": "introduction.png",
+        "prompt": "An older man with white beard and curly gray hair, looking at a clipboard, surrounded by PF symbols and DC-DF architecture"
+      },
+      "development": {
+        "text": "A decisão atende a um pedido da defesa, que solicitava permissão para o médico Bruno Luís Barbosa Cherulli realizar exames de ultrassonografia nas regiões inguinais do preso.",
+        "image": "development.png",
+        "prompt": "Bruno Luís Barbosa Cherulli in scrubs, examining a patient with an ultrasound machine in the background, with Jair Bolsonaro in the foreground, receiving medical attention"
+      },
+      "conclusion": {
+        "text": "A autorização permite que os médicos realizem visitas sem prévia comunicação, como determinado em decisões anteriores.",
+        "image": "conclusion.png",
+        "prompt": "A group of doctors in white coats, gathered around a hospital bed, with a figure of Jair Bolsonaro in the distance, undergoing medical treatment"
+      },
+      "general_summary": {
+        "image": "general_summary.png",
+        "prompt": "A graphic novel illustration depicting a man in a suit, holding a clipboard with medical equipment, standing next to a figure of Jair Bolsonaro."
+      },
+      "tiktok_summary": "O ex-presidente Jair Bolsonaro pode realizar exames médicos na Superintendência da PF no Distrito Federal. A decisão permite visitas sem prévia comunicação. #justiça #saúde #polícia\n\n🔗 https://noticias.r7.com/brasilia/moraes-autoriza-bolsonaro-a-fazer-exame-medico-na-sede-da-policia-federal-13122025/"
+    }
+  },
+  {
+    "id": "12_Tremor_de_terra_é_registrado_em_seis_cidades_de_Mi",
+    "title": "Tremor de terra é registrado em seis cidades de Minas Gerais",
+    "date": null,
+    "url": "https://noticias.r7.com/jr-na-tv/video/tremor-de-terra-e-registrado-em-seis-cidades-de-minas-gerais-14122025/",
+    "assets_path": "assets/12_Tremor_de_terra_é_registrado_em_seis_cidades_de_Mi",
+    "zip_path": "assets/12_Tremor_de_terra_é_registrado_em_seis_cidades_de_Mi/12_Tremor_de_terra_é_registrado_em_seis_cidades_de_Mi.zip",
+    "content": {
+      "introduction": {
+        "text": "A data específica no final do texto parece indicar um artigo de jornal atualizado, mas o conteúdo faltará.",
+        "image": "introduction.png",
+        "prompt": ""
+      },
+      "development": {
+        "text": "",
+        "image": "development.png",
+        "prompt": ""
+      },
+      "conclusion": {
+        "text": "",
+        "image": "conclusion.png",
+        "prompt": ""
+      },
+      "general_summary": {
+        "image": "general_summary.png",
+        "prompt": ""
+      },
+      "tiktok_summary": "Mystery no Data! Sem informações relevantes, essa data pode ser mais de um detalhe em uma história futura. #mysterydata #jornaldetalhes #datasecreto\n\n🔗 https://noticias.r7.com/jr-na-tv/video/tremor-de-terra-e-registrado-em-seis-cidades-de-minas-gerais-14122025/"
+    }
+  },
+  {
+    "id": "11_Atrás_de_saúde_segurança_supera_economia_e_vira_pr",
+    "title": "Atrás de saúde, segurança supera economia e vira principal problema do país para 16% da população, diz Datafolha",
+    "date": null,
+    "url": "https://valor.globo.com/brasil/noticia/2025/12/13/atrs-de-sade-segurana-supera-economia-e-vira-principal-problema-do-pas-para-16-pontos-percentuais-da-populao-diz-datafolha.ghtml",
+    "assets_path": "assets/11_Atrás_de_saúde_segurança_supera_economia_e_vira_pr",
+    "zip_path": "assets/11_Atrás_de_saúde_segurança_supera_economia_e_vira_pr/11_Atrás_de_saúde_segurança_supera_economia_e_vira_pr.zip",
+    "content": {
+      "introduction": {
+        "text": "O percentual de brasileiros que veem a segurança pública como o principal problema do país aumentou para 16%, de acordo com o instituto Datafolha.",
+        "image": "introduction.png",
+        "prompt": "Depict a crowded city street with worried citizens, highlighting the sense of insecurity and fear that's spreading rapidly across Brazil."
+      },
+      "development": {
+        "text": "A área da saúde é reconhecida como o maior gargalo nacional, citada por 20% da população, enquanto a economia é o principal problema para 11% dos entrevistados.",
+        "image": "development.png",
+        "prompt": "Show a doctor and nurse tending to an injured patient amidst a chaotic hospital environment, conveying the struggle for healthcare in Brazil."
+      },
+      "conclusion": {
+        "text": "Essa percepção se inverteu em comparação com o último Datafolha, e os especialistas relacionam isso à avaliação de que o Brasil está se tornando um país mais violento.",
+        "image": "conclusion.png",
+        "prompt": "Envision a dark and stormy night scene of people huddled together for safety, symbolizing the rising violence and fear that's engulfing Brazil."
+      },
+      "general_summary": {
+        "image": "general_summary.png",
+        "prompt": "Illustrate the growing concern for public safety in Brazil, emphasizing its impact on citizens' daily lives."
+      },
+      "tiktok_summary": "A segurança pública está atrás da saúde no índice dos principais problemas do país. A violência é citada como o maior problema pela população, e operações criminosas estão sendo realizadas para combater a organização criminosa. #violencia #seguridadpública #Brasil\n\n🔗 https://valor.globo.com/brasil/noticia/2025/12/13/atrs-de-sade-segurana-supera-economia-e-vira-principal-problema-do-pas-para-16-pontos-percentuais-da-populao-diz-datafolha.ghtml"
+    }
+  },
+  {
+    "id": "10_Decisão_de_Dino_sobre_corrupção_em_emendas_cita_24",
+    "title": "Decisão de Dino sobre corrupção em emendas cita 24 vezes Arthur Lira",
+    "date": null,
+    "url": "https://veja.abril.com.br/politica/decisao-de-dino-sobre-corrupcao-em-emendas-cita-24-vezes-arthur-lira/",
+    "assets_path": "assets/10_Decisão_de_Dino_sobre_corrupção_em_emendas_cita_24",
+    "zip_path": "assets/10_Decisão_de_Dino_sobre_corrupção_em_emendas_cita_24/10_Decisão_de_Dino_sobre_corrupção_em_emendas_cita_24.zip",
+    "content": {
+      "introduction": {
+        "text": "O ex-presidente da Câmara Arthur Lira não foi alvo da operação da PF, mas foi citado 24 vezes na decisão que autorizou a ação desta sexta-feira.",
+        "image": "introduction.png",
+        "prompt": "A figure of an older man with white beard and curly gray hair stands in front of a cityscape at dusk."
+      },
+      "development": {
+        "text": "O parlamentar alagoano é mencionado nos depoimentos de Glauber Braga e José Rocha, que deram suporte ao inquérito sobre o esquema. A assessora Tuca foi alvo de mandados de busca e apreensão.",
+        "image": "development.png",
+        "prompt": "The figure is seen walking through a crowded street, with people watching them from afar."
+      },
+      "conclusion": {
+        "text": "A operação da PF buscou apurar irregularidades na destinação de verbas públicas de emendas parlamentares. A decisão autorizou a ação, mas não mencionou o nome do ex-presidente da Câmara Arthur Lira como alvo.",
+        "image": "conclusion.png",
+        "prompt": "In the background, a blurred image of a parliament building looms large, symbolizing power and influence."
+      },
+      "general_summary": {
+        "image": "general_summary.png",
+        "prompt": "Stylized graphic novel scene with blurred background, focusing on a single figure in the foreground."
+      },
+      "tiktok_summary": "Operação da PF busca apurar irregularidades em emendas parlamentares. Depoimentos de Glauber Braga e José Rocha citam o ex-presidente da Câmara Arthur Lira, enquanto a assessora Tuca foi alvo de mandados de busca e apreensão.\n#Corrupção #PF #Câmara\n\n🔗 https://veja.abril.com.br/politica/decisao-de-dino-sobre-corrupcao-em-emendas-cita-24-vezes-arthur-lira/"
+    }
+  },
+  {
+    "id": "9_Deputado_relatou_à_PF_ameaça_de_Lira_por_verbas_do",
+    "title": "Deputado relatou à PF ameaça de Lira por verbas do orçamento secreto para Alagoas",
+    "date": null,
+    "url": "https://veja.abril.com.br/brasil/deputado-relatou-a-pf-ameaca-de-lira-por-verbas-do-orcamento-secreto-para-alagoas/",
+    "assets_path": "assets/9_Deputado_relatou_à_PF_ameaça_de_Lira_por_verbas_do",
+    "zip_path": "assets/9_Deputado_relatou_à_PF_ameaça_de_Lira_por_verbas_do/9_Deputado_relatou_à_PF_ameaça_de_Lira_por_verbas_do.zip",
+    "content": {
+      "introduction": {
+        "text": "O ministro Flávio Dino autorizou a operação da Polícia Federal contra uma ex-assessora de Arthur Lira, acusando 'indícios de execução irregular de emendas ao orçamento da União'.",
+        "image": "introduction.png",
+        "prompt": ""
+      },
+      "development": {
+        "text": "Depoimentos de parlamentares, como Glauber Braga e José Rocha, revelam pressões para liberar verbas do Ministério da Integração sem identificar autores ou beneficiários.",
+        "image": "development.png",
+        "prompt": ""
+      },
+      "conclusion": {
+        "text": "A Polícia Federal investiga 'montanha de dinheiro' em emendas parlamentares, enquanto Arthur Lira não foi alvo desta ação, embora seja citado 24 vezes na decisão de Dino.",
+        "image": "conclusion.png",
+        "prompt": ""
+      },
+      "general_summary": {
+        "image": "general_summary.png",
+        "prompt": ""
+      },
+      "tiktok_summary": "O ministro Flávio Dino autorizou a operação da Polícia Federal contra uma ex-assessora de Arthur Lira. Depoimentos de parlamentares revelam pressões para liberar verbas sem identificar autores ou beneficiários. #justiça #corrupção\n\n🔗 https://veja.abril.com.br/brasil/deputado-relatou-a-pf-ameaca-de-lira-por-verbas-do-orcamento-secreto-para-alagoas/"
+    }
+  },
+  {
     "id": "8_Sergio_Moro_um_difamador_contumaz",
     "title": "Sergio Moro: um difamador contumaz",
     "date": null,
