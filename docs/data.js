@@ -90,36 +90,6 @@ const newsData = [
     }
   },
   {
-    "id": "10_Decisão_de_Dino_sobre_corrupção_em_emendas_cita_24",
-    "title": "Decisão de Dino sobre corrupção em emendas cita 24 vezes Arthur Lira",
-    "date": null,
-    "url": "https://veja.abril.com.br/politica/decisao-de-dino-sobre-corrupcao-em-emendas-cita-24-vezes-arthur-lira/",
-    "assets_path": "assets/10_Decisão_de_Dino_sobre_corrupção_em_emendas_cita_24",
-    "zip_path": "assets/10_Decisão_de_Dino_sobre_corrupção_em_emendas_cita_24/10_Decisão_de_Dino_sobre_corrupção_em_emendas_cita_24.zip",
-    "content": {
-      "introduction": {
-        "text": "O ex-presidente da Câmara Arthur Lira não foi alvo da operação da PF, mas foi citado 24 vezes na decisão que autorizou a ação desta sexta-feira.",
-        "image": "introduction.png",
-        "prompt": "A figure of an older man with white beard and curly gray hair stands in front of a cityscape at dusk."
-      },
-      "development": {
-        "text": "O parlamentar alagoano é mencionado nos depoimentos de Glauber Braga e José Rocha, que deram suporte ao inquérito sobre o esquema. A assessora Tuca foi alvo de mandados de busca e apreensão.",
-        "image": "development.png",
-        "prompt": "The figure is seen walking through a crowded street, with people watching them from afar."
-      },
-      "conclusion": {
-        "text": "A operação da PF buscou apurar irregularidades na destinação de verbas públicas de emendas parlamentares. A decisão autorizou a ação, mas não mencionou o nome do ex-presidente da Câmara Arthur Lira como alvo.",
-        "image": "conclusion.png",
-        "prompt": "In the background, a blurred image of a parliament building looms large, symbolizing power and influence."
-      },
-      "general_summary": {
-        "image": "general_summary.png",
-        "prompt": "Stylized graphic novel scene with blurred background, focusing on a single figure in the foreground."
-      },
-      "tiktok_summary": "Operação da PF busca apurar irregularidades em emendas parlamentares. Depoimentos de Glauber Braga e José Rocha citam o ex-presidente da Câmara Arthur Lira, enquanto a assessora Tuca foi alvo de mandados de busca e apreensão.\n#Corrupção #PF #Câmara\n\n🔗 https://veja.abril.com.br/politica/decisao-de-dino-sobre-corrupcao-em-emendas-cita-24-vezes-arthur-lira/"
-    }
-  },
-  {
     "id": "9_Deputado_relatou_à_PF_ameaça_de_Lira_por_verbas_do",
     "title": "Deputado relatou à PF ameaça de Lira por verbas do orçamento secreto para Alagoas",
     "date": null,
