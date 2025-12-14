@@ -1,5 +1,125 @@
 const newsData = [
   {
+    "id": "16_Negócios",
+    "title": "Negócios",
+    "date": null,
+    "url": "https://exame.com/negocios/industria-aprendizagem-profissional-produtividade/",
+    "assets_path": "assets/16_Negócios",
+    "zip_path": "assets/16_Negócios/16_Negócios.zip",
+    "content": {
+      "introduction": {
+        "text": "O SENAI desenvolve trilhas formativas alinhadas a setores como logística, análise de dados e eletromecânica.",
+        "image": "introduction.png",
+        "prompt": "Young man with tool belt and goggles standing in front of a manufacturing line"
+      },
+      "development": {
+        "text": "A Aprendizagem Profissional é uma iniciativa do SENAI voltada a jovens entre 14 e 24 anos e pessoas com deficiência.",
+        "image": "development.png",
+        "prompt": "Industrial workshop with simulated machinery, apprentice hands-on training in progress"
+      },
+      "conclusion": {
+        "text": "O programa combina aulas práticas e teóricas com foco direto na rotina industrial, garantindo que o jovem aprenda em laboratórios e ambientes simulados.",
+        "image": "conclusion.png",
+        "prompt": "Person surrounded by diagrams, equations on a whiteboard, with industry equipment in the background"
+      },
+      "general_summary": {
+        "image": "general_summary.png",
+        "prompt": "Illustration of a young person learning in an industrial setting"
+      },
+      "tiktok_summary": ""
+    }
+  },
+  {
+    "id": "15_Brasil",
+    "title": "Brasil",
+    "date": null,
+    "url": "https://exame.com/brasil/procon-de-sp-notifica-uber-e-99-por-precos-abusivos/",
+    "assets_path": "assets/15_Brasil",
+    "zip_path": "assets/15_Brasil/15_Brasil.zip",
+    "content": {
+      "introduction": {
+        "text": "A Prefeitura de São Paulo notificou Uber e 99 por preços abusivos em corridas solicitadas por aplicativos na capital paulista.",
+        "image": "introduction.png",
+        "prompt": "A dramatic cityscape with a bold 'Price Fixing' banner above a crowded Uber and 99 logo."
+      },
+      "development": {
+        "text": "O Procon Paulistano questiona a política de precificação dinâmica utilizada pelas plataformas, alegando que há indícios de violação do Código de Defesa do Consumidor.",
+        "image": "development.png",
+        "prompt": "Protesters gathered around a city official, emphasizing the impact of price gouging on everyday commuters."
+      },
+      "conclusion": {
+        "text": "As empresas têm 10 dias para apresentar uma resposta. O não atendimento pode resultar em sanções administrativas, incluindo multa e suspensão temporária da atividade.",
+        "image": "conclusion.png",
+        "prompt": "Law enforcement officers intervene in the scene to maintain order while highlighting the urgent need for regulation."
+      },
+      "general_summary": {
+        "image": "general_summary.png",
+        "prompt": "Action-packed illustration of a protest against price gouging by ride-hailing services in São Paulo."
+      },
+      "tiktok_summary": "Preços abusivos em corridas de aplicativo! A Prefeitura de São Paulo questiona a política das empresas. #justiçaconsumidor #precosabusivos\n\n🔗 https://exame.com/brasil/procon-de-sp-notifica-uber-e-99-por-precos-abusivos/"
+    }
+  },
+  {
+    "id": "14_A_candidatura_é_viável_diz_Flávio_Bolsonaro_em_ent",
+    "title": "‘A candidatura é viável’, diz Flávio Bolsonaro em entrevista a VEJA",
+    "date": null,
+    "url": "https://veja.abril.com.br/brasil/a-candidatura-e-viavel-diz-flavio-bolsonaro-em-entrevista-a-veja/",
+    "assets_path": "assets/14_A_candidatura_é_viável_diz_Flávio_Bolsonaro_em_ent",
+    "zip_path": "assets/14_A_candidatura_é_viável_diz_Flávio_Bolsonaro_em_ent/14_A_candidatura_é_viável_diz_Flávio_Bolsonaro_em_ent.zip",
+    "content": {
+      "introduction": {
+        "text": "Flávio Bolsonaro entra na corrida ao Planalto e espalha incertezas entre aliados.",
+        "image": "introduction.png",
+        "prompt": "Flávio Bolsonaro enters the presidential race, spreading uncertainty among allies."
+      },
+      "development": {
+        "text": "Bolsonaro defende sua candidatura, afirmando que é irreversível e está colocada. Ele critica o Centrão por tentar minar sua pré-candidatura, mas acredita que suas convicções vão ser aceitas pelas lideranças.",
+        "image": "development.png",
+        "prompt": "Bolsonaro defends his candidacy, saying it's irreversible and has been placed. He criticizes the Centrão for trying to undermine his preliminary candidacy but believes his convictions will be accepted by leaders."
+      },
+      "conclusion": {
+        "text": "A direita corre o risco de ir fragmentada contra Lula com Flávio Bolsonaro à mesa. Ele defende uma chapa com Tarcísio de Freitas, mas acredita que é um desperdício.",
+        "image": "conclusion.png",
+        "prompt": "The right risks splintering if Flávio Bolsonaro sits down with Lula, with a unified ticket with Tarcísio de Freitas being deemed unnecessary."
+      },
+      "general_summary": {
+        "image": "general_summary.png",
+        "prompt": "A graphic novel illustration depicts a dramatic moment in Brazilian politics."
+      },
+      "tiktok_summary": ""
+    }
+  },
+  {
+    "id": "13_Agente_infiltrado_de_Moro_quer_entrar_em_programa_",
+    "title": "‘Agente infiltrado’ de Moro quer entrar em programa de proteção à testemunha",
+    "date": null,
+    "url": "https://veja.abril.com.br/politica/agente-infiltrado-de-moro-quer-entrar-em-programa-de-protecao-a-testemunha/",
+    "assets_path": "assets/13_Agente_infiltrado_de_Moro_quer_entrar_em_programa_",
+    "zip_path": "assets/13_Agente_infiltrado_de_Moro_quer_entrar_em_programa_/13_Agente_infiltrado_de_Moro_quer_entrar_em_programa_.zip",
+    "content": {
+      "introduction": {
+        "text": "O ex-deputado estadual Tony Garcia pediu proteção como testemunha após acusações contra o senador Sergio Moro.",
+        "image": "introduction.png",
+        "prompt": "A close-up portrait of Tony Garcia, an older man with white beard and curly gray hair, looking worried and concerned, with a faint hint of desperation in his eyes."
+      },
+      "development": {
+        "text": "Garcia alega ter sido 'agente infiltrado' de Moro por 20 anos e ter visto vídeos obtidos clandestinamente para chantagear desembargadores que decidiriam a liberdade de Lula na Lava-Jato.",
+        "image": "development.png",
+        "prompt": "A split-screen image showing Sergio Moro as an older man with blond hair and blue tie, on one side, and Tony Garcia as the same older man with white beard and curly gray hair, but with a dark cloak draped over him, surrounded by shadowy figures with sinister intentions."
+      },
+      "conclusion": {
+        "text": "Sergio Moro negou qualquer irregularidade, mas Garcia afirma suas revelações serão 'piores do que a Vaza-Jato'.",
+        "image": "conclusion.png",
+        "prompt": "A dramatic illustration of the courtroom scene from different angles, with Sergio Moro and Tony Garcia at opposite ends of the table, both looking directly at the viewer with intense emotions, as if the fate of Lula's freedom hangs in the balance."
+      },
+      "general_summary": {
+        "image": "general_summary.png",
+        "prompt": "A graphic novel illustration depicting a dramatic courtroom scene with Sergio Moro and Tony Garcia facing each other, with intense emotions and a hint of conspiracy."
+      },
+      "tiktok_summary": "O ex-deputado Tony Garcia pede proteção como testemunha após acusações contra o senador Sergio Moro. #corrupção #LavaJato #Moro\n\n🔗 https://veja.abril.com.br/politica/agente-infiltrado-de-moro-quer-entrar-em-programa-de-protecao-a-testemunha/"
+    }
+  },
+  {
     "id": "12_Tremor_de_terra_é_registrado_em_seis_cidades_de_Mi",
     "title": "Tremor de terra é registrado em seis cidades de Minas Gerais",
     "date": null,
