@@ -1,5 +1,35 @@
 const newsData = [
   {
+    "id": "34_Nunca_vou_ser_boa_o_suficiente_para_a_minha_mãe_se",
+    "title": "'Nunca vou ser boa o suficiente para a minha mãe se eu não for magra': a dor e a solidão da obesidade",
+    "date": null,
+    "url": "https://www.terra.com.br/vida-e-estilo/saude/nunca-vou-ser-boa-o-suficiente-para-a-minha-mae-se-eu-nao-for-magra-a-dor-e-a-solidao-da-obesidade,2204bc3c62fffdb01ad2abdfe606efccimpgz85j.html",
+    "assets_path": "assets/34_Nunca_vou_ser_boa_o_suficiente_para_a_minha_mãe_se",
+    "zip_path": "assets/34_Nunca_vou_ser_boa_o_suficiente_para_a_minha_mãe_se/34_Nunca_vou_ser_boa_o_suficiente_para_a_minha_mãe_se.zip",
+    "content": {
+      "introduction": {
+        "text": "Uma jovem produtora paulista enfrenta pressão social e familiar para alcançar o 'peso ideal'.",
+        "image": "introduction.png",
+        "prompt": "A Brazilian palm tree under a bright full moon, representing the dawn of a new journey."
+      },
+      "development": {
+        "text": "Anita foi submetida a dietas restritivas desde os 12 anos, sentindo-se inferior e incomparável às amigas. Ela passou por várias tentativas de emagrecimento, incluindo uma caneta injetável que teve um efeito adverso.",
+        "image": "development.png",
+        "prompt": "A scale of justice with broken chains and shattered scales, conveying the struggle for freedom from societal expectations."
+      },
+      "conclusion": {
+        "text": "Anita busca autoaceitação após anos de luta contra a obesidade. Ela buscou acompanhamento nutricional especializado em transtornos alimentares e agora trabalha para reconstruir sua autoestima.",
+        "image": "conclusion.png",
+        "prompt": "A blooming garden within a cityscape, signifying the blossoming of self-love and acceptance after years of turmoil."
+      },
+      "general_summary": {
+        "image": "general_summary.png",
+        "prompt": "A modern skyscraper surrounded by blooming flowers, symbolizing inner growth and self-acceptance."
+      },
+      "tiktok_summary": ""
+    }
+  },
+  {
     "id": "33_Saiba_por_que_o_padre_Fábio_de_Melo_foi_denunciado",
     "title": "Saiba por que o padre Fábio de Melo foi denunciado ao Vaticano",
     "date": "2025-12-15T08:28:07Z",
@@ -507,36 +537,6 @@ const newsData = [
         "prompt": "Modernist university building with a shattered mirror reflecting a broken scale of justice, dramatic lighting"
       },
       "tiktok_summary": "O cancelamento da USP é um alerta sobre a persistência do autoritarismo no Brasil! Não podemos permitir que os estudantes e professores sejam perseguidos sem processos justos. #Democracia #JustiçaSocial\n\n🔗 https://www.brasil247.com/blog/cancelamento-praticado-pela-usp-faz-lembrar-atuacao-na-ditadura"
-    }
-  },
-  {
-    "id": "15_Brasil",
-    "title": "Brasil",
-    "date": null,
-    "url": "https://exame.com/brasil/procon-de-sp-notifica-uber-e-99-por-precos-abusivos/",
-    "assets_path": "assets/15_Brasil",
-    "zip_path": "assets/15_Brasil/15_Brasil.zip",
-    "content": {
-      "introduction": {
-        "text": "A Prefeitura de São Paulo notificou Uber e 99 por preços abusivos em corridas solicitadas por aplicativos na capital paulista.",
-        "image": "introduction.png",
-        "prompt": "A dramatic cityscape with a bold 'Price Fixing' banner above a crowded Uber and 99 logo."
-      },
-      "development": {
-        "text": "O Procon Paulistano questiona a política de precificação dinâmica utilizada pelas plataformas, alegando que há indícios de violação do Código de Defesa do Consumidor.",
-        "image": "development.png",
-        "prompt": "Protesters gathered around a city official, emphasizing the impact of price gouging on everyday commuters."
-      },
-      "conclusion": {
-        "text": "As empresas têm 10 dias para apresentar uma resposta. O não atendimento pode resultar em sanções administrativas, incluindo multa e suspensão temporária da atividade.",
-        "image": "conclusion.png",
-        "prompt": "Law enforcement officers intervene in the scene to maintain order while highlighting the urgent need for regulation."
-      },
-      "general_summary": {
-        "image": "general_summary.png",
-        "prompt": "Action-packed illustration of a protest against price gouging by ride-hailing services in São Paulo."
-      },
-      "tiktok_summary": "Preços abusivos em corridas de aplicativo! A Prefeitura de São Paulo questiona a política das empresas. #justiçaconsumidor #precosabusivos\n\n🔗 https://exame.com/brasil/procon-de-sp-notifica-uber-e-99-por-precos-abusivos/"
     }
   },
   {
