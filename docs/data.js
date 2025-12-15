@@ -180,36 +180,6 @@ const newsData = [
     }
   },
   {
-    "id": "28_Negócios",
-    "title": "Negócios",
-    "date": null,
-    "url": "https://exame.com/negocios/industria-aprendizagem-profissional-produtividade/",
-    "assets_path": "assets/28_Negócios",
-    "zip_path": "assets/28_Negócios/28_Negócios.zip",
-    "content": {
-      "introduction": {
-        "text": "O SENAI desenvolve trilhas formativas alinhadas a setores como logística, análise de dados, eletromecânica e mais.",
-        "image": "introduction.png",
-        "prompt": "A SENAI branch interior, diverse students participating in a group project."
-      },
-      "development": {
-        "text": "Empresas recorrem ao modelo para suprir a falta de profissionais qualificados e reduzir custos com recrutamento e treinamento.",
-        "image": "development.png",
-        "prompt": "Trained professionals at a company's logistics department, surrounded by equipment and machinery."
-      },
-      "conclusion": {
-        "text": "O SENAI combina formação gratuita, orientação contínua e acompanhamento do desempenho para criar um pipeline de talentos preparado para crescer na carreira industrial.",
-        "image": "conclusion.png",
-        "prompt": "A young professional standing confidently at a desk, with a cityscape of an industrial area in the background."
-      },
-      "general_summary": {
-        "image": "general_summary.png",
-        "prompt": "A bustling training facility with modern architecture, graduates working in various industrial sectors."
-      },
-      "tiktok_summary": ""
-    }
-  },
-  {
     "id": "27_Trump_faz_alusão_a_uma_possível_derrota_republican",
     "title": "Trump faz alusão a uma possível derrota republicana nas legislativas de 2026",
     "date": null,
