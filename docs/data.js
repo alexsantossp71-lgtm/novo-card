@@ -1,5 +1,35 @@
 const newsData = [
   {
+    "id": "35_Lula_parabeniza_Kast_por_vitória_no_Chile_Seguirem",
+    "title": "Lula parabeniza Kast por vitória no Chile: 'Seguiremos trabalhando com o novo governo'",
+    "date": "2025-12-15T07:34:09Z",
+    "url": "https://www.terra.com.br/noticias/brasil/politica/lula/lula-parabeniza-kast-por-vitoria-no-chile-seguiremos-trabalhando-com-o-novo-governo,2e058aa62c08df1fb67cf00aeee6bcc0s5lwnazw.html",
+    "assets_path": "assets/35_Lula_parabeniza_Kast_por_vitória_no_Chile_Seguirem",
+    "zip_path": "assets/35_Lula_parabeniza_Kast_por_vitória_no_Chile_Seguirem/35_Lula_parabeniza_Kast_por_vitória_no_Chile_Seguirem.zip",
+    "content": {
+      "introduction": {
+        "text": "O presidente brasileiro Luiz Inácio Lula da Silva parabenizou a vitória do conservador José Antonio Kast na eleição presidencial chilena.",
+        "image": "introduction.png",
+        "prompt": "Close-up of Brazilian flag waving in front of congress building at sunrise"
+      },
+      "development": {
+        "text": "Lula desejou 'pleno êxito' ao novo governo e afirmou que o Brasil pretende manter e aprofundar a relação com Chile, em favor do fortalecimento das relações bilaterais e da integração regional.",
+        "image": "development.png",
+        "prompt": "lula, man, looking at electoral symbols on ballot box in voting booth, brazilian landscape behind"
+      },
+      "conclusion": {
+        "text": "A eleição de Kast marca a volta da direita ao poder no Chile após quatro anos de governo de esquerda, e sinaliza o início do reposicionamento político do país no cenário sul-americano.",
+        "image": "conclusion.png",
+        "prompt": "Supreme court facade with scales of justice, cinematic composition"
+      },
+      "general_summary": {
+        "image": "general_summary.png",
+        "prompt": "Brazilian president lula, man, shaking hands with chilean president kast in congress building"
+      },
+      "tiktok_summary": ""
+    }
+  },
+  {
     "id": "34_Nunca_vou_ser_boa_o_suficiente_para_a_minha_mãe_se",
     "title": "'Nunca vou ser boa o suficiente para a minha mãe se eu não for magra': a dor e a solidão da obesidade",
     "date": null,
@@ -10,21 +40,21 @@ const newsData = [
       "introduction": {
         "text": "Uma jovem produtora paulista enfrenta pressão social e familiar para alcançar o 'peso ideal'.",
         "image": "introduction.png",
-        "prompt": "A Brazilian palm tree under a bright full moon, representing the dawn of a new journey."
+        "prompt": "A young woman, sitting at a vanity, looking in the mirror with a mix of sadness and determination."
       },
       "development": {
         "text": "Anita foi submetida a dietas restritivas desde os 12 anos, sentindo-se inferior e incomparável às amigas. Ela passou por várias tentativas de emagrecimento, incluindo uma caneta injetável que teve um efeito adverso.",
         "image": "development.png",
-        "prompt": "A scale of justice with broken chains and shattered scales, conveying the struggle for freedom from societal expectations."
+        "prompt": "Anita, surrounded by empty food packaging, tears streaming down her face, symbolizing her inner struggle."
       },
       "conclusion": {
         "text": "Anita busca autoaceitação após anos de luta contra a obesidade. Ela buscou acompanhamento nutricional especializado em transtornos alimentares e agora trabalha para reconstruir sua autoestima.",
         "image": "conclusion.png",
-        "prompt": "A blooming garden within a cityscape, signifying the blossoming of self-love and acceptance after years of turmoil."
+        "prompt": "Anita, standing in front of a bright sunrise, holding a plate of nutritious food, radiating confidence and self-acceptance."
       },
       "general_summary": {
         "image": "general_summary.png",
-        "prompt": "A modern skyscraper surrounded by blooming flowers, symbolizing inner growth and self-acceptance."
+        "prompt": "Young Brazilian woman, embracing her curves in a lush green forest."
       },
       "tiktok_summary": ""
     }
@@ -40,21 +70,21 @@ const newsData = [
       "introduction": {
         "text": "Uma série de fotos em Instagram mostram uma pessoa segurando um cartão de crédito, com a legenda 'Não faça isso!' em português.",
         "image": "introduction.png",
-        "prompt": "Vault door with a 'do not enter' symbol, neon lights at dusk"
+        "prompt": "\"No faça isso!\" warning sign on a city street, with tall skyscrapers and busy streets."
       },
       "development": {
         "text": "A foto foi postada por um usuário chamado @pefabiodemelo, que alega ter recebido o cartão por engano e se sente 'uma vítima' de uma fraude financeira.",
         "image": "development.png",
-        "prompt": "Bank vault with locked doors, glowing red security cameras"
+        "prompt": "User @pefabiodemelo standing in front of a computer, looking concerned, with a blurred background of financial documents."
       },
       "conclusion": {
         "text": "O caso é uma leção sobre a importância da verificação das contas bancárias antes de aceitá-las.",
         "image": "conclusion.png",
-        "prompt": "Financial district skyscraper with a scales of justice on its side wall"
+        "prompt": "An image of the Brazilian flag with scales of justice balancing it, symbolizing financial responsibility."
       },
       "general_summary": {
         "image": "general_summary.png",
-        "prompt": "Abandoned warehouse with a broken credit card and 'danger' warning sign, dark alleys"
+        "prompt": "A person holding a credit card with a 'don't do this!' message in Portuguese, amidst a backdrop of modern architecture."
       },
       "tiktok_summary": "Você já teve um momento assim? Não faça isso! #FRAUDEFINANCEIRA #VERIFICAASCONTAS #SEGURO\n\n🔗 https://www.terra.com.br/amp/story/noticias/saiba-por-que-o-padre-fabio-de-melo-foi-denunciado-ao-vaticano,8efe57a4fdc43f0659daa96927b83e8d0frfhigh.html"
     }
@@ -70,21 +100,21 @@ const newsData = [
       "introduction": {
         "text": "O deputado Nikolas Ferreira cetece sobre a candidatura de Flávio Bolsonaro ao Palácio do Planalto em 2026.",
         "image": "introduction.png",
-        "prompt": "Giant Brazilian flag unfurling before a grand, modern architecture backdrop"
+        "prompt": "A Brazilian politician stands alone at the presidential desk, looking out over the Brazilian flag backdrop"
       },
       "development": {
         "text": "O deputado mineiro avalia que Ratinho Júnior seria mais competitivo, com o apoio do pai e apresentador Carlos Roberto Massa.",
         "image": "development.png",
-        "prompt": "Justice scales against a backdrop of rising financial markets, with democratic ideals in balance"
+        "prompt": "Two men stand on either side of a large map of Brazil, arguing behind their hands"
       },
       "conclusion": {
         "text": "Nikolas prevê que Flávio não decolaria, enquanto Ratinho Júnior atrairia apoio das classes mais populares.",
         "image": "conclusion.png",
-        "prompt": "Ratinho Junior's triumphant march under a bright, patriotic sun, amidst the cityscape"
+        "prompt": "A giant scale tips to one side as justice symbols fall from the sky above it"
       },
       "general_summary": {
         "image": "general_summary.png",
-        "prompt": "Brazilian flags at the Palace of Planalto, symbolizing the country's political landscape"
+        "prompt": "Brazilian politicians gathered around a table with flags waving, serious faces in a modern conference room"
       },
       "tiktok_summary": "Flávio Bolsonaro não vai ao Planalto? Ratinho Júnior pode ser o novo candidato! #Bolsonaro #RatinhoJr #Política\n\n🔗 https://www.metropoles.com/colunas/igor-gadelha/se-flavio-nao-decolar-nikolas-aposta-em-outro-candidato-da-direita"
     }
@@ -100,21 +130,21 @@ const newsData = [
       "introduction": {
         "text": "O deputado Nikolas Ferreira expressou ceticismo sobre a candidatura do senador Flávio Bolsonaro ao Palácio do Planalto em 2026.",
         "image": "introduction.png",
-        "prompt": "Brazilian flags waving above a historic building, majestic architecture"
+        "prompt": "A deputado Nikolas Ferreira stands in front of a backdrop of the Palacio do Planalto, looking concerned"
       },
       "development": {
         "text": "O deputado mineiro avaliou que o governador paranaense Ratinho Júnior seria mais competitivo, com a ajuda do pai e apresentador Carlos Roberto Massa.",
         "image": "development.png",
-        "prompt": "Scales of justice hanging from a bridge, symbolizing debate and competition"
+        "prompt": "A young politician, flanked by supporters, addresses a crowd on the Senate floor, with Ratinho Junior in the shadows"
       },
       "conclusion": {
         "text": "Nikolas prevê que Flávio Bolsonaro não decolaria na candidatura, enquanto Ratinho Júnior é visto como uma alternativa viável.",
         "image": "conclusion.png",
-        "prompt": "A lone figure standing on a mountain peak, looking out at a sea of flags"
+        "prompt": "Flávio Military Parade stands alone on the steps of Congress Building, with Brazilian flags fluttering in the wind"
       },
       "general_summary": {
         "image": "general_summary.png",
-        "prompt": "Senate floor with rows of pillars and a flag-raising ceremony, dramatic lighting"
+        "prompt": "Vibrant congressional hall with a balance scale, surrounded by Brazilian flags and banners"
       },
       "tiktok_summary": "Pode ser o fim de Flávio? O deputado Nikolas Ferreira desmente a candidatura do senador e destaca Ratinho Júnior como um possível rival. #Bolsonaro #RatinhoJúnior #PolíticaBrasileira\n\n🔗 https://www.metropoles.com/colunas/igor-gadelha/se-flavio-nao-decolar-nikolas-aposta-em-outro-candidato-da-direita"
     }
@@ -130,21 +160,21 @@ const newsData = [
       "introduction": {
         "text": "O Tribunal de Justiça do Paraná (TJPR) condenou a Crefisa SA por impor juros superiores a 1.000% ao ano aos empréstimos concedidos a uma mulher de 74 anos.",
         "image": "introduction.png",
-        "prompt": "Dramatic courthouse building at dawn, with symbols of justice in the foreground."
+        "prompt": "A close-up of a woman's face, highlighting determination and age, set amidst a serene Brazilian landscape."
       },
       "development": {
         "text": "A aposentada argumentou que os juros eram abusivos e que as taxas acima da média do Banco Central se justificavam por operar em mercado de alto risco. A Crefisa defendeu que as taxas eram legais e proporcional à chance de inadimplência.",
         "image": "development.png",
-        "prompt": "Marketplace scene with high-risk stocks displayed on screens, amidst a backdrop of skyscrapers."
+        "prompt": "The woman sits in court, with a judge wielding a judicial hammer, as she makes her case about unfair interest rates."
       },
       "conclusion": {
         "text": "O TJPR revisou as taxas de juros para a média praticada no mercado financeiro, mas negou a restituição em dobro e a indenização por dano moral. A sentença foi mantida após recurso da Crefisa.",
         "image": "conclusion.png",
-        "prompt": "Secluded chamber with a solitary scale weighing justice and greed, illuminated by a single candle."
+        "prompt": "The Supreme Court's decision is revealed on a large screen, with scales of justice hanging above, casting a somber tone."
       },
       "general_summary": {
         "image": "general_summary.png",
-        "prompt": "Ancient temple surrounded by scales of justice, with a judicial hammer at its base."
+        "prompt": "An elderly woman stands before a courthouse, symbolizing her fight for justice against high-interest loans."
       },
       "tiktok_summary": "Uma mulher de 74 anos foi condenada a pagar juros superiores a 1.000% ao ano aos empréstimos concedidos pela Crefisa SA. O Tribunal de Justiça do Paraná revisou as taxas de juros, mas não aceitou as demandas da aposentada.\n#justiça #crefisa #empregos\n\n🔗 https://www.metropoles.com/colunas/tacio-lorran/crefisa-e-condenada-apos-cobrar-juros-de-1-082-de-idosa"
     }
@@ -160,21 +190,21 @@ const newsData = [
       "introduction": {
         "text": "O Tribunal de Justiça do Paran¡ (TJPR) condenou a Crefisa SA por impor juros superiores a 1000% ao ano na Çia de uma mulher de 74 anos.",
         "image": "introduction.png",
-        "prompt": "Ancient temple ruins with broken scales of justice, symbolizing the breakdown of fairness in finance"
+        "prompt": "Scene of woman in her 70s holding ' Creedisa' sign outside courthouse, symbolizing financial hardship."
       },
       "development": {
         "text": "A época foi marcada por denúncias de juros abusivos, com a instituiõó financeira argumentando que as taxas se justificam por operar em mercado de alto risco. A Crefisa recorreu da sentença, mas o TJPR manteve a decisão.",
         "image": "development.png",
-        "prompt": "Stock market graph on crumbling stone walls, as a woman stands amidst a swirling storm of paper money and symbols"
+        "prompt": "Judge delivering verdict from bench amidst financial documents, conveying abusiveness in interest rates."
       },
       "conclusion": {
         "text": "A condena destaca a importáncia de proteger os consumidores e garantir justi§a nos contratos financeiros. A Crefisa pode ser fortemente punida, mas a sentença tambîm traz questionamentos sobre as práticas das instituiõões financeiras.",
         "image": "conclusion.png",
-        "prompt": "A solitary judicial hammer strikes down a massive weight, representing the crushing of excessive interest rates"
+        "prompt": "Supreme Court building with scales of justice prominently displayed, emphasizing importance of fair contracts."
       },
       "general_summary": {
         "image": "general_summary.png",
-        "prompt": "Court building with scales of justice and judicial hammer, surrounded by dense forest and misty atmosphere"
+        "prompt": "Courtroom scene with judge presiding over case, symbolizing justice and consumer protection."
       },
       "tiktok_summary": ""
     }
@@ -190,21 +220,21 @@ const newsData = [
       "introduction": {
         "text": "O SENAI desenvolve trilhas formativas alinhadas a setores como logística, análise de dados, eletromecânica e mais.",
         "image": "introduction.png",
-        "prompt": "Ancient temple entrance with scales of justice, representing the foundation of training programs."
+        "prompt": "A SENAI branch interior, diverse students participating in a group project."
       },
       "development": {
         "text": "Empresas recorrem ao modelo para suprir a falta de profissionais qualificados e reduzir custos com recrutamento e treinamento.",
         "image": "development.png",
-        "prompt": "Abandoned factory door with gears and tools, depicting the pipeline of talent formation."
+        "prompt": "Trained professionals at a company's logistics department, surrounded by equipment and machinery."
       },
       "conclusion": {
         "text": "O SENAI combina formação gratuita, orientação contínua e acompanhamento do desempenho para criar um pipeline de talentos preparado para crescer na carreira industrial.",
         "image": "conclusion.png",
-        "prompt": "Sunset over a city's main square, with a growing lightbulb symbolizing career growth."
+        "prompt": "A young professional standing confidently at a desk, with a cityscape of an industrial area in the background."
       },
       "general_summary": {
         "image": "general_summary.png",
-        "prompt": "Modern cityscape at dusk with towering skyscrapers, a symbol of professional growth and development."
+        "prompt": "A bustling training facility with modern architecture, graduates working in various industrial sectors."
       },
       "tiktok_summary": ""
     }
@@ -220,21 +250,21 @@ const newsData = [
       "introduction": {
         "text": "Donald Trump insinua que os republicanos podem perder as eleições legislativas de meio mandato em 2026, apesar de ter exaltado a maior economia da história.",
         "image": "introduction.png",
-        "prompt": "American flag waving in front of the White House at dawn, with a subtle hint of turmoil beneath"
+        "prompt": "A man in a suit stands on the White House lawn, American flag waving behind him."
       },
       "development": {
         "text": "Trump afirma que a inflação está em boa forma e que as pessoas não entenderão o impacto até a próxima eleição. Ele também destaca a criação de empregos e investimentos em fábricas, IA e outras áreas.",
         "image": "development.png",
-        "prompt": "Scales of justice hanging from the Washington Monument, with a faint image of the American flag fluttering around them"
+        "prompt": "The economist walks through a bustling city street lined with office buildings and construction sites."
       },
       "conclusion": {
         "text": "A pesquisa da Universidade de Chicago mostra que apenas 31% dos americanos aprovam a gestão econômica de Trump. Ele afirma ter criado a maior economia sem inflação, mas as pessoas ainda não entendem o impacto de suas políticas.",
         "image": "conclusion.png",
-        "prompt": "Financial district skyline at dusk, with the words \"Uncertainty Looms\" etched across the screen in bold, red letters"
+        "prompt": "A person sits at a desk, surrounded by charts and graphs, looking concerned."
       },
       "general_summary": {
         "image": "general_summary.png",
-        "prompt": "Stock market graph rising above financial district skyline, dynamic lighting"
+        "prompt": "Economist stands in front of a stock market graph, surrounded by financial district skyscrapers."
       },
       "tiktok_summary": "O presidente Donald Trump insinua que os republicanos podem perder as eleições legislativas de 2026! Ele afirma que a inflação está em boa forma e que as pessoas não entenderão o impacto até a próxima eleição. #Trump #Eleições #Economia\n\n🔗 https://www.correiobraziliense.com.br/mundo/2025/12/7313769-trump-faz-alusao-a-uma-possivel-derrota-republicana-nas-legislativas-de-2026.html"
     }
@@ -250,21 +280,21 @@ const newsData = [
       "introduction": {
         "text": "Caetano Veloso promove ato musical contra PL da Dosimetria em Copacabana.",
         "image": "introduction.png",
-        "prompt": "Dramatic, graphic novel-style scene depicting a protest in Copacabana, Brazil"
+        "prompt": "Gibrat Graphic Novel illustration, detailed, dramatic lighting. Caetano Veloso at a microphone in Copacabana, Brazil during the 'Ato Musical' protest."
       },
       "development": {
         "text": "O artista performou a música Gente, que fala sobre dignidade humana e desigualdade no Brasil. Caetano também defende mobilização de novas gerações e respeito ao Brasil.",
         "image": "development.png",
-        "prompt": "Stock market graph unfolding like a scroll, conveying inequality and injustice"
+        "prompt": "Symbolic scene of 'Gente' music performance at Congress building, highlighting human dignity and inequality in modern Brazilian architecture"
       },
       "conclusion": {
         "text": "A atuação é contra a proteção de deputados e senadores em processos criminais, além da vida digna de mulheres e crianças.",
         "image": "conclusion.png",
-        "prompt": "Supreme court facade with inverted scales of justice, symbolizing resistance"
+        "prompt": "Brazilian flag with scales of justice breaking free from government cage, symbolizing women's and children's life dignity"
       },
       "general_summary": {
         "image": "general_summary.png",
-        "prompt": "Brazilian congress building with outstretched scales of justice at sunset, dramatic lighting"
+        "prompt": "A dramatic image representing the main theme of social justice, dignity, and resistance against corruption and inequality"
       },
       "tiktok_summary": "Caetano Veloso lidera protesto contra PL da Dosimetria em Copacabana! #FrentePopular #DireitosHumanos #MúsicaP popular\n\n🔗 https://www.correiobraziliense.com.br/brasil/2025/12/7313899-caetano-veloso-canta-gente-em-ato-musical-contra-o-pl-da-dosimetria.html"
     }
@@ -280,21 +310,21 @@ const newsData = [
       "introduction": {
         "text": "O governo federal e o sistema financeiro lançaram uma nova ofensiva contra fraudes digitais no país.",
         "image": "introduction.png",
-        "prompt": "Ally symbol formation in a financial district landscape"
+        "prompt": "Government office building with a large flag waving in the background, people gathered around a conference table."
       },
       "development": {
         "text": "O Ministério da Justiça e Segurança Pública (MJSP) e entidades do setor financeiro criaram a Aliança Nacional de Combate a Fraudes Bancárias Digitais. O Banco Central (BC) também anunciou novas medidas para dificultar a abertura de contas falsas.",
         "image": "development.png",
-        "prompt": "Scales of justice towering over a futuristic financial tower"
+        "prompt": "Banking executive standing at a podium, speaking to an audience in a packed auditorium."
       },
       "conclusion": {
         "text": "O plano se apoia em seis pilares e inclui o uso do BC Protege, um novo sistema que permite aos clientes bloquear a abertura de contas em seus nomes.",
         "image": "conclusion.png",
-        "prompt": "Digital blockade forming around a skyscraper with bc protege logo"
+        "prompt": "Judge wielding a gavel, standing behind a desk with a courthouse facade as a backdrop."
       },
       "general_summary": {
         "image": "general_summary.png",
-        "prompt": "Courthouse with scales of justice and judicial hammer in foreground, set against a cityscape at dusk"
+        "prompt": "Courtroom filled with bankers and officials, surrounded by scales of justice."
       },
       "tiktok_summary": ""
     }
@@ -310,21 +340,21 @@ const newsData = [
       "introduction": {
         "text": "A deputada federal Carla Zambelli renunciou ao mandato à Presidência da Câmara dos Deputados",
         "image": "introduction.png",
-        "prompt": "A lone figure stands before a grand neoclassical building, symbolizing governance."
+        "prompt": "Deputada Carla Zambelli stands alone in a dimly lit, empty congressional chamber, looking determined and resolute."
       },
       "development": {
         "text": "Zambelli justificou a renúncia com base no artigo 55 da Constituição e afirma que o procedimento legislativo foi observado. Ela critica a decisão do STF que determinou a perda do mandato.",
         "image": "development.png",
-        "prompt": "Scales of justice hang from the courthouse's pediment, with the shadows of two figures below, representing balance and law."
+        "prompt": "Carla Zambelli sits at her desk, surrounded by documents and papers, with a solemn expression on her face, as she justifies her decision to resign."
       },
       "conclusion": {
         "text": "A defesa de Zambelli diz que a renúncia contribui para reduzir a tensão institucional e preservar direitos políticos.",
         "image": "conclusion.png",
-        "prompt": "A serene landscape with a justice statue in the center, surrounded by lush greenery, evoking hope for a fair and just society."
+        "prompt": "A lone figure, representing Carla Zambelli, walks out of the neoclassical courthouse, towards a bright horizon, symbolizing a new beginning and institutional harmony."
       },
       "general_summary": {
         "image": "general_summary.png",
-        "prompt": "Neoclassical courthouse at dusk with a justice statue in the foreground, surrounded by dramatic lighting."
+        "prompt": "Neoclassical courthouse with scales of justice, as a symbol of institutional stability and fairness."
       },
       "tiktok_summary": ""
     }
@@ -340,53 +370,23 @@ const newsData = [
       "introduction": {
         "text": "O artigo analisa o colapso do bolsonarismo após a prisão de Jair Bolsonaro e questiona quem será o próximo líder da direita.",
         "image": "introduction.png",
-        "prompt": "Single Brazilian flag on a windswept landscape, isolated figure in the distance"
+        "prompt": "A Brazilian military parade marches down the street, with flags and banners waving in the air."
       },
       "development": {
         "text": "A autora destaca que Carlos Bolsonaro é o único candidato forte da direita ao Senado, mas não há ninguém com expressão nacional que possa sucedê-lo à imagem de Bolsonaro.",
         "image": "development.png",
-        "prompt": "Empty Senate hall with debate documents scattered, solitary figure reading a manifesto"
+        "prompt": "Carlos stands alone on a senate floor, looking out at an empty chamber, with scales of justice hanging from the ceiling."
       },
       "conclusion": {
         "text": "O bolsonarismo está em crise e falta uma liderança clara para continuar a luta. A solidão de Bolsonaro pode ser um drama menor diante da ausência de futuro do movimento.",
         "image": "conclusion.png",
-        "prompt": "Abandoned political rally venue, abandoned banners and flags, a lone spotlight shining through broken glass"
+        "prompt": "The image shows a broken scale of justice lying on the ground, surrounded by scattered Brazilian flags and presidential documents."
       },
       "general_summary": {
         "image": "general_summary.png",
-        "prompt": "Senate chamber with debate podium, candles and empty seats"
+        "prompt": "Dramatic illustration of a Brazilian flag waving in the wind, with a faint outline of a presidential palace in the background."
       },
       "tiktok_summary": "O bolsonarismo está sem líder! Carlos Bolsonaro é o único que salva a família, mas quem irá sucedê-lo? #Bolsonaro #Direita #Política\n\n🔗 https://www.brasil247.com/blog/bolsonaro-nao-tem-ninguem-com-forca-nacional-a-sua-imagem-e-semelhanca"
-    }
-  },
-  {
-    "id": "22_Rocha_em_Marte_sugere_que_o_planeta_já_teve_clima_",
-    "title": "Rocha em Marte sugere que o planeta já teve clima tropical; entenda",
-    "date": null,
-    "url": "https://www.cnnbrasil.com.br/tecnologia/rocha-em-marte-sugere-que-o-planeta-ja-teve-clima-tropical-entenda/",
-    "assets_path": "assets/22_Rocha_em_Marte_sugere_que_o_planeta_já_teve_clima_",
-    "zip_path": "assets/22_Rocha_em_Marte_sugere_que_o_planeta_já_teve_clima_/22_Rocha_em_Marte_sugere_que_o_planeta_já_teve_clima_.zip",
-    "content": {
-      "introduction": {
-        "text": "Erro ao gerar resumo.",
-        "image": "introduction.png",
-        "prompt": "Modern skyscraper with shattered glass facade, ominous atmosphere."
-      },
-      "development": {
-        "text": "Expecting ',' delimiter: line 16 column 1 (char 621)",
-        "image": "development.png",
-        "prompt": "Clockwork mechanism with gears out of sync, symbolizing chaos and disorder."
-      },
-      "conclusion": {
-        "text": "Verifique se o Ollama está rodando.",
-        "image": "conclusion.png",
-        "prompt": "Abandoned computer screen displaying error message, darkened digital landscape."
-      },
-      "general_summary": {
-        "image": "general_summary.png",
-        "prompt": "Ancient temple with broken columns, representing failure and error."
-      },
-      "tiktok_summary": ""
     }
   },
   {
@@ -400,21 +400,21 @@ const newsData = [
       "introduction": {
         "text": "A Câmara dos Deputados está enfrentando uma crise institucional grave, com uma maioria abusando de seus poderes e praticando desvios de finalidade.",
         "image": "introduction.png",
-        "prompt": "Câmara dos deputados entrance with doors ajar, hinting at institutional crisis."
+        "prompt": "A group of corrupt politicians gathered around a table, surrounded by empty bottles and lavish decorations."
       },
       "development": {
         "text": "A maioria é composta por deputados da extrema direita que atuam para proteger seus interesses e proteger a si mesmos, desafiando a Constituição e a democracia. Ela promove reformas constitucionais e legislativas que são retrocessos, como eliminarem direitos trabalhistas e previdenciários.",
         "image": "development.png",
-        "prompt": "Constitutive chamber interior with symbols of corruption and self-interest."
+        "prompt": "Justice scales balanced precariously on a narrow beam, with a group of powerful figures pushing it towards collapse."
       },
       "conclusion": {
         "text": "Vive-se uma 'tirania da maioria' na Câmara dos Deputados, onde mais de trezentos parlamentares detêm a capacidade formal para reformar a Constituição. Isso é prejudicial à democracia e revela uma perigosa ditadura de direita que atua para radicalizar o desequilíbrio das forças políticas e sociais no Brasil.",
         "image": "conclusion.png",
-        "prompt": "Parliamentary hall reflecting 'tyranny of the majority', with overwhelming majority in power."
+        "prompt": "A lone figure standing alone in a dimly lit hallway, surrounded by the shadows of a corrupt system."
       },
       "general_summary": {
         "image": "general_summary.png",
-        "prompt": "Abused power symbolized by broken scales, surrounded by distorted modern architecture."
+        "prompt": "A symbol of corrupted power, with a modern, darkened congressional building in the background."
       },
       "tiktok_summary": "A Câmara dos Deputados está sendo tomada por uma maioria que atuam contra os interesses da população, promovendo reformas que são retrocessos. É hora de reverter essa situação e proteger a democracia no Brasil! #DemocraciaEmRisco #TiraniaDaMaioridade\n\n🔗 https://www.brasil247.com/blog/camara-dos-deputados-contra-o-povo-abraca-o-fascismo"
     }
@@ -460,21 +460,21 @@ const newsData = [
       "introduction": {
         "text": "O autor participou de um ato nacional 'Sem Anistia' em Brasília para reafirmar que a democracia não se negocia.",
         "image": "introduction.png",
-        "prompt": "Ancient temple entrance with 'democracy' inscribed above it, reflecting on a national unity"
+        "prompt": "Author stands in front of congress building, holding sign saying 'democracy doesn't negotiate', amidst a sea of protesters."
       },
       "development": {
         "text": "O autor denunciou a Lei da Dosimetria, que tenta reduzir penas de condenados pelo 8 de janeiro e beneficiar Bolsonaro e seus aliados. O povo brasileiro resistiu ao golpe e não vai compactuar com anistia disfarçada.",
         "image": "development.png",
-        "prompt": "Leaning lampposts holding flags and Brazilian flags suspended in air, casting long shadows"
+        "prompt": "Justice scales tilted against a backdrop of military parade floats, with Brazilian flags fluttering in the wind."
       },
       "conclusion": {
         "text": "A mobilização popular é o antídoto contra os que tentam minar nossas instituições. Devemos manter a pressão permanente, unindo ocupação das praças e consciência política no voto para garantir justiça, estabilidade e respeito à vontade soberana do nosso povo.",
         "image": "conclusion.png",
-        "prompt": "Broken chain symbolizing freedom's power against oppressive forces"
+        "prompt": "Occupation of Brasilia's main square at dusk, with people standing together for justice and democracy, as sunset casts long shadows."
       },
       "general_summary": {
         "image": "general_summary.png",
-        "prompt": "Brazilian congress building at dusk, surrounded by symbolic scales of justice rising from the ground"
+        "prompt": "Brazilian people protesting at Brasilia, with large crowd and symbolic Brazilian flags waving."
       },
       "tiktok_summary": ""
     }
@@ -490,21 +490,21 @@ const newsData = [
       "introduction": {
         "text": "A deputada federal Carla Zambelli foi presa na Itália após fugir do Brasil, enquanto enfrentava pressão para renunciar ao seu mandato.",
         "image": "introduction.png",
-        "prompt": "Supreme court facade with scales of justice, cinematic composition"
+        "prompt": "government building, wide angle, dramatic sky"
       },
       "development": {
         "text": "A decisão da parlamentar acontece dias após o ministro Alexandre de Moraes anular a votação que salvou o mandato dela. Zambelli está condenada a 10 anos de prisão em regime fechado por tentar invadir o sistema do Conselho Nacional de Justiça.",
         "image": "development.png",
-        "prompt": "Stock market graph on digital screen with Brazilian flag waving, financial district background"
+        "prompt": "courthouse, scales of justice, judicial hammer, detailed scene, moody lighting"
       },
       "conclusion": {
         "text": "A renúncia da parlamentar alivia a pressão sobre o presidente da Câmara, Hugo Motta. A situação é um exemplo da tensa relação entre os Poderes no Brasil e a presença de forças extremistas no país.",
         "image": "conclusion.png",
-        "prompt": "Justice scales suspended in mid-air, courthouse at dusk, symbolic light beam"
+        "prompt": "symbolic closure scene, hopeful atmosphere"
       },
       "general_summary": {
         "image": "general_summary.png",
-        "prompt": "Courthouse with judicial hammer, scales of justice in balance, Brazilian congress building at sunset"
+        "prompt": "courthouse, scales of justice, judicial hammer, graphic novel illustration, cinematic"
       },
       "tiktok_summary": "Uma política fugiu do Brasil para evitar ser processada! Carla Zambelli está presa na Itália após anular a votação que salvou seu mandato. #política #corrupção #brasil\n\n🔗 https://www.cartacapital.com.br/politica/carla-zambelli-renuncia-de-mandato-motta-convoca-suplente/"
     }
@@ -570,66 +570,6 @@ const newsData = [
     }
   },
   {
-    "id": "13_Agente_infiltrado_de_Moro_quer_entrar_em_programa_",
-    "title": "‘Agente infiltrado’ de Moro quer entrar em programa de proteção à testemunha",
-    "date": null,
-    "url": "https://veja.abril.com.br/politica/agente-infiltrado-de-moro-quer-entrar-em-programa-de-protecao-a-testemunha/",
-    "assets_path": "assets/13_Agente_infiltrado_de_Moro_quer_entrar_em_programa_",
-    "zip_path": "assets/13_Agente_infiltrado_de_Moro_quer_entrar_em_programa_/13_Agente_infiltrado_de_Moro_quer_entrar_em_programa_.zip",
-    "content": {
-      "introduction": {
-        "text": "O ex-deputado estadual Tony Garcia pediu proteção como testemunha após acusações contra o senador Sergio Moro.",
-        "image": "introduction.png",
-        "prompt": "A close-up portrait of Tony Garcia, an older man with white beard and curly gray hair, looking worried and concerned, with a faint hint of desperation in his eyes."
-      },
-      "development": {
-        "text": "Garcia alega ter sido 'agente infiltrado' de Moro por 20 anos e ter visto vídeos obtidos clandestinamente para chantagear desembargadores que decidiriam a liberdade de Lula na Lava-Jato.",
-        "image": "development.png",
-        "prompt": "A split-screen image showing Sergio Moro as an older man with blond hair and blue tie, on one side, and Tony Garcia as the same older man with white beard and curly gray hair, but with a dark cloak draped over him, surrounded by shadowy figures with sinister intentions."
-      },
-      "conclusion": {
-        "text": "Sergio Moro negou qualquer irregularidade, mas Garcia afirma suas revelações serão 'piores do que a Vaza-Jato'.",
-        "image": "conclusion.png",
-        "prompt": "A dramatic illustration of the courtroom scene from different angles, with Sergio Moro and Tony Garcia at opposite ends of the table, both looking directly at the viewer with intense emotions, as if the fate of Lula's freedom hangs in the balance."
-      },
-      "general_summary": {
-        "image": "general_summary.png",
-        "prompt": "A graphic novel illustration depicting a dramatic courtroom scene with Sergio Moro and Tony Garcia facing each other, with intense emotions and a hint of conspiracy."
-      },
-      "tiktok_summary": "O ex-deputado Tony Garcia pede proteção como testemunha após acusações contra o senador Sergio Moro. #corrupção #LavaJato #Moro\n\n🔗 https://veja.abril.com.br/politica/agente-infiltrado-de-moro-quer-entrar-em-programa-de-protecao-a-testemunha/"
-    }
-  },
-  {
-    "id": "12_Tremor_de_terra_é_registrado_em_seis_cidades_de_Mi",
-    "title": "Tremor de terra é registrado em seis cidades de Minas Gerais",
-    "date": null,
-    "url": "https://noticias.r7.com/jr-na-tv/video/tremor-de-terra-e-registrado-em-seis-cidades-de-minas-gerais-14122025/",
-    "assets_path": "assets/12_Tremor_de_terra_é_registrado_em_seis_cidades_de_Mi",
-    "zip_path": "assets/12_Tremor_de_terra_é_registrado_em_seis_cidades_de_Mi/12_Tremor_de_terra_é_registrado_em_seis_cidades_de_Mi.zip",
-    "content": {
-      "introduction": {
-        "text": "A data específica no final do texto parece indicar um artigo de jornal atualizado, mas o conteúdo faltará.",
-        "image": "introduction.png",
-        "prompt": ""
-      },
-      "development": {
-        "text": "",
-        "image": "development.png",
-        "prompt": ""
-      },
-      "conclusion": {
-        "text": "",
-        "image": "conclusion.png",
-        "prompt": ""
-      },
-      "general_summary": {
-        "image": "general_summary.png",
-        "prompt": ""
-      },
-      "tiktok_summary": "Mystery no Data! Sem informações relevantes, essa data pode ser mais de um detalhe em uma história futura. #mysterydata #jornaldetalhes #datasecreto\n\n🔗 https://noticias.r7.com/jr-na-tv/video/tremor-de-terra-e-registrado-em-seis-cidades-de-minas-gerais-14122025/"
-    }
-  },
-  {
     "id": "9_Deputado_relatou_à_PF_ameaça_de_Lira_por_verbas_do",
     "title": "Deputado relatou à PF ameaça de Lira por verbas do orçamento secreto para Alagoas",
     "date": null,
@@ -640,53 +580,23 @@ const newsData = [
       "introduction": {
         "text": "O ministro Flávio Dino autorizou a operação da Polícia Federal contra uma ex-assessora de Arthur Lira, acusando 'indícios de execução irregular de emendas ao orçamento da União'.",
         "image": "introduction.png",
-        "prompt": ""
+        "prompt": "A tense Senate chamber scene: Ministro Flávio at the senate desk, surrounded by congress members, with a police operation unfolding outside."
       },
       "development": {
         "text": "Depoimentos de parlamentares, como Glauber Braga e José Rocha, revelam pressões para liberar verbas do Ministério da Integração sem identificar autores ou beneficiários.",
         "image": "development.png",
-        "prompt": ""
+        "prompt": "A symbolic meeting room with parliamentarians Gláuber Braga and José Rocha seated around a table, under pressure from a mysterious figure representing 'justice'."
       },
       "conclusion": {
         "text": "A Polícia Federal investiga 'montanha de dinheiro' em emendas parlamentares, enquanto Arthur Lira não foi alvo desta ação, embora seja citado 24 vezes na decisão de Dino.",
         "image": "conclusion.png",
-        "prompt": ""
+        "prompt": "Police Federal headquarters: A stern-looking investigator surrounded by files and computers, gazing out at the Brazilian cityscape, as the sound of sirens fades into the distance."
       },
       "general_summary": {
         "image": "general_summary.png",
-        "prompt": ""
+        "prompt": "Brazilian parliament in crisis: A dark alleyway with a 'mountain of money' in the background, surrounded by police officers and worried lawmakers."
       },
       "tiktok_summary": "O ministro Flávio Dino autorizou a operação da Polícia Federal contra uma ex-assessora de Arthur Lira. Depoimentos de parlamentares revelam pressões para liberar verbas sem identificar autores ou beneficiários. #justiça #corrupção\n\n🔗 https://veja.abril.com.br/brasil/deputado-relatou-a-pf-ameaca-de-lira-por-verbas-do-orcamento-secreto-para-alagoas/"
-    }
-  },
-  {
-    "id": "3_Quando_o_Congresso_vira_ameaça_o_povo_precisa_ser_",
-    "title": "Quando o Congresso vira ameaça, o povo precisa ser o freio",
-    "date": null,
-    "url": "https://www.brasil247.com/blog/quando-o-congresso-vira-ameaca-o-povo-precisa-ser-o-freio",
-    "assets_path": "assets/3_Quando_o_Congresso_vira_ameaça_o_povo_precisa_ser_",
-    "zip_path": "assets/3_Quando_o_Congresso_vira_ameaça_o_povo_precisa_ser_/3_Quando_o_Congresso_vira_ameaça_o_povo_precisa_ser_.zip",
-    "content": {
-      "introduction": {
-        "text": "O povo brasileiro honrará mais uma vez a advertência de Ulisses Guimarães contra a anistia e PEC da bandidagem.",
-        "image": "introduction.png",
-        "prompt": "Scene: A crowded city square filled with protesters holding signs against corruption. Leader Ulisses Guimarães stands at the forefront, gesticulating passionately."
-      },
-      "development": {
-        "text": "A atuação da maioria deletéria de congressistas na Câmara de Deputados deflagrou episódios indignos que não condizem com a lisura ética política. O presidente da Câmara, Hugo Motta, agiu com truculência ao decidir pautar de surpresa a votação de um projeto polêmico.",
-        "image": "development.png",
-        "prompt": "Congress members engaged in unethical behavior are exposed by a lone whistleblower standing on a parliamentary podium amidst chaos and confusion."
-      },
-      "conclusion": {
-        "text": "A mudança legislativa abre caminho para um drástico abrandamento das penas impostas aos responsáveis pelo ataque institucional, incluindo o ex-presidente Jair Bolsonaro.",
-        "image": "conclusion.png",
-        "prompt": "President of Chamber Hugo Motta is surrounded by opponents holding 'Justice' signs as Jair Bolsonaro looks away from the dramatic scene unfolding."
-      },
-      "general_summary": {
-        "image": "general_summary.png",
-        "prompt": "Action-packed illustration of a group of people protesting against political corruption, with bold graphics and vibrant colors."
-      },
-      "tiktok_summary": ""
     }
   }
 ];
