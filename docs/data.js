@@ -540,36 +540,6 @@ const newsData = [
     }
   },
   {
-    "id": "14_A_candidatura_é_viável_diz_Flávio_Bolsonaro_em_ent",
-    "title": "‘A candidatura é viável’, diz Flávio Bolsonaro em entrevista a VEJA",
-    "date": null,
-    "url": "https://veja.abril.com.br/brasil/a-candidatura-e-viavel-diz-flavio-bolsonaro-em-entrevista-a-veja/",
-    "assets_path": "assets/14_A_candidatura_é_viável_diz_Flávio_Bolsonaro_em_ent",
-    "zip_path": "assets/14_A_candidatura_é_viável_diz_Flávio_Bolsonaro_em_ent/14_A_candidatura_é_viável_diz_Flávio_Bolsonaro_em_ent.zip",
-    "content": {
-      "introduction": {
-        "text": "Flávio Bolsonaro entra na corrida ao Planalto e espalha incertezas entre aliados.",
-        "image": "introduction.png",
-        "prompt": "Flávio Bolsonaro enters the presidential race, spreading uncertainty among allies."
-      },
-      "development": {
-        "text": "Bolsonaro defende sua candidatura, afirmando que é irreversível e está colocada. Ele critica o Centrão por tentar minar sua pré-candidatura, mas acredita que suas convicções vão ser aceitas pelas lideranças.",
-        "image": "development.png",
-        "prompt": "Bolsonaro defends his candidacy, saying it's irreversible and has been placed. He criticizes the Centrão for trying to undermine his preliminary candidacy but believes his convictions will be accepted by leaders."
-      },
-      "conclusion": {
-        "text": "A direita corre o risco de ir fragmentada contra Lula com Flávio Bolsonaro à mesa. Ele defende uma chapa com Tarcísio de Freitas, mas acredita que é um desperdício.",
-        "image": "conclusion.png",
-        "prompt": "The right risks splintering if Flávio Bolsonaro sits down with Lula, with a unified ticket with Tarcísio de Freitas being deemed unnecessary."
-      },
-      "general_summary": {
-        "image": "general_summary.png",
-        "prompt": "A graphic novel illustration depicts a dramatic moment in Brazilian politics."
-      },
-      "tiktok_summary": ""
-    }
-  },
-  {
     "id": "9_Deputado_relatou_à_PF_ameaça_de_Lira_por_verbas_do",
     "title": "Deputado relatou à PF ameaça de Lira por verbas do orçamento secreto para Alagoas",
     "date": null,
