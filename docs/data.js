@@ -1,35 +1,5 @@
 const newsData = [
   {
-    "id": "35_Lula_parabeniza_Kast_por_vitória_no_Chile_Seguirem",
-    "title": "Lula parabeniza Kast por vitória no Chile: 'Seguiremos trabalhando com o novo governo'",
-    "date": "2025-12-15T07:34:09Z",
-    "url": "https://www.terra.com.br/noticias/brasil/politica/lula/lula-parabeniza-kast-por-vitoria-no-chile-seguiremos-trabalhando-com-o-novo-governo,2e058aa62c08df1fb67cf00aeee6bcc0s5lwnazw.html",
-    "assets_path": "assets/35_Lula_parabeniza_Kast_por_vitória_no_Chile_Seguirem",
-    "zip_path": "assets/35_Lula_parabeniza_Kast_por_vitória_no_Chile_Seguirem/35_Lula_parabeniza_Kast_por_vitória_no_Chile_Seguirem.zip",
-    "content": {
-      "introduction": {
-        "text": "O presidente brasileiro Luiz Inácio Lula da Silva parabenizou a vitória do conservador José Antonio Kast na eleição presidencial chilena.",
-        "image": "introduction.png",
-        "prompt": "Close-up of Brazilian flag waving in front of congress building at sunrise"
-      },
-      "development": {
-        "text": "Lula desejou 'pleno êxito' ao novo governo e afirmou que o Brasil pretende manter e aprofundar a relação com Chile, em favor do fortalecimento das relações bilaterais e da integração regional.",
-        "image": "development.png",
-        "prompt": "lula, man, looking at electoral symbols on ballot box in voting booth, brazilian landscape behind"
-      },
-      "conclusion": {
-        "text": "A eleição de Kast marca a volta da direita ao poder no Chile após quatro anos de governo de esquerda, e sinaliza o início do reposicionamento político do país no cenário sul-americano.",
-        "image": "conclusion.png",
-        "prompt": "Supreme court facade with scales of justice, cinematic composition"
-      },
-      "general_summary": {
-        "image": "general_summary.png",
-        "prompt": "Brazilian president lula, man, shaking hands with chilean president kast in congress building"
-      },
-      "tiktok_summary": ""
-    }
-  },
-  {
     "id": "34_Nunca_vou_ser_boa_o_suficiente_para_a_minha_mãe_se",
     "title": "'Nunca vou ser boa o suficiente para a minha mãe se eu não for magra': a dor e a solidão da obesidade",
     "date": null,
