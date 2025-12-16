@@ -60,36 +60,6 @@ const newsData = [
     }
   },
   {
-    "id": "33_Saiba_por_que_o_padre_Fábio_de_Melo_foi_denunciado",
-    "title": "Saiba por que o padre Fábio de Melo foi denunciado ao Vaticano",
-    "date": "2025-12-15T08:28:07Z",
-    "url": "https://www.terra.com.br/amp/story/noticias/saiba-por-que-o-padre-fabio-de-melo-foi-denunciado-ao-vaticano,8efe57a4fdc43f0659daa96927b83e8d0frfhigh.html",
-    "assets_path": "assets/33_Saiba_por_que_o_padre_Fábio_de_Melo_foi_denunciado",
-    "zip_path": "assets/33_Saiba_por_que_o_padre_Fábio_de_Melo_foi_denunciado/33_Saiba_por_que_o_padre_Fábio_de_Melo_foi_denunciado.zip",
-    "content": {
-      "introduction": {
-        "text": "Uma série de fotos em Instagram mostram uma pessoa segurando um cartão de crédito, com a legenda 'Não faça isso!' em português.",
-        "image": "introduction.png",
-        "prompt": "\"No faça isso!\" warning sign on a city street, with tall skyscrapers and busy streets."
-      },
-      "development": {
-        "text": "A foto foi postada por um usuário chamado @pefabiodemelo, que alega ter recebido o cartão por engano e se sente 'uma vítima' de uma fraude financeira.",
-        "image": "development.png",
-        "prompt": "User @pefabiodemelo standing in front of a computer, looking concerned, with a blurred background of financial documents."
-      },
-      "conclusion": {
-        "text": "O caso é uma leção sobre a importância da verificação das contas bancárias antes de aceitá-las.",
-        "image": "conclusion.png",
-        "prompt": "An image of the Brazilian flag with scales of justice balancing it, symbolizing financial responsibility."
-      },
-      "general_summary": {
-        "image": "general_summary.png",
-        "prompt": "A person holding a credit card with a 'don't do this!' message in Portuguese, amidst a backdrop of modern architecture."
-      },
-      "tiktok_summary": "Você já teve um momento assim? Não faça isso! #FRAUDEFINANCEIRA #VERIFICAASCONTAS #SEGURO\n\n🔗 https://www.terra.com.br/amp/story/noticias/saiba-por-que-o-padre-fabio-de-melo-foi-denunciado-ao-vaticano,8efe57a4fdc43f0659daa96927b83e8d0frfhigh.html"
-    }
-  },
-  {
     "id": "32_Se_Flávio_não_decolar_Nikolas_aposta_em_outro_cand",
     "title": "Se Flávio não decolar, Nikolas aposta em outro candidato da direita",
     "date": "2025-12-14 05:00",
