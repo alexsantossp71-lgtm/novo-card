@@ -120,36 +120,6 @@ const newsData = [
     }
   },
   {
-    "id": "30_Crefisa_é_condenada_após_cobrar_juros_de_1082_ao_a",
-    "title": "Crefisa é condenada após cobrar juros de 1.082% ao ano de idosa",
-    "date": null,
-    "url": "https://www.metropoles.com/colunas/tacio-lorran/crefisa-e-condenada-apos-cobrar-juros-de-1-082-de-idosa",
-    "assets_path": "assets/30_Crefisa_é_condenada_após_cobrar_juros_de_1082_ao_a",
-    "zip_path": "assets/30_Crefisa_é_condenada_após_cobrar_juros_de_1082_ao_a/30_Crefisa_é_condenada_após_cobrar_juros_de_1082_ao_a.zip",
-    "content": {
-      "introduction": {
-        "text": "O Tribunal de Justiça do Paraná (TJPR) condenou a Crefisa SA por impor juros superiores a 1.000% ao ano aos empréstimos concedidos a uma mulher de 74 anos.",
-        "image": "introduction.png",
-        "prompt": "A close-up of a woman's face, highlighting determination and age, set amidst a serene Brazilian landscape."
-      },
-      "development": {
-        "text": "A aposentada argumentou que os juros eram abusivos e que as taxas acima da média do Banco Central se justificavam por operar em mercado de alto risco. A Crefisa defendeu que as taxas eram legais e proporcional à chance de inadimplência.",
-        "image": "development.png",
-        "prompt": "The woman sits in court, with a judge wielding a judicial hammer, as she makes her case about unfair interest rates."
-      },
-      "conclusion": {
-        "text": "O TJPR revisou as taxas de juros para a média praticada no mercado financeiro, mas negou a restituição em dobro e a indenização por dano moral. A sentença foi mantida após recurso da Crefisa.",
-        "image": "conclusion.png",
-        "prompt": "The Supreme Court's decision is revealed on a large screen, with scales of justice hanging above, casting a somber tone."
-      },
-      "general_summary": {
-        "image": "general_summary.png",
-        "prompt": "An elderly woman stands before a courthouse, symbolizing her fight for justice against high-interest loans."
-      },
-      "tiktok_summary": "Uma mulher de 74 anos foi condenada a pagar juros superiores a 1.000% ao ano aos empréstimos concedidos pela Crefisa SA. O Tribunal de Justiça do Paraná revisou as taxas de juros, mas não aceitou as demandas da aposentada.\n#justiça #crefisa #empregos\n\n🔗 https://www.metropoles.com/colunas/tacio-lorran/crefisa-e-condenada-apos-cobrar-juros-de-1-082-de-idosa"
-    }
-  },
-  {
     "id": "29_Crefisa_é_condenada_após_cobrar_juros_de_1082_ao_a",
     "title": "Crefisa é condenada após cobrar juros de 1.082% ao ano de idosa",
     "date": null,
