@@ -10,21 +10,21 @@ const newsData = [
       "introduction": {
         "text": "O longa-metragem O Agente Secreto, dirigido por Kleber Mendonça Filho e estrelado por Wagner Moura, está na pré-lista de 15 longas que podem disputar a categoria de Melhor Filme Internacional no Oscar 2026.",
         "image": "introduction.png",
-        "prompt": "Man, dressed in formal attire, standing heroically in front of a grand film studio"
+        "prompt": "Wide shot of the 'Agent Secret' movie poster on a movie premiere red carpet."
       },
       "development": {
         "text": "O filme também entrou na pré-lista para Melhor Escalação de Elenco e foi elogiado pela crítica, com prêmios no Festival de Cannes. A pré-lista foi divulgada nesta terça-feira (16/12).",
         "image": "development.png",
-        "prompt": "Justice scales balanced on top of the Congress Building, surrounded by film reels and cameras"
+        "prompt": "Scene showing actors from different countries standing together in front of a world map with multiple flags waving."
       },
       "conclusion": {
         "text": "A predefinição dos cinco finalistas acontecerá em 22 de janeiro, e a premiação da Academia será realizada em 15 de março do ano que vem.",
         "image": "conclusion.png",
-        "prompt": "Film camera with lens closed, resting against a city skyline at sunset"
+        "prompt": "A director (symbolized as a spotlight) standing alone, looking out at a sprawling cityscape representing global connection."
       },
       "general_summary": {
         "image": "general_summary.png",
-        "prompt": "A cinematic globe with world map in focus, multiple flags waving"
+        "prompt": "Detailed illustration of a director's desk with laptop, script papers, and Brazilian flag backdrop."
       },
       "tiktok_summary": "O Agente Secreto está na pré-lista de Melhor Filme Internacional do Oscar 2026! #OAgenteSecreto #MelhorFilmeInternacional #Oscar2026\n\n🔗 https://www.terra.com.br/noticias/o-agente-secreto-e-pre-selecionado-para-o-oscar-2026,58642c2a4072a7b63127e354d11ef29e32ts8gxp.html"
     }
@@ -40,7 +40,7 @@ const newsData = [
       "introduction": {
         "text": "Ministro Alexandre de Moraes critica discussão no Congresso sobre projeto que busca reduzir penas de Jair Bolsonaro",
         "image": "introduction.png",
-        "prompt": "The Supreme Court building stands tall amidst swirling flags, as the atmosphere of critical discussion unfolds."
+        "prompt": "Ministro Alexandre at Supreme Court building, justice scales critique Congressional discussion"
       },
       "development": {
         "text": [
@@ -49,16 +49,16 @@ const newsData = [
           "A crise política persiste, com o avanço global da extrema-direita e a brutalidade em Gaza e na Ucrânia arriscando implodir os frágeis alicerces da governança mundial. (O governo enfrenta desafios internos e externos, incluindo a ameaça bolsonarista persistente.)"
         ],
         "image": "development.png",
-        "prompt": "Justice scales tilt in favor of balance, with figures from various backgrounds represented, as the nation comes together to address the contentious issue."
+        "prompt": "Justice scales tilt to one side as Jair speaks at Congress building, crowd reacts"
       },
       "conclusion": {
         "text": "",
         "image": "conclusion.png",
-        "prompt": "A cinematic shot of a Brazilian flag unfurling under an evening sky, signifying hope for a brighter future."
+        "prompt": "National flag waving in the wind, symbolizing democracy's balance"
       },
       "general_summary": {
         "image": "general_summary.png",
-        "prompt": "A dramatic illustration of a parliament building with national flags, symbolizing the struggle for justice and democracy."
+        "prompt": "Brazilian government building with flags, people protesting in streets"
       },
       "tiktok_summary": ""
     }
@@ -74,7 +74,7 @@ const newsData = [
       "introduction": {
         "text": "Religiosos católicos como Frei Gilson e Paulo Ricardo têm milhões de seguidores nas redes sociais e defendem pautas progressistas.",
         "image": "introduction.png",
-        "prompt": "A group of Catholic priests standing together in front of the Brazilian congress building, looking determined"
+        "prompt": "government building, wide angle, dramatic sky"
       },
       "development": {
         "text": [
@@ -83,16 +83,16 @@ const newsData = [
           "O cardeal Odilo Pedro Scherer também segue ativo nas redes sociais, apesar de ser o responsável pela solicitação de afastamento do padre Júlio Lancellotti"
         ],
         "image": "development.png",
-        "prompt": "Frei Gilson, a young priest, standing on stage, microphone in hand, addressing a crowded auditorium"
+        "prompt": "modern architecture, symbolic scene, detailed scene, moody lighting"
       },
       "conclusion": {
         "text": "Enquanto religiosos católicos com seguidores em milhões defendem pautas progressistas, outros são proibidos de transmitir missas ao vivo e seguir com suas atividades nas redes sociais.",
         "image": "conclusion.png",
-        "prompt": "A judge's gavel lying on a table with scales of justice looming large in the background"
+        "prompt": "symbolic closure scene, hopeful atmosphere"
       },
       "general_summary": {
         "image": "general_summary.png",
-        "prompt": "Brazilian cathedral with a large crowd of protesters, diverse religious figures holding signs and banners"
+        "prompt": "modern architecture, symbolic scene, graphic novel illustration, cinematic"
       },
       "tiktok_summary": ""
     }
