@@ -90,36 +90,6 @@ const newsData = [
     }
   },
   {
-    "id": "31_Se_Flávio_não_decolar_Nikolas_aposta_em_outro_cand",
-    "title": "Se Flávio não decolar, Nikolas aposta em outro candidato da direita",
-    "date": "2025-12-14 05:00",
-    "url": "https://www.metropoles.com/colunas/igor-gadelha/se-flavio-nao-decolar-nikolas-aposta-em-outro-candidato-da-direita",
-    "assets_path": "assets/31_Se_Flávio_não_decolar_Nikolas_aposta_em_outro_cand",
-    "zip_path": "assets/31_Se_Flávio_não_decolar_Nikolas_aposta_em_outro_cand/31_Se_Flávio_não_decolar_Nikolas_aposta_em_outro_cand.zip",
-    "content": {
-      "introduction": {
-        "text": "O deputado Nikolas Ferreira expressou ceticismo sobre a candidatura do senador Flávio Bolsonaro ao Palácio do Planalto em 2026.",
-        "image": "introduction.png",
-        "prompt": "A deputado Nikolas Ferreira stands in front of a backdrop of the Palacio do Planalto, looking concerned"
-      },
-      "development": {
-        "text": "O deputado mineiro avaliou que o governador paranaense Ratinho Júnior seria mais competitivo, com a ajuda do pai e apresentador Carlos Roberto Massa.",
-        "image": "development.png",
-        "prompt": "A young politician, flanked by supporters, addresses a crowd on the Senate floor, with Ratinho Junior in the shadows"
-      },
-      "conclusion": {
-        "text": "Nikolas prevê que Flávio Bolsonaro não decolaria na candidatura, enquanto Ratinho Júnior é visto como uma alternativa viável.",
-        "image": "conclusion.png",
-        "prompt": "Flávio Military Parade stands alone on the steps of Congress Building, with Brazilian flags fluttering in the wind"
-      },
-      "general_summary": {
-        "image": "general_summary.png",
-        "prompt": "Vibrant congressional hall with a balance scale, surrounded by Brazilian flags and banners"
-      },
-      "tiktok_summary": "Pode ser o fim de Flávio? O deputado Nikolas Ferreira desmente a candidatura do senador e destaca Ratinho Júnior como um possível rival. #Bolsonaro #RatinhoJúnior #PolíticaBrasileira\n\n🔗 https://www.metropoles.com/colunas/igor-gadelha/se-flavio-nao-decolar-nikolas-aposta-em-outro-candidato-da-direita"
-    }
-  },
-  {
     "id": "29_Crefisa_é_condenada_após_cobrar_juros_de_1082_ao_a",
     "title": "Crefisa é condenada após cobrar juros de 1.082% ao ano de idosa",
     "date": null,
