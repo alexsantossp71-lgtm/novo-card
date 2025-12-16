@@ -268,35 +268,5 @@ const newsData = [
       },
       "tiktok_summary": ""
     }
-  },
-  {
-    "id": "9_Deputado_relatou_à_PF_ameaça_de_Lira_por_verbas_do",
-    "title": "Deputado relatou à PF ameaça de Lira por verbas do orçamento secreto para Alagoas",
-    "date": null,
-    "url": "https://veja.abril.com.br/brasil/deputado-relatou-a-pf-ameaca-de-lira-por-verbas-do-orcamento-secreto-para-alagoas/",
-    "assets_path": "assets/9_Deputado_relatou_à_PF_ameaça_de_Lira_por_verbas_do",
-    "zip_path": "assets/9_Deputado_relatou_à_PF_ameaça_de_Lira_por_verbas_do/9_Deputado_relatou_à_PF_ameaça_de_Lira_por_verbas_do.zip",
-    "content": {
-      "introduction": {
-        "text": "O ministro Flávio Dino autorizou a operação da Polícia Federal contra uma ex-assessora de Arthur Lira, acusando 'indícios de execução irregular de emendas ao orçamento da União'.",
-        "image": "introduction.png",
-        "prompt": "A tense Senate chamber scene: Ministro Flávio at the senate desk, surrounded by congress members, with a police operation unfolding outside."
-      },
-      "development": {
-        "text": "Depoimentos de parlamentares, como Glauber Braga e José Rocha, revelam pressões para liberar verbas do Ministério da Integração sem identificar autores ou beneficiários.",
-        "image": "development.png",
-        "prompt": "A symbolic meeting room with parliamentarians Gláuber Braga and José Rocha seated around a table, under pressure from a mysterious figure representing 'justice'."
-      },
-      "conclusion": {
-        "text": "A Polícia Federal investiga 'montanha de dinheiro' em emendas parlamentares, enquanto Arthur Lira não foi alvo desta ação, embora seja citado 24 vezes na decisão de Dino.",
-        "image": "conclusion.png",
-        "prompt": "Police Federal headquarters: A stern-looking investigator surrounded by files and computers, gazing out at the Brazilian cityscape, as the sound of sirens fades into the distance."
-      },
-      "general_summary": {
-        "image": "general_summary.png",
-        "prompt": "Brazilian parliament in crisis: A dark alleyway with a 'mountain of money' in the background, surrounded by police officers and worried lawmakers."
-      },
-      "tiktok_summary": "O ministro Flávio Dino autorizou a operação da Polícia Federal contra uma ex-assessora de Arthur Lira. Depoimentos de parlamentares revelam pressões para liberar verbas sem identificar autores ou beneficiários. #justiça #corrupção\n\n🔗 https://veja.abril.com.br/brasil/deputado-relatou-a-pf-ameaca-de-lira-por-verbas-do-orcamento-secreto-para-alagoas/"
-    }
   }
 ];
