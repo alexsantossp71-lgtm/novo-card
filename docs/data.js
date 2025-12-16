@@ -390,36 +390,6 @@ const newsData = [
     }
   },
   {
-    "id": "19_O_Povo_não_aceita_anistia_disfarçada_de_Dosimetria",
-    "title": "O Povo não aceita anistia disfarçada de Dosimetria",
-    "date": null,
-    "url": "https://www.brasil247.com/blog/o-povo-nao-aceita-anistia-disfarcada-de-dosimetria",
-    "assets_path": "assets/19_O_Povo_não_aceita_anistia_disfarçada_de_Dosimetria",
-    "zip_path": "assets/19_O_Povo_não_aceita_anistia_disfarçada_de_Dosimetria/19_O_Povo_não_aceita_anistia_disfarçada_de_Dosimetria.zip",
-    "content": {
-      "introduction": {
-        "text": "O autor participou de um ato nacional 'Sem Anistia' em Brasília para reafirmar que a democracia não se negocia.",
-        "image": "introduction.png",
-        "prompt": "Author stands in front of congress building, holding sign saying 'democracy doesn't negotiate', amidst a sea of protesters."
-      },
-      "development": {
-        "text": "O autor denunciou a Lei da Dosimetria, que tenta reduzir penas de condenados pelo 8 de janeiro e beneficiar Bolsonaro e seus aliados. O povo brasileiro resistiu ao golpe e não vai compactuar com anistia disfarçada.",
-        "image": "development.png",
-        "prompt": "Justice scales tilted against a backdrop of military parade floats, with Brazilian flags fluttering in the wind."
-      },
-      "conclusion": {
-        "text": "A mobilização popular é o antídoto contra os que tentam minar nossas instituições. Devemos manter a pressão permanente, unindo ocupação das praças e consciência política no voto para garantir justiça, estabilidade e respeito à vontade soberana do nosso povo.",
-        "image": "conclusion.png",
-        "prompt": "Occupation of Brasilia's main square at dusk, with people standing together for justice and democracy, as sunset casts long shadows."
-      },
-      "general_summary": {
-        "image": "general_summary.png",
-        "prompt": "Brazilian people protesting at Brasilia, with large crowd and symbolic Brazilian flags waving."
-      },
-      "tiktok_summary": ""
-    }
-  },
-  {
     "id": "18_Carla_Zambelli_renuncia_ao_mandato_Motta_convoca_s",
     "title": "Carla Zambelli renuncia ao mandato; Motta convoca suplente",
     "date": null,
