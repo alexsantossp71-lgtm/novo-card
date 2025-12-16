@@ -330,36 +330,6 @@ const newsData = [
     }
   },
   {
-    "id": "18_Carla_Zambelli_renuncia_ao_mandato_Motta_convoca_s",
-    "title": "Carla Zambelli renuncia ao mandato; Motta convoca suplente",
-    "date": null,
-    "url": "https://www.cartacapital.com.br/politica/carla-zambelli-renuncia-de-mandato-motta-convoca-suplente/",
-    "assets_path": "assets/18_Carla_Zambelli_renuncia_ao_mandato_Motta_convoca_s",
-    "zip_path": "assets/18_Carla_Zambelli_renuncia_ao_mandato_Motta_convoca_s/18_Carla_Zambelli_renuncia_ao_mandato_Motta_convoca_s.zip",
-    "content": {
-      "introduction": {
-        "text": "A deputada federal Carla Zambelli foi presa na Itália após fugir do Brasil, enquanto enfrentava pressão para renunciar ao seu mandato.",
-        "image": "introduction.png",
-        "prompt": "government building, wide angle, dramatic sky"
-      },
-      "development": {
-        "text": "A decisão da parlamentar acontece dias após o ministro Alexandre de Moraes anular a votação que salvou o mandato dela. Zambelli está condenada a 10 anos de prisão em regime fechado por tentar invadir o sistema do Conselho Nacional de Justiça.",
-        "image": "development.png",
-        "prompt": "courthouse, scales of justice, judicial hammer, detailed scene, moody lighting"
-      },
-      "conclusion": {
-        "text": "A renúncia da parlamentar alivia a pressão sobre o presidente da Câmara, Hugo Motta. A situação é um exemplo da tensa relação entre os Poderes no Brasil e a presença de forças extremistas no país.",
-        "image": "conclusion.png",
-        "prompt": "symbolic closure scene, hopeful atmosphere"
-      },
-      "general_summary": {
-        "image": "general_summary.png",
-        "prompt": "courthouse, scales of justice, judicial hammer, graphic novel illustration, cinematic"
-      },
-      "tiktok_summary": "Uma política fugiu do Brasil para evitar ser processada! Carla Zambelli está presa na Itália após anular a votação que salvou seu mandato. #política #corrupção #brasil\n\n🔗 https://www.cartacapital.com.br/politica/carla-zambelli-renuncia-de-mandato-motta-convoca-suplente/"
-    }
-  },
-  {
     "id": "17_Cancelamento_praticado_pela_USP_faz_lembrar_atuaçã",
     "title": "Cancelamento praticado pela USP faz lembrar atuação na ditadura",
     "date": null,
