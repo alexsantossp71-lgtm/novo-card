@@ -150,36 +150,6 @@ const newsData = [
     }
   },
   {
-    "id": "27_Trump_faz_alusão_a_uma_possível_derrota_republican",
-    "title": "Trump faz alusão a uma possível derrota republicana nas legislativas de 2026",
-    "date": null,
-    "url": "https://www.correiobraziliense.com.br/mundo/2025/12/7313769-trump-faz-alusao-a-uma-possivel-derrota-republicana-nas-legislativas-de-2026.html",
-    "assets_path": "assets/27_Trump_faz_alusão_a_uma_possível_derrota_republican",
-    "zip_path": "assets/27_Trump_faz_alusão_a_uma_possível_derrota_republican/27_Trump_faz_alusão_a_uma_possível_derrota_republican.zip",
-    "content": {
-      "introduction": {
-        "text": "Donald Trump insinua que os republicanos podem perder as eleições legislativas de meio mandato em 2026, apesar de ter exaltado a maior economia da história.",
-        "image": "introduction.png",
-        "prompt": "A man in a suit stands on the White House lawn, American flag waving behind him."
-      },
-      "development": {
-        "text": "Trump afirma que a inflação está em boa forma e que as pessoas não entenderão o impacto até a próxima eleição. Ele também destaca a criação de empregos e investimentos em fábricas, IA e outras áreas.",
-        "image": "development.png",
-        "prompt": "The economist walks through a bustling city street lined with office buildings and construction sites."
-      },
-      "conclusion": {
-        "text": "A pesquisa da Universidade de Chicago mostra que apenas 31% dos americanos aprovam a gestão econômica de Trump. Ele afirma ter criado a maior economia sem inflação, mas as pessoas ainda não entendem o impacto de suas políticas.",
-        "image": "conclusion.png",
-        "prompt": "A person sits at a desk, surrounded by charts and graphs, looking concerned."
-      },
-      "general_summary": {
-        "image": "general_summary.png",
-        "prompt": "Economist stands in front of a stock market graph, surrounded by financial district skyscrapers."
-      },
-      "tiktok_summary": "O presidente Donald Trump insinua que os republicanos podem perder as eleições legislativas de 2026! Ele afirma que a inflação está em boa forma e que as pessoas não entenderão o impacto até a próxima eleição. #Trump #Eleições #Economia\n\n🔗 https://www.correiobraziliense.com.br/mundo/2025/12/7313769-trump-faz-alusao-a-uma-possivel-derrota-republicana-nas-legislativas-de-2026.html"
-    }
-  },
-  {
     "id": "26_Caetano_Veloso_canta_Gente_em_ato_musical_contra_o",
     "title": "Caetano Veloso canta \"Gente\" em ato musical contra o PL da Dosimetria",
     "date": null,
