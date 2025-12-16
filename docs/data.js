@@ -238,35 +238,5 @@ const newsData = [
       },
       "tiktok_summary": "A Câmara dos Deputados está sendo tomada por uma maioria que atuam contra os interesses da população, promovendo reformas que são retrocessos. É hora de reverter essa situação e proteger a democracia no Brasil! #DemocraciaEmRisco #TiraniaDaMaioridade\n\n🔗 https://www.brasil247.com/blog/camara-dos-deputados-contra-o-povo-abraca-o-fascismo"
     }
-  },
-  {
-    "id": "20_Manifestantes_vão_às_ruas_contra_o_PL_da_Dosimetri",
-    "title": "Manifestantes vão às ruas contra o PL da Dosimetria",
-    "date": null,
-    "url": "https://www.cartacapital.com.br/politica/manifestantes-vao-as-ruas-contra-o-pl-da-dosimetria/",
-    "assets_path": "assets/20_Manifestantes_vão_às_ruas_contra_o_PL_da_Dosimetri",
-    "zip_path": "assets/20_Manifestantes_vão_às_ruas_contra_o_PL_da_Dosimetri/20_Manifestantes_vão_às_ruas_contra_o_PL_da_Dosimetri.zip",
-    "content": {
-      "introduction": {
-        "text": "Milhares de pessoas se manifestam em todo o país contra o projeto de lei da Dosimetria que reduziria drasticamente a pena do ex-presidente Jair Bolsonaro.",
-        "image": "introduction.png",
-        "prompt": "Manifesting crowd in front of a Brazilian flag, protest banner with 'Justice for the President' written in bold letters"
-      },
-      "development": {
-        "text": "O projeto de lei foi aprovado pela Câmara dos Deputados e agora aguarda debate no Senado, onde poderá ser aprovado em pouco mais de dois anos, permitindo liberdade condicional para Bolsonaro.",
-        "image": "development.png",
-        "prompt": "Large-scale representation of the stock market graph on a cityscape background, conveying the financial influence behind the proposal"
-      },
-      "conclusion": {
-        "text": "Os manifestantes protestam contra a aprovação do projeto de lei e pedem justiça para o ex-presidente Jair Bolsonaro, condenado por tentativa de golpe de Estado.",
-        "image": "conclusion.png",
-        "prompt": "A lone senator standing alone at a empty senate desk, surrounded by overturned scales of justice and shattered broken promises"
-      },
-      "general_summary": {
-        "image": "general_summary.png",
-        "prompt": "Senate chamber with scales of justice, dramatic lighting, graphic novel style"
-      },
-      "tiktok_summary": ""
-    }
   }
 ];
