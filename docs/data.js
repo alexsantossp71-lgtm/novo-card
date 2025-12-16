@@ -1,5 +1,35 @@
 const newsData = [
   {
+    "id": "35_Lula_diz_que_mandou_mensagem_para_Trump_agradecend",
+    "title": "Lula diz que mandou mensagem para Trump agradecendo sobre Moraes e que há mais coisa a acertar",
+    "date": "2025-12-15T22:57:25Z",
+    "url": "https://www.terra.com.br/noticias/brasil/politica/lula-diz-que-mandou-mensagem-para-trump-agradecendo-sobre-moraes-e-que-ha-mais-coisa-a-acertar,202e2abacde953e0799c30a7b1d615658ysvcj20.html",
+    "assets_path": "assets/35_Lula_diz_que_mandou_mensagem_para_Trump_agradecend",
+    "zip_path": "assets/35_Lula_diz_que_mandou_mensagem_para_Trump_agradecend/35_Lula_diz_que_mandou_mensagem_para_Trump_agradecend.zip",
+    "content": {
+      "introduction": {
+        "text": "Lula agradece Trump pela retirada das sanções da Lei Magnitsky",
+        "image": "introduction.png",
+        "prompt": "An aerial view of the White House with the American flag waving proudly, as Lula stands in front of it, acknowledging their mutual agreement."
+      },
+      "development": {
+        "text": "O presidente Luiz Inácio Lula Silva (PT) disse que o presidente dos EUA, Donald Trump, tirou o nome do ministro Alexandre de Moraes da lista de sancionados pela Magnitsky. Além disso, a decisão incluiu a remoção da advogada Viviane Barci e do Instituto Lex.",
+        "image": "development.png",
+        "prompt": "A close-up of Lula's hands holding a document with the words 'Sanctions Lifted' on it, standing at the presidential desk with the Brazilian flag behind him."
+      },
+      "conclusion": {
+        "text": "Lula espera que as relações Brasil-EUA voltem à normalidade e tenha certeza de que vai dar certo a relação política.",
+        "image": "conclusion.png",
+        "prompt": "Lula walking alone under a symbolic representation of balanced justice scales, with the Washington Monument in the distance, conveying hope for normalized relations."
+      },
+      "general_summary": {
+        "image": "general_summary.png",
+        "prompt": "A dramatic illustration of Lula, man, shaking hands with an American symbol, set against a backdrop of the Brazilian flag and a modern architectural landmark."
+      },
+      "tiktok_summary": "O presidente Lula agradece Trump pela retirada das sanções da Lei Magnitsky! Ele espera que as relações Brasil-EUA voltem à normalidade. #Lula #Trump #LeiMagnitsky\n\n🔗 https://www.terra.com.br/noticias/brasil/politica/lula-diz-que-mandou-mensagem-para-trump-agradecendo-sobre-moraes-e-que-ha-mais-coisa-a-acertar,202e2abacde953e0799c30a7b1d615658ysvcj20.html"
+    }
+  },
+  {
     "id": "34_Nunca_vou_ser_boa_o_suficiente_para_a_minha_mãe_se",
     "title": "'Nunca vou ser boa o suficiente para a minha mãe se eu não for magra': a dor e a solidão da obesidade",
     "date": null,
