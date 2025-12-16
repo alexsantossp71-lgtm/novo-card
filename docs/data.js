@@ -1,5 +1,103 @@
 const newsData = [
   {
+    "id": "39_O_Agente_Secreto_é_préselecionado_para_o_Oscar_202",
+    "title": "\"O Agente Secreto\" é pré-selecionado para o Oscar 2026",
+    "date": "2025-12-16T18:01:27Z",
+    "url": "https://www.terra.com.br/noticias/o-agente-secreto-e-pre-selecionado-para-o-oscar-2026,58642c2a4072a7b63127e354d11ef29e32ts8gxp.html",
+    "assets_path": "assets/39_O_Agente_Secreto_é_préselecionado_para_o_Oscar_202",
+    "zip_path": "assets/39_O_Agente_Secreto_é_préselecionado_para_o_Oscar_202/39_O_Agente_Secreto_é_préselecionado_para_o_Oscar_202.zip",
+    "content": {
+      "introduction": {
+        "text": "O longa-metragem O Agente Secreto, dirigido por Kleber Mendonça Filho e estrelado por Wagner Moura, está na pré-lista de 15 longas que podem disputar a categoria de Melhor Filme Internacional no Oscar 2026.",
+        "image": "introduction.png",
+        "prompt": "Man, dressed in formal attire, standing heroically in front of a grand film studio"
+      },
+      "development": {
+        "text": "O filme também entrou na pré-lista para Melhor Escalação de Elenco e foi elogiado pela crítica, com prêmios no Festival de Cannes. A pré-lista foi divulgada nesta terça-feira (16/12).",
+        "image": "development.png",
+        "prompt": "Justice scales balanced on top of the Congress Building, surrounded by film reels and cameras"
+      },
+      "conclusion": {
+        "text": "A predefinição dos cinco finalistas acontecerá em 22 de janeiro, e a premiação da Academia será realizada em 15 de março do ano que vem.",
+        "image": "conclusion.png",
+        "prompt": "Film camera with lens closed, resting against a city skyline at sunset"
+      },
+      "general_summary": {
+        "image": "general_summary.png",
+        "prompt": "A cinematic globe with world map in focus, multiple flags waving"
+      },
+      "tiktok_summary": "O Agente Secreto está na pré-lista de Melhor Filme Internacional do Oscar 2026! #OAgenteSecreto #MelhorFilmeInternacional #Oscar2026\n\n🔗 https://www.terra.com.br/noticias/o-agente-secreto-e-pre-selecionado-para-o-oscar-2026,58642c2a4072a7b63127e354d11ef29e32ts8gxp.html"
+    }
+  },
+  {
+    "id": "38_Trama_golpista_a_crítica_de_Moraes_à_articulação_p",
+    "title": "Trama golpista: a crítica de Moraes à articulação pelo PL da Dosimetria",
+    "date": "2025-12-16T21:18:17+00:00",
+    "url": "https://www.cartacapital.com.br/politica/trama-golpista-a-critica-de-moraes-a-articulacao-pelo-pl-da-dosimetria/?utm_source=terra_capa_noticias&utm_medium=referral",
+    "assets_path": "assets/38_Trama_golpista_a_crítica_de_Moraes_à_articulação_p",
+    "zip_path": "assets/38_Trama_golpista_a_crítica_de_Moraes_à_articulação_p/38_Trama_golpista_a_crítica_de_Moraes_à_articulação_p.zip",
+    "content": {
+      "introduction": {
+        "text": "Ministro Alexandre de Moraes critica discussão no Congresso sobre projeto que busca reduzir penas de Jair Bolsonaro",
+        "image": "introduction.png",
+        "prompt": "The Supreme Court building stands tall amidst swirling flags, as the atmosphere of critical discussion unfolds."
+      },
+      "development": {
+        "text": [
+          "“Não é possível mais discursos de atenuante em penas, porque isso seria um recado à sociedade de que o Brasil tolera ou tolerará novos flertes contra a democracia“, alfinetou o magistrado. (O PL da Dosimetria foi aprovado pela Câmara na semana passada e ainda tramita no Senado.)",
+          "A fixação das penas, ressaltou o ministro, serve também para evitar novas tentativas de ruptura institucional.“A reprovabilidade dos crimes e a fixação das penas, com finalidade preventiva, devem deixar muito claro que não é mais possível que se tome de assalto o Estado— (O governo está sob pressão do mercado e do Congresso para continuar suas políticas).",
+          "A crise política persiste, com o avanço global da extrema-direita e a brutalidade em Gaza e na Ucrânia arriscando implodir os frágeis alicerces da governança mundial. (O governo enfrenta desafios internos e externos, incluindo a ameaça bolsonarista persistente.)"
+        ],
+        "image": "development.png",
+        "prompt": "Justice scales tilt in favor of balance, with figures from various backgrounds represented, as the nation comes together to address the contentious issue."
+      },
+      "conclusion": {
+        "text": "",
+        "image": "conclusion.png",
+        "prompt": "A cinematic shot of a Brazilian flag unfurling under an evening sky, signifying hope for a brighter future."
+      },
+      "general_summary": {
+        "image": "general_summary.png",
+        "prompt": "A dramatic illustration of a parliament building with national flags, symbolizing the struggle for justice and democracy."
+      },
+      "tiktok_summary": ""
+    }
+  },
+  {
+    "id": "37_Júlio_Lancellotti_é_calado_nas_redes_enquanto_padr",
+    "title": "Júlio Lancellotti é calado nas redes enquanto padres conservadores discursam para milhões",
+    "date": "2025-12-16T21:26:50+00:00",
+    "url": "https://apublica.org/2025/12/lancellotti-silencia-e-padres-conservadores-discursam-nas-redes/?utm_source=terra_capa_noticias&utm_medium=referral",
+    "assets_path": "assets/37_Júlio_Lancellotti_é_calado_nas_redes_enquanto_padr",
+    "zip_path": "assets/37_Júlio_Lancellotti_é_calado_nas_redes_enquanto_padr/37_Júlio_Lancellotti_é_calado_nas_redes_enquanto_padr.zip",
+    "content": {
+      "introduction": {
+        "text": "Religiosos católicos como Frei Gilson e Paulo Ricardo têm milhões de seguidores nas redes sociais e defendem pautas progressistas.",
+        "image": "introduction.png",
+        "prompt": "A group of Catholic priests standing together in front of the Brazilian congress building, looking determined"
+      },
+      "development": {
+        "text": [
+          "Frei Gilson, com 8,65 milhões de inscritos no YouTube e 11,1 milhões de seguidores no Instagram",
+          "publica músicas, cortes de shows, leituras e reflexões sobre a Bíblia",
+          "O cardeal Odilo Pedro Scherer também segue ativo nas redes sociais, apesar de ser o responsável pela solicitação de afastamento do padre Júlio Lancellotti"
+        ],
+        "image": "development.png",
+        "prompt": "Frei Gilson, a young priest, standing on stage, microphone in hand, addressing a crowded auditorium"
+      },
+      "conclusion": {
+        "text": "Enquanto religiosos católicos com seguidores em milhões defendem pautas progressistas, outros são proibidos de transmitir missas ao vivo e seguir com suas atividades nas redes sociais.",
+        "image": "conclusion.png",
+        "prompt": "A judge's gavel lying on a table with scales of justice looming large in the background"
+      },
+      "general_summary": {
+        "image": "general_summary.png",
+        "prompt": "Brazilian cathedral with a large crowd of protesters, diverse religious figures holding signs and banners"
+      },
+      "tiktok_summary": ""
+    }
+  },
+  {
     "id": "35_Lula_diz_que_mandou_mensagem_para_Trump_agradecend",
     "title": "Lula diz que mandou mensagem para Trump agradecendo sobre Moraes e que há mais coisa a acertar",
     "date": "2025-12-15T22:57:25Z",
