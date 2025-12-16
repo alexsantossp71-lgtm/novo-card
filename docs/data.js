@@ -330,36 +330,6 @@ const newsData = [
     }
   },
   {
-    "id": "17_Cancelamento_praticado_pela_USP_faz_lembrar_atuaçã",
-    "title": "Cancelamento praticado pela USP faz lembrar atuação na ditadura",
-    "date": null,
-    "url": "https://www.brasil247.com/blog/cancelamento-praticado-pela-usp-faz-lembrar-atuacao-na-ditadura",
-    "assets_path": "assets/17_Cancelamento_praticado_pela_USP_faz_lembrar_atuaçã",
-    "zip_path": "assets/17_Cancelamento_praticado_pela_USP_faz_lembrar_atuaçã/17_Cancelamento_praticado_pela_USP_faz_lembrar_atuaçã.zip",
-    "content": {
-      "introduction": {
-        "text": "A Universidade de São Paulo (USP) tem sido alvo de críticas por sua gestão durante a ditadura militar no Brasil, com acusações de violações dos direitos humanos e repressão a estudantes e professores opositores.",
-        "image": "introduction.png",
-        "prompt": "A symbol of authoritarianism in Brazil's modern education system, as represented by a stern-looking gate"
-      },
-      "development": {
-        "text": "O caso do professor Alysson Mascaro, que foi banido sem processo límpido, é um exemplo disso. A USP manteve uma agência de informação que fez triagem ideológica e fornecia dados aos órgãos de segurança para perseguir estudantes e professores contrários à ditadura.",
-        "image": "development.png",
-        "prompt": "A researcher's desk with scattered papers and a red X marked through a critical report, dimly lit"
-      },
-      "conclusion": {
-        "text": "A decisão da USP é um exemplo do autoritarismo que ainda existe no Brasil, especialmente em instituições de ensino. É necessário voltar a esse passado para observar como a repressão foi comum e que os acusações são iguais às feitas contra o jogador Reinaldo Lima.",
-        "image": "conclusion.png",
-        "prompt": "A monument with a broken chain at its base, surrounded by fragmented mirrors reflecting the need for reform"
-      },
-      "general_summary": {
-        "image": "general_summary.png",
-        "prompt": "Modernist university building with a shattered mirror reflecting a broken scale of justice, dramatic lighting"
-      },
-      "tiktok_summary": "O cancelamento da USP é um alerta sobre a persistência do autoritarismo no Brasil! Não podemos permitir que os estudantes e professores sejam perseguidos sem processos justos. #Democracia #JustiçaSocial\n\n🔗 https://www.brasil247.com/blog/cancelamento-praticado-pela-usp-faz-lembrar-atuacao-na-ditadura"
-    }
-  },
-  {
     "id": "9_Deputado_relatou_à_PF_ameaça_de_Lira_por_verbas_do",
     "title": "Deputado relatou à PF ameaça de Lira por verbas do orçamento secreto para Alagoas",
     "date": null,
