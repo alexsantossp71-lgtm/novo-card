@@ -300,36 +300,6 @@ const newsData = [
     }
   },
   {
-    "id": "23_Bolsonaro_não_tem_ninguém_com_força_nacional_à_sua",
-    "title": "Bolsonaro não tem ninguém com força nacional à sua imagem e semelhança",
-    "date": null,
-    "url": "https://www.brasil247.com/blog/bolsonaro-nao-tem-ninguem-com-forca-nacional-a-sua-imagem-e-semelhanca",
-    "assets_path": "assets/23_Bolsonaro_não_tem_ninguém_com_força_nacional_à_sua",
-    "zip_path": "assets/23_Bolsonaro_não_tem_ninguém_com_força_nacional_à_sua/23_Bolsonaro_não_tem_ninguém_com_força_nacional_à_sua.zip",
-    "content": {
-      "introduction": {
-        "text": "O artigo analisa o colapso do bolsonarismo após a prisão de Jair Bolsonaro e questiona quem será o próximo líder da direita.",
-        "image": "introduction.png",
-        "prompt": "A Brazilian military parade marches down the street, with flags and banners waving in the air."
-      },
-      "development": {
-        "text": "A autora destaca que Carlos Bolsonaro é o único candidato forte da direita ao Senado, mas não há ninguém com expressão nacional que possa sucedê-lo à imagem de Bolsonaro.",
-        "image": "development.png",
-        "prompt": "Carlos stands alone on a senate floor, looking out at an empty chamber, with scales of justice hanging from the ceiling."
-      },
-      "conclusion": {
-        "text": "O bolsonarismo está em crise e falta uma liderança clara para continuar a luta. A solidão de Bolsonaro pode ser um drama menor diante da ausência de futuro do movimento.",
-        "image": "conclusion.png",
-        "prompt": "The image shows a broken scale of justice lying on the ground, surrounded by scattered Brazilian flags and presidential documents."
-      },
-      "general_summary": {
-        "image": "general_summary.png",
-        "prompt": "Dramatic illustration of a Brazilian flag waving in the wind, with a faint outline of a presidential palace in the background."
-      },
-      "tiktok_summary": "O bolsonarismo está sem líder! Carlos Bolsonaro é o único que salva a família, mas quem irá sucedê-lo? #Bolsonaro #Direita #Política\n\n🔗 https://www.brasil247.com/blog/bolsonaro-nao-tem-ninguem-com-forca-nacional-a-sua-imagem-e-semelhanca"
-    }
-  },
-  {
     "id": "21_Câmara_dos_Deputados_contra_o_povo_abraça_o_fascis",
     "title": "Câmara dos Deputados contra o povo abraça o fascismo",
     "date": null,
