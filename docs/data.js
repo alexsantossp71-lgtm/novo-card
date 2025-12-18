@@ -1,5 +1,38 @@
 const newsData = [
   {
+    "id": "40_PF_prende_filho_do_careca_do_INSS_em_nova_fase_de_",
+    "title": "PF prende filho do \"careca do INSS\" em nova fase de operação contra fraudes",
+    "date": null,
+    "url": "https://www.cnnbrasil.com.br/politica/pf-prende-filho-do-careca-do-inss-em-nova-fase-de-operacao-contra-fraudes/",
+    "assets_path": "assets/40_PF_prende_filho_do_careca_do_INSS_em_nova_fase_de_",
+    "zip_path": "assets/40_PF_prende_filho_do_careca_do_INSS_em_nova_fase_de_/40_PF_prende_filho_do_careca_do_INSS_em_nova_fase_de_.zip",
+    "content": {
+      "introduction": {
+        "text": "Polícia Federal prende Romeu Carvalho Antunes, filho de 'Careca do INSS'",
+        "image": "introduction.png",
+        "prompt": ""
+      },
+      "development": {
+        "text": [
+          "Romeu Carvalho Antunes foi preso pela Polícia Federal nesta quinta-feira (18).",
+          "Ele é o filho de Antônio Carlos Camilo Antunes, conhecido como 'Careca do INSS'."
+        ],
+        "image": "development.png",
+        "prompt": ""
+      },
+      "conclusion": {
+        "text": "A prisão do menino marca o segundo caso relacionado ao esquema de corrupção do INSS.",
+        "image": "conclusion.png",
+        "prompt": ""
+      },
+      "general_summary": {
+        "image": "general_summary.png",
+        "prompt": ""
+      },
+      "tiktok_summary": "Romeu Carvalho Antunes, filho de 'Careca do INSS', foi preso pela PF. O caso é o segundo relacionado ao esquema de corrupção do INSS! #corrupçãoinss #PF #prenda\n\n🔗 https://www.cnnbrasil.com.br/politica/pf-prende-filho-do-careca-do-inss-em-nova-fase-de-operacao-contra-fraudes/"
+    }
+  },
+  {
     "id": "39_O_Agente_Secreto_é_préselecionado_para_o_Oscar_202",
     "title": "\"O Agente Secreto\" é pré-selecionado para o Oscar 2026",
     "date": "2025-12-16T18:01:27Z",
