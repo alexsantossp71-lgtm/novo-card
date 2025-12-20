@@ -8,25 +8,28 @@ const newsData = [
     "zip_path": "assets/43_Flávio_finge_que_engana_e_a_Faria_Lima_e_a_velha_d/43_Flávio_finge_que_engana_e_a_Faria_Lima_e_a_velha_d.zip",
     "content": {
       "introduction": {
-        "text": "Erro ao gerar resumo.",
+        "text": "Flávio Bolsonaro, filho do presidente Jair Bolsonaro, anunciou-se como o 'ungido' do bolsonarismo e escolheu Tarcísio de Freitas como seu ajudador em São Paulo.",
         "image": "introduction.png",
-        "prompt": "government building, wide angle, dramatic sky"
+        "prompt": "Military parade with Brazilian flags and soldiers marching towards a symbolic congress building"
       },
       "development": {
-        "text": "HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError(\"HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente\"))",
+        "text": [
+          "Flávio rejeitado pelo centrão, por Malafaia, pela Faria Lima, mas apareceu na Quaest como escolhido pelo pai.",
+          "Tarcísio, que passou a ser uma personagem do entorno, foi enquadrado pelo filho, que transmite certezas nos últimos dias."
+        ],
         "image": "development.png",
-        "prompt": "modern architecture, symbolic scene, detailed scene, moody lighting"
+        "prompt": "Far-right politician being rejected by conservative forces, but still gaining popularity among supporters"
       },
       "conclusion": {
-        "text": "Verifique se o Ollama está rodando.",
+        "text": "Flávio está tentando enganar quem finge que está sendo enganado, mas há problemas se desistir da candidatura para enfrentar Lula.",
         "image": "conclusion.png",
-        "prompt": "symbolic closure scene, hopeful atmosphere"
+        "prompt": "A figure trying to deceive others while hiding behind a façade of honesty"
       },
       "general_summary": {
         "image": "general_summary.png",
-        "prompt": "modern architecture, symbolic scene, graphic novel illustration, cinematic"
+        "prompt": "Lula, man, standing in front of São Paulo government palace, looking determined"
       },
-      "tiktok_summary": ""
+      "tiktok_summary": "O Flávio Bolsonaro, o 'ungido' do bolsonarismo, anuncia Tarcísio como seu ajudador em São Paulo. #FlávioBolsonaro #TarcísioDeFreitas #Bolsonarismo\n\n🔗 https://www.brasil247.com/blog/flavio-finge-que-engana-e-a-faria-lima-e-a-velha-direita-fingem-que-sao-enganadas"
     }
   },
   {
@@ -38,23 +41,23 @@ const newsData = [
     "zip_path": "assets/42_PL_da_Dosimetria_é_aberração_jurídica_e_constituci/42_PL_da_Dosimetria_é_aberração_jurídica_e_constituci.zip",
     "content": {
       "introduction": {
-        "text": "Erro ao gerar resumo.",
+        "text": "Reimont vê continuação do golpe em ação do Congresso",
         "image": "introduction.png",
-        "prompt": "Close-up of a frustrated politician, hands on hips, against a blurred background of news headlines"
+        "prompt": "Lula, man, standing in front of the congress building at dusk, looking out towards the city."
       },
       "development": {
-        "text": "HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError(\"HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente\"))",
+        "text": "As mudanças aprovadas para a dosimetria da pena dos golpistas contrariam frontalmente o artigo 5º, inciso XLVI, da Constituição Federal. O presidente Lula vai vetar, mas sabemos que o veto acabará derrubado no Congresso, por uma maioria descompromissada com o país.",
         "image": "development.png",
-        "prompt": "A figure, representing truth, shines light through a prism-like window in a modern cityscape"
+        "prompt": "A parliamentary session room with a long table, symbolizing the balance of power, amidst a backdrop of turmoil and controversy."
       },
       "conclusion": {
-        "text": "Verifique se o Ollama está rodando.",
+        "text": "O STF evitou um colapso institucional e deu um exemplo ao mundo. A atual maioria do Congresso legisla para proteger grupelhos e seus parças.",
         "image": "conclusion.png",
-        "prompt": "The Brazilian flag waves proudly as the sun sets behind it, a symbol of national pride"
+        "prompt": "A serene image of a president's desk with a Brazilian flag background, representing hope and protection for the nation."
       },
       "general_summary": {
         "image": "general_summary.png",
-        "prompt": "Modern congress building with outstretched arms, symbolizing unity"
+        "prompt": "Dramatic illustration of a Brazilian legislative chamber with symbolic scales of justice hanging from the ceiling."
       },
       "tiktok_summary": ""
     }
@@ -68,25 +71,25 @@ const newsData = [
     "zip_path": "assets/41_Deltan_paga_indenização_a_Lula_por_PowerPoint_da_L/41_Deltan_paga_indenização_a_Lula_por_PowerPoint_da_L.zip",
     "content": {
       "introduction": {
-        "text": "Erro ao gerar resumo.",
+        "text": "Ex-procurador da Operação Lava Jato, Deltan Dallagnol, pagou R$ 146 mil em indenização ao presidente Luiz Inácio Lula da Silva após ser condenado por danos morais.",
         "image": "introduction.png",
-        "prompt": "government building, wide angle, dramatic sky"
+        "prompt": "Gibrat Graphic Novel illustration, detailed, dramatic lighting: Lula, man, walking towards a presidential building"
       },
       "development": {
-        "text": "HTTPConnectionPool(host='localhost', port=11434): Max retries exceeded with url: /api/generate (Caused by NewConnectionError(\"HTTPConnection(host='localhost', port=11434): Failed to establish a new connection: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente\"))",
+        "text": "Dallagnol fez uma apresentação com o software para acusar Lula de chefiar uma organização criminosa, que foi amplamente reproduzida pela imprensa e em redes sociais. O valor é corrigido por juros desde a condenação em 2022.",
         "image": "development.png",
-        "prompt": "modern architecture, symbolic scene, detailed scene, moody lighting"
+        "prompt": "Cinematic composition of a witness testifying in front of congress building, with a symbol of justice in the background"
       },
       "conclusion": {
-        "text": "Verifique se o Ollama está rodando.",
+        "text": "A condenação de Dallagnol foi posteriormente anulada após o STF considerar o ex-juiz Sérgio Moro parcial na condução da investigação. Agora, ele deve cumprir com a indenização de R$ 146 mil.",
         "image": "conclusion.png",
-        "prompt": "symbolic closure scene, hopeful atmosphere"
+        "prompt": "Supreme court facade with scales of justice, cinematic composition, sunset background"
       },
       "general_summary": {
         "image": "general_summary.png",
-        "prompt": "modern architecture, symbolic scene, graphic novel illustration, cinematic"
+        "prompt": "Symbolic Brazilian architecture with broken scales, darkening sky"
       },
-      "tiktok_summary": ""
+      "tiktok_summary": "O ex-procurador Deltan Dallagnol pagou R$ 146 mil em indenização ao presidente Lula após ser condenado por danos morais. #justiça #LavaJato #LuizInácioLulaDaSilva\n\n🔗 https://www.cartacapital.com.br/politica/deltan-paga-indenizacao-a-lula-por-powerpoint-da-lava-jato/"
     }
   },
   {
@@ -98,28 +101,25 @@ const newsData = [
     "zip_path": "assets/40_PF_prende_filho_do_careca_do_INSS_em_nova_fase_de_/40_PF_prende_filho_do_careca_do_INSS_em_nova_fase_de_.zip",
     "content": {
       "introduction": {
-        "text": "Polícia Federal prende Romeu Carvalho Antunes, filho de 'Careca do INSS'",
+        "text": "PF prende Romeu Carvalho Antunes, filho de 'Careca do INSS',",
         "image": "introduction.png",
-        "prompt": ""
+        "prompt": "Police officer apprehending a suspect in a modern building, Rio de Janeiro"
       },
       "development": {
-        "text": [
-          "Romeu Carvalho Antunes foi preso pela Polícia Federal nesta quinta-feira (18).",
-          "Ele é o filho de Antônio Carlos Camilo Antunes, conhecido como 'Careca do INSS'."
-        ],
+        "text": "Romeu Carvalho Antunes foi preso pela Polícia Federal nesta quinta-feira (18), após ser flagrado no mesmo esquema que levou à prisão do pai, Antônio Carlos Camilo Antunes, em setembro.",
         "image": "development.png",
-        "prompt": ""
+        "prompt": "Federal police arresting the son of 'Careca do INSS' in a sleek courtroom setting"
       },
       "conclusion": {
-        "text": "A prisão do menino marca o segundo caso relacionado ao esquema de corrupção do INSS.",
+        "text": "A prisão de Romeu Carvalho Antunes é um novo capítulo na luta contra o esquema do INSS.",
         "image": "conclusion.png",
-        "prompt": ""
+        "prompt": "Justice scales closing in on corruption, Brazil's capital cityscape"
       },
       "general_summary": {
         "image": "general_summary.png",
-        "prompt": ""
+        "prompt": "Brazilian justice scales leaning towards balance"
       },
-      "tiktok_summary": "Romeu Carvalho Antunes, filho de 'Careca do INSS', foi preso pela PF. O caso é o segundo relacionado ao esquema de corrupção do INSS! #corrupçãoinss #PF #prenda\n\n🔗 https://www.cnnbrasil.com.br/politica/pf-prende-filho-do-careca-do-inss-em-nova-fase-de-operacao-contra-fraudes/"
+      "tiktok_summary": "Pelo menos mais uma vítima da máquina do INSS. #fraude #INSS #justiça\n\n🔗 https://www.cnnbrasil.com.br/politica/pf-prende-filho-do-careca-do-inss-em-nova-fase-de-operacao-contra-fraudes/"
     }
   },
   {
@@ -131,29 +131,28 @@ const newsData = [
     "zip_path": "assets/38_Trama_golpista_a_crítica_de_Moraes_à_articulação_p/38_Trama_golpista_a_crítica_de_Moraes_à_articulação_p.zip",
     "content": {
       "introduction": {
-        "text": "Ministro Alexandre de Moraes critica discussão no Congresso sobre projeto que busca reduzir penas de Jair Bolsonaro",
+        "text": "Ministro Alexandre de Moraes critica proposta que busca reduzir penas de Jair Bolsonaro, diz que 'não é possível mais discursos de atenuante em penas aplicadas depois do devido processo legal'.",
         "image": "introduction.png",
-        "prompt": "Ministro Alexandre at Supreme Court building, justice scales critique Congressional discussion"
+        "prompt": "Ministro Alexandre de standing in front of the Supreme Court building, looking at justice scales."
       },
       "development": {
         "text": [
-          "“Não é possível mais discursos de atenuante em penas, porque isso seria um recado à sociedade de que o Brasil tolera ou tolerará novos flertes contra a democracia“, alfinetou o magistrado. (O PL da Dosimetria foi aprovado pela Câmara na semana passada e ainda tramita no Senado.)",
-          "A fixação das penas, ressaltou o ministro, serve também para evitar novas tentativas de ruptura institucional.“A reprovabilidade dos crimes e a fixação das penas, com finalidade preventiva, devem deixar muito claro que não é mais possível que se tome de assalto o Estado— (O governo está sob pressão do mercado e do Congresso para continuar suas políticas).",
-          "A crise política persiste, com o avanço global da extrema-direita e a brutalidade em Gaza e na Ucrânia arriscando implodir os frágeis alicerces da governança mundial. (O governo enfrenta desafios internos e externos, incluindo a ameaça bolsonarista persistente.)"
+          "O ministro Alexandre de Moraes aproveitou o último julgamento de núcleos da trama golpista para criticar a discussão no Congresso Nacional sobre o projeto que busca reduzir as penas.",
+          "A proposta, chamada PL da Dosimetria, altera a forma de calcular as penas de crimes como golpe de Estado e abolição violenta do Estado Democrático de Direito."
         ],
         "image": "development.png",
-        "prompt": "Justice scales tilt to one side as Jair speaks at Congress building, crowd reacts"
+        "prompt": "Supreme Court facade with scales of justice, cinematic composition"
       },
       "conclusion": {
-        "text": "",
+        "text": "O ministro enfatizou que a fixação das penas é fundamental para evitar novas tentativas de ruptura institucional e deixar claro que não é mais possível que um grupo criminoso se manter no poder eternamente.",
         "image": "conclusion.png",
-        "prompt": "National flag waving in the wind, symbolizing democracy's balance"
+        "prompt": "Brazilian flags waving in the wind, as if justice is being upheld."
       },
       "general_summary": {
         "image": "general_summary.png",
-        "prompt": "Brazilian government building with flags, people protesting in streets"
+        "prompt": "Justice scales balanced on Supreme Court building, with a solemn atmosphere."
       },
-      "tiktok_summary": ""
+      "tiktok_summary": "O Brasil está mais vulnerável do que nunca à ameaça bolsonarista. A proposta da Dosimetria pode ser o próximo passo para normalizar a violência. Não deixe a Carta parar! #jornalismo #democracia #brasil\n\n🔗 https://www.cartacapital.com.br/politica/trama-golpista-a-critica-de-moraes-a-articulacao-pelo-pl-da-dosimetria/?utm_source=terra_capa_noticias&utm_medium=referral"
     }
   },
   {
@@ -165,29 +164,27 @@ const newsData = [
     "zip_path": "assets/37_Júlio_Lancellotti_é_calado_nas_redes_enquanto_padr/37_Júlio_Lancellotti_é_calado_nas_redes_enquanto_padr.zip",
     "content": {
       "introduction": {
-        "text": "Religiosos católicos como Frei Gilson e Paulo Ricardo têm milhões de seguidores nas redes sociais e defendem pautas progressistas.",
+        "text": "Religiosos católicos continuam nas redes sociais apesar da restrição ao padre Júlio Lancellotti.",
         "image": "introduction.png",
-        "prompt": "government building, wide angle, dramatic sky"
+        "prompt": "A priest stands in a crowded internet forum, surrounded by glowing screens and connected devices"
       },
       "development": {
         "text": [
-          "Frei Gilson, com 8,65 milhões de inscritos no YouTube e 11,1 milhões de seguidores no Instagram",
-          "publica músicas, cortes de shows, leituras e reflexões sobre a Bíblia",
-          "O cardeal Odilo Pedro Scherer também segue ativo nas redes sociais, apesar de ser o responsável pela solicitação de afastamento do padre Júlio Lancellotti"
+          "Frei Gilson, com 8,65 milhões de inscritos no YouTube e 11,1 milhões de seguidores no Instagram, segue publicando músicas, cortes de shows e reflexões sobre a Bíblia. "
         ],
         "image": "development.png",
-        "prompt": "modern architecture, symbolic scene, detailed scene, moody lighting"
+        "prompt": "Frei Gilson sitting in a dimly lit room with music sheets, playing his guitar and looking up at a Bible on a shelf above him"
       },
       "conclusion": {
-        "text": "Enquanto religiosos católicos com seguidores em milhões defendem pautas progressistas, outros são proibidos de transmitir missas ao vivo e seguir com suas atividades nas redes sociais.",
+        "text": "O padre Paulo Ricardo, com 2,7 milhões de seguidores no Instagram, também é um religioso influente nas redes sociais.",
         "image": "conclusion.png",
-        "prompt": "symbolic closure scene, hopeful atmosphere"
+        "prompt": "Father Paulo Ricardo smiling as he holds up a tablet showing a quote from the bible, surrounded by candles and a serene atmosphere"
       },
       "general_summary": {
         "image": "general_summary.png",
-        "prompt": "modern architecture, symbolic scene, graphic novel illustration, cinematic"
+        "prompt": "Brazilian religioso influenciosos standing in front of a majestic cathedral, symbolizing spiritual influence"
       },
-      "tiktok_summary": ""
+      "tiktok_summary": "#ReligiososNaRedes #SegurançaOnline #DireitoAExpressão\n\n🔗 https://apublica.org/2025/12/lancellotti-silencia-e-padres-conservadores-discursam-nas-redes/?utm_source=terra_capa_noticias&utm_medium=referral"
     }
   }
 ];
