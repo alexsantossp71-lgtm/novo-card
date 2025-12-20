@@ -73,21 +73,21 @@ const newsData = [
       "introduction": {
         "text": "Ex-procurador da Operação Lava Jato, Deltan Dallagnol, pagou R$ 146 mil em indenização ao presidente Luiz Inácio Lula da Silva após ser condenado por danos morais.",
         "image": "introduction.png",
-        "prompt": "Gibrat Graphic Novel illustration, detailed, dramatic lighting: Lula, man, walking towards a presidential building"
+        "prompt": "Man in suit, holding briefcase, walking towards the camera, Brazilian flag waving behind him."
       },
       "development": {
         "text": "Dallagnol fez uma apresentação com o software para acusar Lula de chefiar uma organização criminosa, que foi amplamente reproduzida pela imprensa e em redes sociais. O valor é corrigido por juros desde a condenação em 2022.",
         "image": "development.png",
-        "prompt": "Cinematic composition of a witness testifying in front of congress building, with a symbol of justice in the background"
+        "prompt": "Congress building at night with people protesting, newspaper headlines 'Software' on display."
       },
       "conclusion": {
         "text": "A condenação de Dallagnol foi posteriormente anulada após o STF considerar o ex-juiz Sérgio Moro parcial na condução da investigação. Agora, ele deve cumprir com a indenização de R$ 146 mil.",
         "image": "conclusion.png",
-        "prompt": "Supreme court facade with scales of justice, cinematic composition, sunset background"
+        "prompt": "Justice scales balancing scales of truth, with a subtle image of Lula's presidential seal in the distance."
       },
       "general_summary": {
         "image": "general_summary.png",
-        "prompt": "Symbolic Brazilian architecture with broken scales, darkening sky"
+        "prompt": "President Lula, man, shaking hands with ex-procurador, amidst a backdrop of Brazilian flag and modern cityscape."
       },
       "tiktok_summary": "O ex-procurador Deltan Dallagnol pagou R$ 146 mil em indenização ao presidente Lula após ser condenado por danos morais. #justiça #LavaJato #LuizInácioLulaDaSilva\n\n🔗 https://www.cartacapital.com.br/politica/deltan-paga-indenizacao-a-lula-por-powerpoint-da-lava-jato/"
     }
