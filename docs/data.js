@@ -128,39 +128,5 @@ const newsData = [
       },
       "tiktok_summary": ""
     }
-  },
-  {
-    "id": "43_Eduardo_Bolsonaro_cogita_passaporte_de_apátrida_pa",
-    "title": "Eduardo Bolsonaro cogita 'passaporte de apátrida' para permanecer nos EUA após cassação",
-    "date": "2025-12-20T22:56:12Z",
-    "url": "https://www.terra.com.br/noticias/brasil/politica/eduardo-bolsonaro-cogita-passaporte-de-apatrida-para-permanecer-nos-eua-apos-cassacao,032093469f70c09ad997b7cb68cd1197nk9e7lz9.html",
-    "assets_path": "assets/43_Eduardo_Bolsonaro_cogita_passaporte_de_apátrida_pa",
-    "zip_path": "assets/43_Eduardo_Bolsonaro_cogita_passaporte_de_apátrida_pa/43_Eduardo_Bolsonaro_cogita_passaporte_de_apátrida_pa.zip",
-    "content": {
-      "introduction": {
-        "text": "Bolsonaro perde passaporte diplomático após cassação do mandato",
-        "image": "introduction.png",
-        "prompt": "A military parade is taking place on a wide, open street lined with national flags and government buildings"
-      },
-      "development": {
-        "text": [
-          "Segundo o site da Câmara, o passaporte diplomático de Eduardo Bolsonaro e sua esposa foi emitido em 2023, com validade até 31 de julho de 2027. A página indica que o documento não é mais válido.",
-          "Eduardo Bolsonaro afirma que pode perder seu passaporte brasileiro após a cassação do seu mandato, mas ainda terá meios para se deslocar internacionalmente",
-          "O filho de Jair Bolsonaro nega que a perda do mandato prejudicará sua vida política no exterior e espera continuar com entrevistas em canais internacionais"
-        ],
-        "image": "development.png",
-        "prompt": "A close-up of a document being signed by the man at a large wooden desk, with a blurred image of a parliament building behind him"
-      },
-      "conclusion": {
-        "text": "A situação de Bolsonaro após a cassação do seu mandato ainda é incerta, mas ele parece estar preparado para lidar com as consequências.",
-        "image": "conclusion.png",
-        "prompt": "A silhouette of a lone figure standing in front of a flag-waving crowd, symbolizing uncertainty about the future"
-      },
-      "general_summary": {
-        "image": "general_summary.png",
-        "prompt": "Detailed illustration of a man in formal attire, holding a passport with a Brazilian flag background and a blurred cityscape"
-      },
-      "tiktok_summary": ""
-    }
   }
 ];
