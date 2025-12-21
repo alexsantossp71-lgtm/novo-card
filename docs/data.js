@@ -130,36 +130,6 @@ const newsData = [
     }
   },
   {
-    "id": "44_Brasil",
-    "title": "Brasil",
-    "date": null,
-    "url": "https://exame.com/brasil/justica-mantem-indenizacao-de-r-400-mil-a-dilma-por-perseguicao-na-ditadura/",
-    "assets_path": "assets/44_Brasil",
-    "zip_path": "assets/44_Brasil/44_Brasil.zip",
-    "content": {
-      "introduction": {
-        "text": "Ex-presidente Dilma Rousseff mantém indenização de R$ 400 mil por perseguição política na ditadura",
-        "image": "introduction.png",
-        "prompt": "Former Presidente's government building with Brazilian flag, Rousseff in the foreground."
-      },
-      "development": {
-        "text": "O Tribunal Regional Federal da 1ª Região (TRF1) rejeitou o recurso da União, que alegou que Dilma já havia sido reconhecida como anistiada em vários estados.",
-        "image": "development.png",
-        "prompt": "Courtroom scene with a judge, symbolic scales of justice and Brazilian flag in background."
-      },
-      "conclusion": {
-        "text": "A decisão do TRF1 manutém a indenização por danos morais e determina que ela receba uma reparação econômica em prestação mensal.",
-        "image": "conclusion.png",
-        "prompt": "Scene depicting a payment transaction, money transferring into a large briefcase, Brazilian flag waving in distance."
-      },
-      "general_summary": {
-        "image": "general_summary.png",
-        "prompt": "Scene representing the Brazilian government's struggles with indemnization after Rousseff's presidential term."
-      },
-      "tiktok_summary": "Ex-presidente Dilma Rousseff mantém indenização de R$ 400 mil por perseguição política na ditadura. #DilmaRousseff #Justiça\n\n🔗 https://exame.com/brasil/justica-mantem-indenizacao-de-r-400-mil-a-dilma-por-perseguicao-na-ditadura/"
-    }
-  },
-  {
     "id": "43_Eduardo_Bolsonaro_cogita_passaporte_de_apátrida_pa",
     "title": "Eduardo Bolsonaro cogita 'passaporte de apátrida' para permanecer nos EUA após cassação",
     "date": "2025-12-20T22:56:12Z",
