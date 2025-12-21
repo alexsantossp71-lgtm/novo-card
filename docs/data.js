@@ -1,32 +1,96 @@
 const newsData = [
   {
-    "id": "42_PL_da_Dosimetria_é_aberração_jurídica_e_constituci",
-    "title": "PL da Dosimetria é aberração jurídica e constitucional",
+    "id": "44_Brasil",
+    "title": "Brasil",
     "date": null,
-    "url": "https://www.brasil247.com/blog/pl-da-dosimetria-e-aberracao-juridica-e-constitucional",
-    "assets_path": "assets/42_PL_da_Dosimetria_é_aberração_jurídica_e_constituci",
-    "zip_path": "assets/42_PL_da_Dosimetria_é_aberração_jurídica_e_constituci/42_PL_da_Dosimetria_é_aberração_jurídica_e_constituci.zip",
+    "url": "https://exame.com/brasil/justica-mantem-indenizacao-de-r-400-mil-a-dilma-por-perseguicao-na-ditadura/",
+    "assets_path": "assets/44_Brasil",
+    "zip_path": "assets/44_Brasil/44_Brasil.zip",
     "content": {
       "introduction": {
-        "text": "Reimont vê continuação do golpe em ação do Congresso",
+        "text": "Ex-presidente Dilma Rousseff mantém indenização de R$ 400 mil por perseguição política na ditadura",
         "image": "introduction.png",
-        "prompt": "Lula, man, standing in front of the congress building at dusk, looking out towards the city."
+        "prompt": ""
       },
       "development": {
-        "text": "As mudanças aprovadas para a dosimetria da pena dos golpistas contrariam frontalmente o artigo 5º, inciso XLVI, da Constituição Federal. O presidente Lula vai vetar, mas sabemos que o veto acabará derrubado no Congresso, por uma maioria descompromissada com o país.",
+        "text": "O Tribunal Regional Federal da 1ª Região (TRF1) rejeitou o recurso da União, que alegou que Dilma já havia sido reconhecida como anistiada em vários estados.",
         "image": "development.png",
-        "prompt": "A parliamentary session room with a long table, symbolizing the balance of power, amidst a backdrop of turmoil and controversy."
+        "prompt": ""
       },
       "conclusion": {
-        "text": "O STF evitou um colapso institucional e deu um exemplo ao mundo. A atual maioria do Congresso legisla para proteger grupelhos e seus parças.",
+        "text": "A decisão do TRF1 manutém a indenização por danos morais e determina que ela receba uma reparação econômica em prestação mensal.",
         "image": "conclusion.png",
-        "prompt": "A serene image of a president's desk with a Brazilian flag background, representing hope and protection for the nation."
+        "prompt": ""
       },
       "general_summary": {
         "image": "general_summary.png",
-        "prompt": "Dramatic illustration of a Brazilian legislative chamber with symbolic scales of justice hanging from the ceiling."
+        "prompt": ""
+      },
+      "tiktok_summary": "Ex-presidente Dilma Rousseff mantém indenização de R$ 400 mil por perseguição política na ditadura. #DilmaRousseff #Justiça\n\n🔗 https://exame.com/brasil/justica-mantem-indenizacao-de-r-400-mil-a-dilma-por-perseguicao-na-ditadura/"
+    }
+  },
+  {
+    "id": "43_Eduardo_Bolsonaro_cogita_passaporte_de_apátrida_pa",
+    "title": "Eduardo Bolsonaro cogita 'passaporte de apátrida' para permanecer nos EUA após cassação",
+    "date": "2025-12-20T22:56:12Z",
+    "url": "https://www.terra.com.br/noticias/brasil/politica/eduardo-bolsonaro-cogita-passaporte-de-apatrida-para-permanecer-nos-eua-apos-cassacao,032093469f70c09ad997b7cb68cd1197nk9e7lz9.html",
+    "assets_path": "assets/43_Eduardo_Bolsonaro_cogita_passaporte_de_apátrida_pa",
+    "zip_path": "assets/43_Eduardo_Bolsonaro_cogita_passaporte_de_apátrida_pa/43_Eduardo_Bolsonaro_cogita_passaporte_de_apátrida_pa.zip",
+    "content": {
+      "introduction": {
+        "text": "Bolsonaro perde passaporte diplomático após cassação do mandato",
+        "image": "introduction.png",
+        "prompt": "A military parade is taking place on a wide, open street lined with national flags and government buildings"
+      },
+      "development": {
+        "text": [
+          "Segundo o site da Câmara, o passaporte diplomático de Eduardo Bolsonaro e sua esposa foi emitido em 2023, com validade até 31 de julho de 2027. A página indica que o documento não é mais válido.",
+          "Eduardo Bolsonaro afirma que pode perder seu passaporte brasileiro após a cassação do seu mandato, mas ainda terá meios para se deslocar internacionalmente",
+          "O filho de Jair Bolsonaro nega que a perda do mandato prejudicará sua vida política no exterior e espera continuar com entrevistas em canais internacionais"
+        ],
+        "image": "development.png",
+        "prompt": "A close-up of a document being signed by the man at a large wooden desk, with a blurred image of a parliament building behind him"
+      },
+      "conclusion": {
+        "text": "A situação de Bolsonaro após a cassação do seu mandato ainda é incerta, mas ele parece estar preparado para lidar com as consequências.",
+        "image": "conclusion.png",
+        "prompt": "A silhouette of a lone figure standing in front of a flag-waving crowd, symbolizing uncertainty about the future"
+      },
+      "general_summary": {
+        "image": "general_summary.png",
+        "prompt": "Detailed illustration of a man in formal attire, holding a passport with a Brazilian flag background and a blurred cityscape"
       },
       "tiktok_summary": ""
+    }
+  },
+  {
+    "id": "42_Brasil",
+    "title": "Brasil",
+    "date": null,
+    "url": "https://exame.com/brasil/justica-mantem-indenizacao-de-r-400-mil-a-dilma-por-perseguicao-na-ditadura/",
+    "assets_path": "assets/42_Brasil",
+    "zip_path": "assets/42_Brasil/42_Brasil.zip",
+    "content": {
+      "introduction": {
+        "text": "Justiça mantém indenização de R$ 400 mil a Dilma Rousseff por perseguição política na ditadura",
+        "image": "introduction.png",
+        "prompt": "Brazilian government building at night, Brazilian flag waving in the foreground"
+      },
+      "development": {
+        "text": "A União permanece obrigada a indenizar Dilma Rousseff em R$ 400 mil, rejeitando o recurso que alegou que ela já havia sido reconhecida como anistiada em vários estados.",
+        "image": "development.png",
+        "prompt": "Presidential desk with document signed by Lula, Brazilian flag hanging on wall behind"
+      },
+      "conclusion": {
+        "text": "A decisão do TRF1 considerou que as responsabilidades das esferas estadual e federal são distintas, mantendo a indenização por danos morais e determinando uma reparação econômica em prestação mensal",
+        "image": "conclusion.png",
+        "prompt": "Courtroom scene with judge's gavel resting on a scale of justice, Brazilian flag draped over the walls"
+      },
+      "general_summary": {
+        "image": "general_summary.png",
+        "prompt": "Government building with Brazilian flag, grand staircase leading to a door marked 'Justice Scales'"
+      },
+      "tiktok_summary": "Dilma Rousseff recebe indenização de R$ 400 mil pela perseguição política sofrida durante o regime militar. A União será obrigada a pagar a indenização por danos morais.\n\n🔗 https://exame.com/brasil/justica-mantem-indenizacao-de-r-400-mil-a-dilma-por-perseguicao-na-ditadura/"
     }
   },
   {
