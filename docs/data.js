@@ -162,35 +162,5 @@ const newsData = [
       },
       "tiktok_summary": ""
     }
-  },
-  {
-    "id": "42_Brasil",
-    "title": "Brasil",
-    "date": null,
-    "url": "https://exame.com/brasil/justica-mantem-indenizacao-de-r-400-mil-a-dilma-por-perseguicao-na-ditadura/",
-    "assets_path": "assets/42_Brasil",
-    "zip_path": "assets/42_Brasil/42_Brasil.zip",
-    "content": {
-      "introduction": {
-        "text": "Justiça mantém indenização de R$ 400 mil a Dilma Rousseff por perseguição política na ditadura",
-        "image": "introduction.png",
-        "prompt": "Brazilian government building at night, Brazilian flag waving in the foreground"
-      },
-      "development": {
-        "text": "A União permanece obrigada a indenizar Dilma Rousseff em R$ 400 mil, rejeitando o recurso que alegou que ela já havia sido reconhecida como anistiada em vários estados.",
-        "image": "development.png",
-        "prompt": "Presidential desk with document signed by Lula, Brazilian flag hanging on wall behind"
-      },
-      "conclusion": {
-        "text": "A decisão do TRF1 considerou que as responsabilidades das esferas estadual e federal são distintas, mantendo a indenização por danos morais e determinando uma reparação econômica em prestação mensal",
-        "image": "conclusion.png",
-        "prompt": "Courtroom scene with judge's gavel resting on a scale of justice, Brazilian flag draped over the walls"
-      },
-      "general_summary": {
-        "image": "general_summary.png",
-        "prompt": "Government building with Brazilian flag, grand staircase leading to a door marked 'Justice Scales'"
-      },
-      "tiktok_summary": "Dilma Rousseff recebe indenização de R$ 400 mil pela perseguição política sofrida durante o regime militar. A União será obrigada a pagar a indenização por danos morais.\n\n🔗 https://exame.com/brasil/justica-mantem-indenizacao-de-r-400-mil-a-dilma-por-perseguicao-na-ditadura/"
-    }
   }
 ];
