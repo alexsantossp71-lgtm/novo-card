@@ -1,38 +1,5 @@
 const newsData = [
   {
-    "id": "43_Flávio_finge_que_engana_e_a_Faria_Lima_e_a_velha_d",
-    "title": "Flávio finge que engana, e a Faria Lima e a velha direita fingem que são enganadas",
-    "date": null,
-    "url": "https://www.brasil247.com/blog/flavio-finge-que-engana-e-a-faria-lima-e-a-velha-direita-fingem-que-sao-enganadas",
-    "assets_path": "assets/43_Flávio_finge_que_engana_e_a_Faria_Lima_e_a_velha_d",
-    "zip_path": "assets/43_Flávio_finge_que_engana_e_a_Faria_Lima_e_a_velha_d/43_Flávio_finge_que_engana_e_a_Faria_Lima_e_a_velha_d.zip",
-    "content": {
-      "introduction": {
-        "text": "Flávio Bolsonaro, filho do presidente Jair Bolsonaro, anunciou-se como o 'ungido' do bolsonarismo e escolheu Tarcísio de Freitas como seu ajudador em São Paulo.",
-        "image": "introduction.png",
-        "prompt": "Military parade with Brazilian flags and soldiers marching towards a symbolic congress building"
-      },
-      "development": {
-        "text": [
-          "Flávio rejeitado pelo centrão, por Malafaia, pela Faria Lima, mas apareceu na Quaest como escolhido pelo pai.",
-          "Tarcísio, que passou a ser uma personagem do entorno, foi enquadrado pelo filho, que transmite certezas nos últimos dias."
-        ],
-        "image": "development.png",
-        "prompt": "Far-right politician being rejected by conservative forces, but still gaining popularity among supporters"
-      },
-      "conclusion": {
-        "text": "Flávio está tentando enganar quem finge que está sendo enganado, mas há problemas se desistir da candidatura para enfrentar Lula.",
-        "image": "conclusion.png",
-        "prompt": "A figure trying to deceive others while hiding behind a façade of honesty"
-      },
-      "general_summary": {
-        "image": "general_summary.png",
-        "prompt": "Lula, man, standing in front of São Paulo government palace, looking determined"
-      },
-      "tiktok_summary": "O Flávio Bolsonaro, o 'ungido' do bolsonarismo, anuncia Tarcísio como seu ajudador em São Paulo. #FlávioBolsonaro #TarcísioDeFreitas #Bolsonarismo\n\n🔗 https://www.brasil247.com/blog/flavio-finge-que-engana-e-a-faria-lima-e-a-velha-direita-fingem-que-sao-enganadas"
-    }
-  },
-  {
     "id": "42_PL_da_Dosimetria_é_aberração_jurídica_e_constituci",
     "title": "PL da Dosimetria é aberração jurídica e constitucional",
     "date": null,
