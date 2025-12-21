@@ -97,36 +97,6 @@ const newsData = [
     }
   },
   {
-    "id": "47_Ao_cassar_Eduardo_e_Ramagem_Motta_recua_e_desiste_",
-    "title": "Ao cassar Eduardo e Ramagem, Motta recua e desiste de enfrentar Moraes",
-    "date": null,
-    "url": "https://www.cartacapital.com.br/politica/ao-cassar-eduardo-e-ramagem-motta-desiste-de-desafiar-moraes-apos-choque-de-realidade-com-zambelli/",
-    "assets_path": "assets/47_Ao_cassar_Eduardo_e_Ramagem_Motta_recua_e_desiste_",
-    "zip_path": "assets/47_Ao_cassar_Eduardo_e_Ramagem_Motta_recua_e_desiste_/47_Ao_cassar_Eduardo_e_Ramagem_Motta_recua_e_desiste_.zip",
-    "content": {
-      "introduction": {
-        "text": "Erro ao gerar resumo.",
-        "image": "introduction.png",
-        "prompt": ""
-      },
-      "development": {
-        "text": "HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=60)",
-        "image": "development.png",
-        "prompt": ""
-      },
-      "conclusion": {
-        "text": "Verifique se o Ollama está rodando.",
-        "image": "conclusion.png",
-        "prompt": ""
-      },
-      "general_summary": {
-        "image": "general_summary.png",
-        "prompt": ""
-      },
-      "tiktok_summary": ""
-    }
-  },
-  {
     "id": "45_10_perguntas_para_Bolsonaro",
     "title": "10 perguntas para Bolsonaro",
     "date": null,
