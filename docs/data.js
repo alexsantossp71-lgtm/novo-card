@@ -192,35 +192,5 @@ const newsData = [
       },
       "tiktok_summary": "Dilma Rousseff recebe indenização de R$ 400 mil pela perseguição política sofrida durante o regime militar. A União será obrigada a pagar a indenização por danos morais.\n\n🔗 https://exame.com/brasil/justica-mantem-indenizacao-de-r-400-mil-a-dilma-por-perseguicao-na-ditadura/"
     }
-  },
-  {
-    "id": "41_Deltan_paga_indenização_a_Lula_por_PowerPoint_da_L",
-    "title": "Deltan paga indenização a Lula por PowerPoint da Lava Jato",
-    "date": null,
-    "url": "https://www.cartacapital.com.br/politica/deltan-paga-indenizacao-a-lula-por-powerpoint-da-lava-jato/",
-    "assets_path": "assets/41_Deltan_paga_indenização_a_Lula_por_PowerPoint_da_L",
-    "zip_path": "assets/41_Deltan_paga_indenização_a_Lula_por_PowerPoint_da_L/41_Deltan_paga_indenização_a_Lula_por_PowerPoint_da_L.zip",
-    "content": {
-      "introduction": {
-        "text": "Ex-procurador da Operação Lava Jato, Deltan Dallagnol, pagou R$ 146 mil em indenização ao presidente Luiz Inácio Lula da Silva após ser condenado por danos morais.",
-        "image": "introduction.png",
-        "prompt": "Man in suit, holding briefcase, walking towards the camera, Brazilian flag waving behind him."
-      },
-      "development": {
-        "text": "Dallagnol fez uma apresentação com o software para acusar Lula de chefiar uma organização criminosa, que foi amplamente reproduzida pela imprensa e em redes sociais. O valor é corrigido por juros desde a condenação em 2022.",
-        "image": "development.png",
-        "prompt": "Congress building at night with people protesting, newspaper headlines 'Software' on display."
-      },
-      "conclusion": {
-        "text": "A condenação de Dallagnol foi posteriormente anulada após o STF considerar o ex-juiz Sérgio Moro parcial na condução da investigação. Agora, ele deve cumprir com a indenização de R$ 146 mil.",
-        "image": "conclusion.png",
-        "prompt": "Justice scales balancing scales of truth, with a subtle image of Lula's presidential seal in the distance."
-      },
-      "general_summary": {
-        "image": "general_summary.png",
-        "prompt": "President Lula, man, shaking hands with ex-procurador, amidst a backdrop of Brazilian flag and modern cityscape."
-      },
-      "tiktok_summary": "O ex-procurador Deltan Dallagnol pagou R$ 146 mil em indenização ao presidente Lula após ser condenado por danos morais. #justiça #LavaJato #LuizInácioLulaDaSilva\n\n🔗 https://www.cartacapital.com.br/politica/deltan-paga-indenizacao-a-lula-por-powerpoint-da-lava-jato/"
-    }
   }
 ];
