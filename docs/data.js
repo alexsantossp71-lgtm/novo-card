@@ -1,36 +1,32 @@
 const newsData = [
   {
-    "id": "46_10_perguntas_para_Bolsonaro",
-    "title": "10 perguntas para Bolsonaro",
+    "id": "47_Ao_cassar_Eduardo_e_Ramagem_Motta_recua_e_desiste_",
+    "title": "Ao cassar Eduardo e Ramagem, Motta recua e desiste de enfrentar Moraes",
     "date": null,
-    "url": "https://www.brasil247.com/blog/10-perguntas-para-bolsonaro",
-    "assets_path": "assets/46_10_perguntas_para_Bolsonaro",
-    "zip_path": "assets/46_10_perguntas_para_Bolsonaro/46_10_perguntas_para_Bolsonaro.zip",
+    "url": "https://www.cartacapital.com.br/politica/ao-cassar-eduardo-e-ramagem-motta-desiste-de-desafiar-moraes-apos-choque-de-realidade-com-zambelli/",
+    "assets_path": "assets/47_Ao_cassar_Eduardo_e_Ramagem_Motta_recua_e_desiste_",
+    "zip_path": "assets/47_Ao_cassar_Eduardo_e_Ramagem_Motta_recua_e_desiste_/47_Ao_cassar_Eduardo_e_Ramagem_Motta_recua_e_desiste_.zip",
     "content": {
       "introduction": {
-        "text": "Bolsonaro quer voltar a conversar com a imprensa, anuncia entrevista para a semana que vem",
+        "text": "Erro ao gerar resumo.",
         "image": "introduction.png",
-        "prompt": "Brazilian flags waving in the wind, people marching behind them at a military parade"
+        "prompt": ""
       },
       "development": {
-        "text": [
-          "Abaixo, uma lista com 10 perguntas simples, diretas, com alguns desdobramentos. Perguntas que seriam feitas pelo estagiário da Gazeta de Alegrete...",
-          "O senhor suportaria assistir de longe, de dentro da cadeia, a uma eventual campanha de Michelle Bolsonaro à presidência?",
-          "O bolsonarismo pode sobreviver com Bolsonaro preso?"
-        ],
+        "text": "HTTPConnectionPool(host='localhost', port=11434): Read timed out. (read timeout=60)",
         "image": "development.png",
-        "prompt": "A person holding a microphone with a list of questions on a screen behind them"
+        "prompt": ""
       },
       "conclusion": {
-        "text": "A entrevista foi autorizada por Alexandre de Moraes e está programada para ocorrer na semana que vem",
+        "text": "Verifique se o Ollama está rodando.",
         "image": "conclusion.png",
-        "prompt": "Lula, man, signing a document at presidential desk, brazilian flag background"
+        "prompt": ""
       },
       "general_summary": {
         "image": "general_summary.png",
-        "prompt": "Justice scales hanging from a large, modern architecture building"
+        "prompt": ""
       },
-      "tiktok_summary": "Bolsonaro anuncia entrevista com a imprensa, perguntas sobre sua situação política #Bolsonaro #Entrevista\n\n🔗 https://www.brasil247.com/blog/10-perguntas-para-bolsonaro"
+      "tiktok_summary": ""
     }
   },
   {
