@@ -154,37 +154,5 @@ const newsData = [
       },
       "tiktok_summary": "O Brasil está mais vulnerável do que nunca à ameaça bolsonarista. A proposta da Dosimetria pode ser o próximo passo para normalizar a violência. Não deixe a Carta parar! #jornalismo #democracia #brasil\n\n🔗 https://www.cartacapital.com.br/politica/trama-golpista-a-critica-de-moraes-a-articulacao-pelo-pl-da-dosimetria/?utm_source=terra_capa_noticias&utm_medium=referral"
     }
-  },
-  {
-    "id": "37_Júlio_Lancellotti_é_calado_nas_redes_enquanto_padr",
-    "title": "Júlio Lancellotti é calado nas redes enquanto padres conservadores discursam para milhões",
-    "date": "2025-12-16T21:26:50+00:00",
-    "url": "https://apublica.org/2025/12/lancellotti-silencia-e-padres-conservadores-discursam-nas-redes/?utm_source=terra_capa_noticias&utm_medium=referral",
-    "assets_path": "assets/37_Júlio_Lancellotti_é_calado_nas_redes_enquanto_padr",
-    "zip_path": "assets/37_Júlio_Lancellotti_é_calado_nas_redes_enquanto_padr/37_Júlio_Lancellotti_é_calado_nas_redes_enquanto_padr.zip",
-    "content": {
-      "introduction": {
-        "text": "Religiosos católicos continuam nas redes sociais apesar da restrição ao padre Júlio Lancellotti.",
-        "image": "introduction.png",
-        "prompt": "A priest stands in a crowded internet forum, surrounded by glowing screens and connected devices"
-      },
-      "development": {
-        "text": [
-          "Frei Gilson, com 8,65 milhões de inscritos no YouTube e 11,1 milhões de seguidores no Instagram, segue publicando músicas, cortes de shows e reflexões sobre a Bíblia. "
-        ],
-        "image": "development.png",
-        "prompt": "Frei Gilson sitting in a dimly lit room with music sheets, playing his guitar and looking up at a Bible on a shelf above him"
-      },
-      "conclusion": {
-        "text": "O padre Paulo Ricardo, com 2,7 milhões de seguidores no Instagram, também é um religioso influente nas redes sociais.",
-        "image": "conclusion.png",
-        "prompt": "Father Paulo Ricardo smiling as he holds up a tablet showing a quote from the bible, surrounded by candles and a serene atmosphere"
-      },
-      "general_summary": {
-        "image": "general_summary.png",
-        "prompt": "Brazilian religioso influenciosos standing in front of a majestic cathedral, symbolizing spiritual influence"
-      },
-      "tiktok_summary": "#ReligiososNaRedes #SegurançaOnline #DireitoAExpressão\n\n🔗 https://apublica.org/2025/12/lancellotti-silencia-e-padres-conservadores-discursam-nas-redes/?utm_source=terra_capa_noticias&utm_medium=referral"
-    }
   }
 ];
