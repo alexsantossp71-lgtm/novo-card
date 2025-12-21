@@ -1,5 +1,39 @@
 const newsData = [
   {
+    "id": "46_10_perguntas_para_Bolsonaro",
+    "title": "10 perguntas para Bolsonaro",
+    "date": null,
+    "url": "https://www.brasil247.com/blog/10-perguntas-para-bolsonaro",
+    "assets_path": "assets/46_10_perguntas_para_Bolsonaro",
+    "zip_path": "assets/46_10_perguntas_para_Bolsonaro/46_10_perguntas_para_Bolsonaro.zip",
+    "content": {
+      "introduction": {
+        "text": "Bolsonaro quer voltar a conversar com a imprensa, anuncia entrevista para a semana que vem",
+        "image": "introduction.png",
+        "prompt": "Brazilian flags waving in the wind, people marching behind them at a military parade"
+      },
+      "development": {
+        "text": [
+          "Abaixo, uma lista com 10 perguntas simples, diretas, com alguns desdobramentos. Perguntas que seriam feitas pelo estagiário da Gazeta de Alegrete...",
+          "O senhor suportaria assistir de longe, de dentro da cadeia, a uma eventual campanha de Michelle Bolsonaro à presidência?",
+          "O bolsonarismo pode sobreviver com Bolsonaro preso?"
+        ],
+        "image": "development.png",
+        "prompt": "A person holding a microphone with a list of questions on a screen behind them"
+      },
+      "conclusion": {
+        "text": "A entrevista foi autorizada por Alexandre de Moraes e está programada para ocorrer na semana que vem",
+        "image": "conclusion.png",
+        "prompt": "Lula, man, signing a document at presidential desk, brazilian flag background"
+      },
+      "general_summary": {
+        "image": "general_summary.png",
+        "prompt": "Justice scales hanging from a large, modern architecture building"
+      },
+      "tiktok_summary": "Bolsonaro anuncia entrevista com a imprensa, perguntas sobre sua situação política #Bolsonaro #Entrevista\n\n🔗 https://www.brasil247.com/blog/10-perguntas-para-bolsonaro"
+    }
+  },
+  {
     "id": "45_10_perguntas_para_Bolsonaro",
     "title": "10 perguntas para Bolsonaro",
     "date": null,
@@ -43,21 +77,21 @@ const newsData = [
       "introduction": {
         "text": "Ex-presidente Dilma Rousseff mantém indenização de R$ 400 mil por perseguição política na ditadura",
         "image": "introduction.png",
-        "prompt": ""
+        "prompt": "Former Presidente's government building with Brazilian flag, Rousseff in the foreground."
       },
       "development": {
         "text": "O Tribunal Regional Federal da 1ª Região (TRF1) rejeitou o recurso da União, que alegou que Dilma já havia sido reconhecida como anistiada em vários estados.",
         "image": "development.png",
-        "prompt": ""
+        "prompt": "Courtroom scene with a judge, symbolic scales of justice and Brazilian flag in background."
       },
       "conclusion": {
         "text": "A decisão do TRF1 manutém a indenização por danos morais e determina que ela receba uma reparação econômica em prestação mensal.",
         "image": "conclusion.png",
-        "prompt": ""
+        "prompt": "Scene depicting a payment transaction, money transferring into a large briefcase, Brazilian flag waving in distance."
       },
       "general_summary": {
         "image": "general_summary.png",
-        "prompt": ""
+        "prompt": "Scene representing the Brazilian government's struggles with indemnization after Rousseff's presidential term."
       },
       "tiktok_summary": "Ex-presidente Dilma Rousseff mantém indenização de R$ 400 mil por perseguição política na ditadura. #DilmaRousseff #Justiça\n\n🔗 https://exame.com/brasil/justica-mantem-indenizacao-de-r-400-mil-a-dilma-por-perseguicao-na-ditadura/"
     }
