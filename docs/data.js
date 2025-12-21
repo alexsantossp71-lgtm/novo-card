@@ -95,38 +95,5 @@ const newsData = [
       },
       "tiktok_summary": "Com a tributação sobre lucros e dividendos entrando em vigor, empresas estão antecipando distribuição de lucros para remunerar acionistas. #dividendos #JCP #notíciasfinanciarias\n\n🔗 https://exame.com/invest/mercados/weg-bradesco-e-sabesp-empresas-correm-para-aprovar-dividendos-antes-de-ir/"
     }
-  },
-  {
-    "id": "45_10_perguntas_para_Bolsonaro",
-    "title": "10 perguntas para Bolsonaro",
-    "date": null,
-    "url": "https://www.brasil247.com/blog/10-perguntas-para-bolsonaro",
-    "assets_path": "assets/45_10_perguntas_para_Bolsonaro",
-    "zip_path": "assets/45_10_perguntas_para_Bolsonaro/45_10_perguntas_para_Bolsonaro.zip",
-    "content": {
-      "introduction": {
-        "text": "Bolsonaro quer voltar a conversar com a imprensa",
-        "image": "introduction.png",
-        "prompt": "A military parade passes by the Brazilian president's residence"
-      },
-      "development": {
-        "text": [
-          "Abaixo, uma lista com 10 perguntas simples, diretas, com alguns desdobramentos.",
-          "Perguntas que seriam feitas pelo estagiário da Gazeta de Alegrete, para que a entrevista não se seja uma conversa de compadres:"
-        ],
-        "image": "development.png",
-        "prompt": "A young journalist stands in front of a city hall, holding a tablet with 10 simple questions on it"
-      },
-      "conclusion": {
-        "text": "O senhor pode ser presidente, ou pode morrer amanhã, como disse o senador Hamilton Mourão?",
-        "image": "conclusion.png",
-        "prompt": "An old man in a suit looks at his hands, surrounded by the words 'power and responsibility'"
-      },
-      "general_summary": {
-        "image": "general_summary.png",
-        "prompt": "Brazilian flags waving behind a modern congress building, with a dramatic lighting effect."
-      },
-      "tiktok_summary": ""
-    }
   }
 ];
