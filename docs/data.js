@@ -1,5 +1,35 @@
 const newsData = [
   {
+    "id": "5_Entenda_porque_Bolsonaro_não_terá_direito_à_saidin",
+    "title": "Entenda porque Bolsonaro não terá direito à “saidinha” de Natal",
+    "date": "2025-12-22T13:36:03-03:00",
+    "url": "https://www.correiodointerior.com.br/entenda-porque-bolsonaro-nao-tera-direito-a-saidinha-de-natal/?utm_source=terra_capa_noticias&utm_medium=referral",
+    "assets_path": "assets/5_Entenda_porque_Bolsonaro_não_terá_direito_à_saidin",
+    "zip_path": "assets/5_Entenda_porque_Bolsonaro_não_terá_direito_à_saidin/5_Entenda_porque_Bolsonaro_não_terá_direito_à_saidin.zip",
+    "content": {
+      "introduction": {
+        "text": "O ex-presidente Jair Bolsonaro (PL) será detido durante as festas de fim de ano. Segundo especialistas, a concessão da 'saidinha' é juridicamente inviável no atual estágio da pena. A restrição ocorre porque Bolsonaro cumpre pena em regime fechado e teve o risco de fuga apontado durante sua prisão preventiva.",
+        "image": "introduction.png",
+        "prompt": "The ex-president standing in front of a military parade setup, surrounded by Brazilian flags, amidst festive decorations."
+      },
+      "development": {
+        "text": "A Lei de Execução Penal reserva o benefício exclusivamente a detentos do regime semiaberto. Como Bolsonaro não preenche os requisitos legais, a concessão do 'PL da Saidinha' também é vedada para condenados por crimes cometidos com grave ameaça, como invasão às sedes dos Três Poderes. Além disso, a progressão de regime só deve ocorrer após o cumprimento de 25% da sentença — aproximadamente seis anos.",
+        "image": "development.png",
+        "prompt": "A close-up shot of a judge's gavel striking a desk, with the silhouette of a police car and crime scene tape visible through a window."
+      },
+      "conclusion": {
+        "text": "Com essas medidas, Bolsonaro perderá a oportunidade de passar as festas de fim de ano fora do presídio. A decisão reforça a ideia de que os condenados por crimes graves não têm direito a benefícios especiais. O caso serve como um exemplo da aplicação rigorosa das leis penais no Brasil.",
+        "image": "conclusion.png",
+        "prompt": "The former president sitting alone in his cell, lost in thought, as the Brazilian flag hangs lifelessly outside the prison bars."
+      },
+      "general_summary": {
+        "image": "general_summary.png",
+        "prompt": "A Brazilian president standing in front of a police car, with crime scene tape in the background, as the Brazilian flag waves behind him."
+      },
+      "tiktok_summary": "🚨 Ex-presidente Jair Bolsonaro será detido durante as festas de fim de ano! A concessão da 'saidinha' é inviável devido ao regime fechado e risco de fuga. Além disso, o PL da Saidinha veda benefícios para condenados por crimes graves.\n\n#Bolsonaro #Pena #FimDeAno #Detido\n\n🔗 https://www.correiodointerior.com.br/entenda-porque-bolsonaro-nao-tera-direito-a-saidinha-de-natal/?utm_source=terra_capa_noticias&utm_medium=referral"
+    }
+  },
+  {
     "id": "4_Lula_convoca_ministros_para_ato_em_defesa_da_democ",
     "title": "Lula convoca ministros para ato em defesa da democracia no dia 8 de janeiro",
     "date": null,
