@@ -1,5 +1,35 @@
 const newsData = [
   {
+    "id": "6_Havaianas_a_última_vítima_da_insanidade",
+    "title": "Havaianas: a última vítima da insanidade",
+    "date": null,
+    "url": "https://www.brasil247.com/blog/havaianas-a-ultima-vitima-da-insanidade",
+    "assets_path": "assets/6_Havaianas_a_última_vítima_da_insanidade",
+    "zip_path": "assets/6_Havaianas_a_última_vítima_da_insanidade/6_Havaianas_a_última_vítima_da_insanidade.zip",
+    "content": {
+      "introduction": {
+        "text": "A Câmara dos Deputados decidiu cassar os mandatos de Eduardo Bolsonaro (PL-SP) e Alexandre Ramagem (PL-RJ), sob o argumento de que ambos deixaram de comparecer a um terço das sessões ao longo do ano legislativo. A decisão se baseou no artigo 55 da Constituição Federal. No entanto, a notícia foi eclipsada pela polêmica envolvendo Fernanda Torres e as Havaianas.",
+        "image": "introduction.png",
+        "prompt": "Brazilian flags hanging limply amidst the empty seats of the câmara dos deputados, as justice scales loom in the background."
+      },
+      "development": {
+        "text": "A cassação dos mandatos de Eduardo Bolsonaro e Alexandre Ramagem ocorreu após o presidente da Casa, Hugo Motta (Republicanos-PB), recorrer ao mesmo fundamento jurídico para justificar as decisões. A extrema-direita está se manifestando contra a fala de Fernanda Torres, que sugeriu que as pessoas entrem no ano novo com os dois pés, e acusou-a de atacar valores sagrados. O chilique coletivo surge enquanto vêm à tona as pilhas de dinheiro encontradas na residência do líder da extrema-direita na Câmara.",
+        "image": "development.png",
+        "prompt": "Hugo Motta's presidential desk, with papers scattered and a gavel raised in hand, as the Supreme Court facade looks on sternly."
+      },
+      "conclusion": {
+        "text": "A estupidez consegue se superar, e a extrema-direita acusa Fernanda Torres e as Havaianas de capacitismo. No entanto, o boicote parece ter produzido o efeito inverso, com lojas abarrotadas e sandálias voando das prateleiras. A extrema-direita segue prestando um serviço ao capitalismo, e Fernanda Torres entrou no ano novo exatamente como sugeriu: com os dois pés.",
+        "image": "conclusion.png",
+        "prompt": "A bustling street scene with Havaiana advertisements, as crowds fill the sidewalks and sandal-clad feet walk by, symbolizing the backlash against the boycott."
+      },
+      "general_summary": {
+        "image": "general_summary.png",
+        "prompt": "Brazilian politics in turmoil, symbolized by a crumbling parliament building under dramatic lighting."
+      },
+      "tiktok_summary": "🚨 Câmara cassa mandatos de Eduardo Bolsonaro e Ramagem! Polêmica envolvendo Fernanda Torres e Havaianas 🤯 Lojas abarrotadas, sandálias voando das prateleiras! Extrema-direita presta serviço ao capitalismo 😂 #Politica #Brasil #Bolsonaro #Noticias #Atualidades\n\n🔗 https://www.brasil247.com/blog/havaianas-a-ultima-vitima-da-insanidade"
+    }
+  },
+  {
     "id": "5_Entenda_porque_Bolsonaro_não_terá_direito_à_saidin",
     "title": "Entenda porque Bolsonaro não terá direito à “saidinha” de Natal",
     "date": "2025-12-22T13:36:03-03:00",
