@@ -1,5 +1,35 @@
 const newsData = [
   {
+    "id": "8_Entenda_por_que_as_Havaianas_estão_sendo_atacadas_",
+    "title": "Entenda por que as Havaianas estão sendo atacadas pela direita",
+    "date": "2025-12-21T19:58:09Z",
+    "url": "https://www.terra.com.br/noticias/brasil/politica/entenda-por-que-as-havaianas-estao-sendo-atacadas-pela-direita,7b118ddc4a02f061b06fa0e186375c88l6m07607.html",
+    "assets_path": "assets/8_Entenda_por_que_as_Havaianas_estão_sendo_atacadas_",
+    "zip_path": "assets/8_Entenda_por_que_as_Havaianas_estão_sendo_atacadas_/8_Entenda_por_que_as_Havaianas_estão_sendo_atacadas_.zip",
+    "content": {
+      "introduction": {
+        "text": "Neste domingo, 21, políticos e militantes de direita, liderados pelos deputados federais Nikolas Ferreira (PL-MG) e Bia Kicis (PL-DF), estão puxando um coro de boicote contra as Havaianas. Isso porque, segundo eles, a atriz Fernanda Torres aparece em uma propaganda da marca falando para não se começar o ano com o 'pé direito' (CONTEKSTO INICIAL).",
+        "image": "introduction.png",
+        "prompt": "A dynamic angle shot of right-wing politicians Nikolas Ferreira and Bia Kicis leading a boisterous crowd of protestors waving Havianas flip-flops and banners in a city street, with cinematic lighting emphasizing the chaos."
+      },
+      "development": {
+        "text": "A campanha de boicote foi iniciada após a divulgação de um vídeo em que Fernanda Torres recomenda não iniciar o Ano Novo com o 'pé direito', mas isso foi interpretado como uma crítica à direita, embora a propaganda não contenha qualquer crítica a essa facção política. Desde a campanha do filme 'Ainda Estou Aqui' (2024), Fernanda Torres tem sido alvo do espectro político de direita, pois o filme é uma denúncia sobre um crime cometido pelo regime militar no país (1964-1985), um período defendido e enaltecido pela direita. Em resposta à propaganda, Nikolas Ferreira postou em story no Instagram: 'A partir de hoje, nem todo mundo usará…', enquanto Bia Kicis se gravou jogando um par de chinelos da marca em um cesto de lixo, declarando: 'Se as Havaianas não nos querem, nós também não queremos as Havaianas' (DESENVOLVIMENTO).",
+        "image": "development.png",
+        "prompt": "A close up of an emotional protestor watching a video on their phone, where Fernanda Torres is talking against 'bad beginnings' but being misinterpreted as criticizing the right wing, under dramatic low-key lighting."
+      },
+      "conclusion": {
+        "text": "Essa ação reforça a polarização política no Brasil e exemplifica como uma interpretação subjetiva de uma mensagem simples pode gerar reações fortes. Além disso, isso destaca o poder dos boicotes em um mundo globalizado, especialmente quando apoiados por figuras políticas influentes. Espera-se que essa situação continue a ser monitorada à medida que se desenvolve e afeta as relações entre os envolvidos (CONCLUSÃO).",
+        "image": "conclusion.png",
+        "prompt": "A wide shot of political leaders in suits sitting around a dimly lit office, discussing serious documents and looking concerned, while a world map on the wall highlights the global impact of boicotts."
+      },
+      "general_summary": {
+        "image": "general_summary.png",
+        "prompt": "A chaotic street scene with protestors holding up Havianas flip-flops and anti-right wing posters under cinematic lighting, political leaders in suits can be seen observing from a distance."
+      },
+      "tiktok_summary": ""
+    }
+  },
+  {
     "id": "7_O_chinelo_comunista",
     "title": "O chinelo comunista",
     "date": null,
