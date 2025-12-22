@@ -1,5 +1,35 @@
 const newsData = [
   {
+    "id": "7_O_chinelo_comunista",
+    "title": "O chinelo comunista",
+    "date": null,
+    "url": "https://www.brasil247.com/blog/o-chinelo-comunista",
+    "assets_path": "assets/7_O_chinelo_comunista",
+    "zip_path": "assets/7_O_chinelo_comunista/7_O_chinelo_comunista.zip",
+    "content": {
+      "introduction": {
+        "text": "Ricardo Nêggo Tom, em um tom irônico, sugeriu que bolsonaristas recebessem 'chineladas' por suas ações, em referência à campanha que tenta criminalizar uma marca de chinelos. A campanha, liderada por Eduardo Bolsonaro, visa combater o livre direito de escolha de pessoas em usar a tal marca. Além disso, figuras do bolsonarismo estão publicando vídeos de adesão ao boicote contra a marca de chinelos. * Este é um artigo de opinião, de responsabilidade do autor, e não reflete a opinião do Brasil 247. ",
+        "image": "introduction.png",
+        "prompt": "Ricardo Nêggo Tom, at a press conference, gesturing comically with a pair of colorful flip-flops in the foreground"
+      },
+      "development": {
+        "text": "",
+        "image": "development.png",
+        "prompt": "Eduardo and other politicians discussing documents around a table, bathed in dim, harsh light, as protest banners can be seen through the window"
+      },
+      "conclusion": {
+        "text": "",
+        "image": "conclusion.png",
+        "prompt": "Lula celebrating with supporters, raising a pair of flip-flops high above his head, while rainbow-colored confetti falls around them"
+      },
+      "general_summary": {
+        "image": "general_summary.png",
+        "prompt": "Lula standing tall amidst a sea of 'chineladas' raining down on a cheering crowd, in a city square lit by dusk"
+      },
+      "tiktok_summary": ""
+    }
+  },
+  {
     "id": "6_Havaianas_a_última_vítima_da_insanidade",
     "title": "Havaianas: a última vítima da insanidade",
     "date": null,
@@ -8,25 +38,25 @@ const newsData = [
     "zip_path": "assets/6_Havaianas_a_última_vítima_da_insanidade/6_Havaianas_a_última_vítima_da_insanidade.zip",
     "content": {
       "introduction": {
-        "text": "A Câmara dos Deputados decidiu cassar os mandatos de Eduardo Bolsonaro (PL-SP) e Alexandre Ramagem (PL-RJ), sob o argumento de que ambos deixaram de comparecer a um terço das sessões ao longo do ano legislativo. A decisão se baseou no artigo 55 da Constituição Federal. No entanto, a notícia foi eclipsada pela polêmica envolvendo Fernanda Torres e as Havaianas.",
+        "text": "Um grupo de extremistas decidiu 'cancelar' as Havaianas devido a uma fala da atriz Fernanda Torres em um roteiro publicitário, alegando que ela estaria atacando valores sagrados. Isso ocorre no mesmo momento em que são descobertas pilhas de dinheiro na residência do líder da extrema-direita na Câmara, Sóstenes Cavalcanti. A atriz reforça o protagonismo do 'adorado' pé direito com sua fala, e ironicamente, isso parece ter impulsionado as vendas de Havaianas. Este texto é um artigo de opinião e não reflete a opinião do Brasil 247. (449 caracteres)",
         "image": "introduction.png",
-        "prompt": "Brazilian flags hanging limply amidst the empty seats of the câmara dos deputados, as justice scales loom in the background."
+        "prompt": "Extremists with banners protesting in a city street, holding up torn Havaianas, under dramatic shadows"
       },
       "development": {
-        "text": "A cassação dos mandatos de Eduardo Bolsonaro e Alexandre Ramagem ocorreu após o presidente da Casa, Hugo Motta (Republicanos-PB), recorrer ao mesmo fundamento jurídico para justificar as decisões. A extrema-direita está se manifestando contra a fala de Fernanda Torres, que sugeriu que as pessoas entrem no ano novo com os dois pés, e acusou-a de atacar valores sagrados. O chilique coletivo surge enquanto vêm à tona as pilhas de dinheiro encontradas na residência do líder da extrema-direita na Câmara.",
+        "text": "Os extremistas, inferindo uma suposta alusão ideológica nas palavras da atriz, parecem incapazes de compreender o contexto ou preferem desentendidos com método. A coincidência do chamado 'chilique coletivo' com a descoberta do dinheiro em casa de Cavalcanti sugeriria uma manobra para deslocar manchetes e indignações seletivas. No mundo real, contrário às intenções dos extremistas, as Havaianas estão se tornando o item mais disputado do amigo secreto nas firmas e nos encontros familiares, graças a essa polêmica fabricada. (498 caracteres)",
         "image": "development.png",
-        "prompt": "Hugo Motta's presidential desk, with papers scattered and a gavel raised in hand, as the Supreme Court facade looks on sternly."
+        "prompt": "A close-up of a group of extremists angrily discussing a script, lit from above to create tension and confusion"
       },
       "conclusion": {
-        "text": "A estupidez consegue se superar, e a extrema-direita acusa Fernanda Torres e as Havaianas de capacitismo. No entanto, o boicote parece ter produzido o efeito inverso, com lojas abarrotadas e sandálias voando das prateleiras. A extrema-direita segue prestando um serviço ao capitalismo, e Fernanda Torres entrou no ano novo exatamente como sugeriu: com os dois pés.",
+        "text": "A extrema-direita acidentalmente está prestando um serviço ao capitalismo, pois as Havaianas estão se tornando itens ainda mais disputados. Fernanda Torres, por sua vez, entrou no ano novo exatamente como sugeriu em seu discurso: com os dois pés firmes no chão. No fim, o suposto boicote gerou apenas propaganda gratuita para a marca. (451 caracteres)",
         "image": "conclusion.png",
-        "prompt": "A bustling street scene with Havaiana advertisements, as crowds fill the sidewalks and sandal-clad feet walk by, symbolizing the backlash against the boycott."
+        "prompt": "Lula, man standing with hands on hips amidst piles of money, with Havaianas displayed prominently in the foreground"
       },
       "general_summary": {
         "image": "general_summary.png",
-        "prompt": "Brazilian politics in turmoil, symbolized by a crumbling parliament building under dramatic lighting."
+        "prompt": "A chaotic street scene with protesters burning Havaianas and politicians in suits watching from a balcony, bathed in cinematic lighting"
       },
-      "tiktok_summary": "🚨 Câmara cassa mandatos de Eduardo Bolsonaro e Ramagem! Polêmica envolvendo Fernanda Torres e Havaianas 🤯 Lojas abarrotadas, sandálias voando das prateleiras! Extrema-direita presta serviço ao capitalismo 😂 #Politica #Brasil #Bolsonaro #Noticias #Atualidades\n\n🔗 https://www.brasil247.com/blog/havaianas-a-ultima-vitima-da-insanidade"
+      "tiktok_summary": "📢 [Gancho inicial] Extremistas 'cancelam' as Havaianas por engano, causando efeito contrário: aumento de vendas! 🤔 Ironia em políticos desviando atenção com polêmicas. \n\n #CancelCulture #Havaianas #ExtremaDireita #Capitalismo #FernandaTorres"
     }
   },
   {
