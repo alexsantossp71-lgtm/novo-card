@@ -30,36 +30,6 @@ const newsData = [
     }
   },
   {
-    "id": "7_O_chinelo_comunista",
-    "title": "O chinelo comunista",
-    "date": null,
-    "url": "https://www.brasil247.com/blog/o-chinelo-comunista",
-    "assets_path": "assets/7_O_chinelo_comunista",
-    "zip_path": "assets/7_O_chinelo_comunista/7_O_chinelo_comunista.zip",
-    "content": {
-      "introduction": {
-        "text": "Ricardo Nêggo Tom, em um tom irônico, sugeriu que bolsonaristas recebessem 'chineladas' por suas ações, em referência à campanha que tenta criminalizar uma marca de chinelos. A campanha, liderada por Eduardo Bolsonaro, visa combater o livre direito de escolha de pessoas em usar a tal marca. Além disso, figuras do bolsonarismo estão publicando vídeos de adesão ao boicote contra a marca de chinelos. * Este é um artigo de opinião, de responsabilidade do autor, e não reflete a opinião do Brasil 247. ",
-        "image": "introduction.png",
-        "prompt": "Ricardo Nêggo Tom, at a press conference, gesturing comically with a pair of colorful flip-flops in the foreground"
-      },
-      "development": {
-        "text": "",
-        "image": "development.png",
-        "prompt": "Eduardo and other politicians discussing documents around a table, bathed in dim, harsh light, as protest banners can be seen through the window"
-      },
-      "conclusion": {
-        "text": "",
-        "image": "conclusion.png",
-        "prompt": "Lula celebrating with supporters, raising a pair of flip-flops high above his head, while rainbow-colored confetti falls around them"
-      },
-      "general_summary": {
-        "image": "general_summary.png",
-        "prompt": "Lula standing tall amidst a sea of 'chineladas' raining down on a cheering crowd, in a city square lit by dusk"
-      },
-      "tiktok_summary": ""
-    }
-  },
-  {
     "id": "6_Havaianas_a_última_vítima_da_insanidade",
     "title": "Havaianas: a última vítima da insanidade",
     "date": null,
@@ -177,36 +147,6 @@ const newsData = [
         "prompt": "Brazilian politics in chaos, represented by a mix of modern architecture and symbolic scenes"
       },
       "tiktok_summary": "\n\n🚨 O autor do Metrópoles fala sobre a confusão entre direita e esquerda no Brasil.\nA propaganda brasileira e a paranoia clássica da direita bolsonarista causam confusão!\nOs horrores da polícia secreta soviética são lembrados em 'Le Tchékiste', do russo Vladimir Zazoubrine. \n\n#DireitaESquerda #PropagandaBrasileira #ParanoiaBolsonarista\n\n🔗 https://www.metropoles.com/colunas/mario-sabino/a-polemica-das-havaianas-e-tipica-de-um-pais-quadrupede"
-    }
-  },
-  {
-    "id": "2_Cirurgia_de_Bolsonaro_precisa_ser_um_sucesso_a_cad",
-    "title": "Cirurgia de Bolsonaro precisa ser um sucesso: a cadeia apenas começou",
-    "date": null,
-    "url": "https://www.brasil247.com/blog/cirurgia-de-bolsonaro-precisa-ser-um-sucesso-a-cadeia-apenas-comecou",
-    "assets_path": "assets/2_Cirurgia_de_Bolsonaro_precisa_ser_um_sucesso_a_cad",
-    "zip_path": "assets/2_Cirurgia_de_Bolsonaro_precisa_ser_um_sucesso_a_cad/2_Cirurgia_de_Bolsonaro_precisa_ser_um_sucesso_a_cad.zip",
-    "content": {
-      "introduction": {
-        "text": "A Polícia Federal em Brasília decidiu liberar o ex-presidente Jair Bolsonaro da prisão na próxima terça-feira para que ele se internasse no hospital DF Star, para uma cirurgia devido a uma hérnia inguinal bilateral. Isso ocorre após um laudo médico emitido pela PF indicou a necessidade de cirurgia. Durante sua trajetória política, Bolsonaro protagonizou cenas de desprezo pela vida e pelos direitos humanos, com declarações que foram criticadas por muitas pessoas.",
-        "image": "introduction.png",
-        "prompt": "Government building with broken chains, sunlight piercing through the cracks, setting a scene for liberation"
-      },
-      "development": {
-        "text": "Bolsonaro foi condenado a 27 anos de prisão por tentativa de golpe contra a democracia. Durante sua trajetória política, ele fez declarações que foram consideradas ofensivas, como dizer que não estupraria uma colega parlamentar porque ela era 'muito feia' e se referir a pessoas quilombolas como animais cujo peso é medido em arrobas. Como presidente, enquanto o Brasil enfrentava a pior crise de saúde pública da história com mais de 700 mil mortes por Covid, Bolsonaro imitou pessoas morrendo sufocadas por falta de oxigênio.",
-        "image": "development.png",
-        "prompt": "Military parade floats through the streets, surrounded by Brazilian flags, but amidst controversy and condemnation"
-      },
-      "conclusion": {
-        "text": "A liberação de Bolsonaro para sua cirurgia é uma preocupação, mas é importante que ele tenha saúde para continuar na prisão e cumprir a pena de 27 anos. O autor do artigo considera que seria frustrante se Bolsonaro morresse durante o procedimento cirúrgico, pois isso não resolveria os problemas que ele causou ao país. O autor quer que Bolsonaro continue vivo para pagar pelas consequências de seus atos criminosos.",
-        "image": "conclusion.png",
-        "prompt": "A figure in a hospital bed, under a starry night sky, Brazil's national flag gently draped above, with concern etched on their face"
-      },
-      "general_summary": {
-        "image": "general_summary.png",
-        "prompt": "Dramatic illustration of Brazilian politics in turmoil, with government building and national flags in the background"
-      },
-      "tiktok_summary": "🚨 Bolsonaro será liberado da prisão para uma cirurgia devido a hérnia inguinal bilateral! Ele precisa estar saudável para cumprir a pena de 27 anos por tentativa de golpe contra a democracia.\n\n#Bolsonaro #Prisão #Cirurgia #Democracia\n\n🔗 https://www.brasil247.com/blog/cirurgia-de-bolsonaro-precisa-ser-um-sucesso-a-cadeia-apenas-comecou"
     }
   },
   {
