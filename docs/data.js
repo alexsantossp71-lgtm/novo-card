@@ -30,36 +30,6 @@ const newsData = [
     }
   },
   {
-    "id": "6_Havaianas_a_última_vítima_da_insanidade",
-    "title": "Havaianas: a última vítima da insanidade",
-    "date": null,
-    "url": "https://www.brasil247.com/blog/havaianas-a-ultima-vitima-da-insanidade",
-    "assets_path": "assets/6_Havaianas_a_última_vítima_da_insanidade",
-    "zip_path": "assets/6_Havaianas_a_última_vítima_da_insanidade/6_Havaianas_a_última_vítima_da_insanidade.zip",
-    "content": {
-      "introduction": {
-        "text": "Um grupo de extremistas decidiu 'cancelar' as Havaianas devido a uma fala da atriz Fernanda Torres em um roteiro publicitário, alegando que ela estaria atacando valores sagrados. Isso ocorre no mesmo momento em que são descobertas pilhas de dinheiro na residência do líder da extrema-direita na Câmara, Sóstenes Cavalcanti. A atriz reforça o protagonismo do 'adorado' pé direito com sua fala, e ironicamente, isso parece ter impulsionado as vendas de Havaianas. Este texto é um artigo de opinião e não reflete a opinião do Brasil 247. (449 caracteres)",
-        "image": "introduction.png",
-        "prompt": "Extremists with banners protesting in a city street, holding up torn Havaianas, under dramatic shadows"
-      },
-      "development": {
-        "text": "Os extremistas, inferindo uma suposta alusão ideológica nas palavras da atriz, parecem incapazes de compreender o contexto ou preferem desentendidos com método. A coincidência do chamado 'chilique coletivo' com a descoberta do dinheiro em casa de Cavalcanti sugeriria uma manobra para deslocar manchetes e indignações seletivas. No mundo real, contrário às intenções dos extremistas, as Havaianas estão se tornando o item mais disputado do amigo secreto nas firmas e nos encontros familiares, graças a essa polêmica fabricada. (498 caracteres)",
-        "image": "development.png",
-        "prompt": "A close-up of a group of extremists angrily discussing a script, lit from above to create tension and confusion"
-      },
-      "conclusion": {
-        "text": "A extrema-direita acidentalmente está prestando um serviço ao capitalismo, pois as Havaianas estão se tornando itens ainda mais disputados. Fernanda Torres, por sua vez, entrou no ano novo exatamente como sugeriu em seu discurso: com os dois pés firmes no chão. No fim, o suposto boicote gerou apenas propaganda gratuita para a marca. (451 caracteres)",
-        "image": "conclusion.png",
-        "prompt": "Lula, man standing with hands on hips amidst piles of money, with Havaianas displayed prominently in the foreground"
-      },
-      "general_summary": {
-        "image": "general_summary.png",
-        "prompt": "A chaotic street scene with protesters burning Havaianas and politicians in suits watching from a balcony, bathed in cinematic lighting"
-      },
-      "tiktok_summary": "📢 [Gancho inicial] Extremistas 'cancelam' as Havaianas por engano, causando efeito contrário: aumento de vendas! 🤔 Ironia em políticos desviando atenção com polêmicas. \n\n #CancelCulture #Havaianas #ExtremaDireita #Capitalismo #FernandaTorres"
-    }
-  },
-  {
     "id": "5_Entenda_porque_Bolsonaro_não_terá_direito_à_saidin",
     "title": "Entenda porque Bolsonaro não terá direito à “saidinha” de Natal",
     "date": "2025-12-22T13:36:03-03:00",
