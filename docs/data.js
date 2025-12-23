@@ -90,36 +90,6 @@ const newsData = [
     }
   },
   {
-    "id": "3_A_polêmica_das_Havaianas_é_típica_de_um_país_quadr",
-    "title": "A polêmica das Havaianas é típica de um país quadrúpede",
-    "date": null,
-    "url": "https://www.metropoles.com/colunas/mario-sabino/a-polemica-das-havaianas-e-tipica-de-um-pais-quadrupede",
-    "assets_path": "assets/3_A_polêmica_das_Havaianas_é_típica_de_um_país_quadr",
-    "zip_path": "assets/3_A_polêmica_das_Havaianas_é_típica_de_um_país_quadr/3_A_polêmica_das_Havaianas_é_típica_de_um_país_quadr.zip",
-    "content": {
-      "introduction": {
-        "text": "A coluna do Metrópoles compartilha sua opinião sobre a confusão entre direita e esquerda no Brasil. O autor sugere que a mistura de propaganda ruim com paranoia da direita bolsonarista leva à confusão. Além disso, ele compara a situação ao livro 'Le Tchékiste', do russo Vladimir Zazoubrine, que descreve os horrores da polícia secreta soviética.",
-        "image": "introduction.png",
-        "prompt": "A blurred cityscape with the Brazilian flag waving in the wind, setting the tone for a confusing narrative"
-      },
-      "development": {
-        "text": "O autor cita o caso de Viviane Barci de Moraes, mulher do ministro Alexandre de Moraes, cuja fortuna pessoal aumentou de R$ 24 milhões para R$ 79,7 milhões em apenas um ano. Ele também compara a situação ao livro 'Le Tchékiste', que descreve os horrores da polícia secreta soviética e como ela nascia da Tcheka. Além disso, ele menciona a propaganda brasileira e a paranoia clássica da direita bolsonarista.",
-        "image": "development.png",
-        "prompt": "The Supreme Court building's facade looms large, justice scales tilted precariously, amidst a sea of chaos"
-      },
-      "conclusion": {
-        "text": "O autor conclui que a direita e esquerda se igualam no barulho e na sem-vergonhice no Brasil. Ele sugere que a confusão é causada pela mistura de propaganda ruim com paranoia da direita bolsonarista.",
-        "image": "conclusion.png",
-        "prompt": "Two paths converge, one representing the left and the other the right, both leading to a dead end in the heart of modern Brazilian politics"
-      },
-      "general_summary": {
-        "image": "general_summary.png",
-        "prompt": "Brazilian politics in chaos, represented by a mix of modern architecture and symbolic scenes"
-      },
-      "tiktok_summary": "\n\n🚨 O autor do Metrópoles fala sobre a confusão entre direita e esquerda no Brasil.\nA propaganda brasileira e a paranoia clássica da direita bolsonarista causam confusão!\nOs horrores da polícia secreta soviética são lembrados em 'Le Tchékiste', do russo Vladimir Zazoubrine. \n\n#DireitaESquerda #PropagandaBrasileira #ParanoiaBolsonarista\n\n🔗 https://www.metropoles.com/colunas/mario-sabino/a-polemica-das-havaianas-e-tipica-de-um-pais-quadrupede"
-    }
-  },
-  {
     "id": "1_AGU_cobra_na_Justiça_mais_R_135_milhões_de_entidad",
     "title": "AGU cobra na Justiça mais R$ 135 milhões de entidades envolvidas em fraudes do INSS",
     "date": "2025-12-21T12:14:17+00:00",
