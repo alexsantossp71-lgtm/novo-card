@@ -1,5 +1,35 @@
 const newsData = [
   {
+    "id": "2_Canetas_emagrecedoras_o_que_acontece_quando_você_p",
+    "title": "Canetas emagrecedoras: o que acontece quando você para de usar?",
+    "date": "2025-12-21T09:37:05Z",
+    "url": "https://www.terra.com.br/vida-e-estilo/saude/canetas-emagrecedoras-o-que-acontece-quando-voce-para-de-usar,b84f8338e1de64cdfd34193970224890pijnhsgl.html",
+    "assets_path": "assets/2_Canetas_emagrecedoras_o_que_acontece_quando_você_p",
+    "zip_path": "assets/2_Canetas_emagrecedoras_o_que_acontece_quando_você_p/2_Canetas_emagrecedoras_o_que_acontece_quando_você_p.zip",
+    "content": {
+      "introduction": {
+        "text": "As injeções para emagrecer, ou GLP-1, têm proporcionado resultados significativos para muitas pessoas, mas uma das perguntas que ainda precisa ser respondida é sobre a eficácia e os potenciais efeitos colaterais do uso desses medicamentos a longo prazo. Duas mulheres britânicas, Tanya Hall e Ellen Ogley, compartilharam suas experiências com o GLP-1, revelando os desafios que enfrentam ao tentar parar de tomar esses medicamentos após terem perdido peso.",
+        "image": "introduction.png",
+        "prompt": "Close-up of Tanya's hand holding Wegovy pills under harsh clinic lights, her face determined yet uncertain."
+      },
+      "development": {
+        "text": "Tanya começou a tomar Wegovy (semaglutida) para provar um ponto e acabou perdendo 38 quilos em mais de 18 meses. No entanto, ela encontrou dificuldades para dormir, enjoos frequentes, dores de cabeça e até mesmo queda de cabelo como efeitos colaterais possíveis da rápida perda de peso. Ao tentar parar de tomar o medicamento, Tanya experimentou uma sensação incontrolável de fome e comezou a comer excessivamente em poucos dias. Já Ellen, que tomou Mounjaro (tizerpatida) após chegar a um ponto crítico em sua vida, perdeu 22 kg em 16 semanas antes de começar a reduzir gradualmente a dose. Após parar o tratamento, ela começou a ver seu peso aumentar, deixando-a confusa.",
+        "image": "development.png",
+        "prompt": "Dynamic angle: Tanya, doubled over in bed, gripping her aching head. Empty pill bottles scattered, sunlight streaming through curtains, contrasting her pain with the outside world's ignorance."
+      },
+      "conclusion": {
+        "text": "Interromper o uso de medicamentos para emagrecer pode ser desafiador, com efeitos colaterais como desejo incontrolável por comida e recuperação do peso perdido após alguns meses. No entanto, o apoio adequado, como aconselhamento contínuo e planos de ação personalizados, pode ser crucial para manter o peso e permanecer saudável após a interrupção do tratamento.",
+        "image": "conclusion.png",
+        "prompt": "Wide shot: Ellen and Tanya sit across from their counselor, surrounded by charts and photos of healthier times. Warm lighting, hopeful smiles, but determination in their eyes as they hold supportive hands."
+      },
+      "general_summary": {
+        "image": "general_summary.png",
+        "prompt": "A dynamic panel with Tanya and Ellen standing back-to-back, Wegovy bottles at their feet. They're silhouetted against a neon cityscape, symbolizing hope and struggle."
+      },
+      "tiktok_summary": "🚨 Mulheres britânicas compartilham suas experiências com medicamentos para emagrecer! Tanya perdeu 38 kg mas sofreu com efeitos colaterais, enquanto Ellen teve dificuldades ao tentar manter o peso após parar de tomar Mounjaro. O uso contínuo desses medicamentos pode ser desafiador e caro!\n\n#MedicamentosParaEmagrecer #GLP1 #PerdaDePeso #EfeitosColaterais #Saudável\n\n🔗 https://www.terra.com.br/vida-e-estilo/saude/canetas-emagrecedoras-o-que-acontece-quando-voce-para-de-usar,b84f8338e1de64cdfd34193970224890pijnhsgl.html"
+    }
+  },
+  {
     "id": "1_O_megafone_dos_imbecis",
     "title": "O megafone dos imbecis",
     "date": null,
