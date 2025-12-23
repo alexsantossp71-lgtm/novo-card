@@ -90,36 +90,6 @@ const newsData = [
     }
   },
   {
-    "id": "4_Lula_convoca_ministros_para_ato_em_defesa_da_democ",
-    "title": "Lula convoca ministros para ato em defesa da democracia no dia 8 de janeiro",
-    "date": null,
-    "url": "https://veja.abril.com.br/brasil/lula-convoca-ministros-para-ato-em-defesa-da-democracia-no-dia-8-de-janeiro/",
-    "assets_path": "assets/4_Lula_convoca_ministros_para_ato_em_defesa_da_democ",
-    "zip_path": "assets/4_Lula_convoca_ministros_para_ato_em_defesa_da_democ/4_Lula_convoca_ministros_para_ato_em_defesa_da_democ.zip",
-    "content": {
-      "introduction": {
-        "text": "O presidente Lula decidiu convocar todos os ministros do governo para estarem em Brasília no dia 8 de janeiro. Ele planeja fazer um novo ato para lembrar o golpe de 2023, quando milhares de bolsonaristas destruíram as sedes dos poderes em Brasília.",
-        "image": "introduction.png",
-        "prompt": "Lula, man, standing at the presidential podium, looking out over the crowded Congress building with Brazilian flags waving."
-      },
-      "development": {
-        "text": "A ideia é promover a defesa da democracia e bater em Jair Bolsonaro e seus aliados. A reunião ministerial ocorreu na quarta-feira, onde Lula decidiu agir contra o golpe de 2023. Abril Comunicações S.A. é a empresa responsável pela publicação da notícia.",
-        "image": "development.png",
-        "prompt": "Ministers from government seated around a large table, Lula walking towards them with determination on his face, modern architecture of Brasilia in the background."
-      },
-      "conclusion": {
-        "text": "O ato do dia 8 de janeiro visa lembrar o golpe de 2023 e promover a defesa da democracia, com Lula e os ministros se reunindo em Brasília para essa causa. A reunião ministerial foi crucial para tomar decisões sobre como lidar com o que aconteceu.",
-        "image": "conclusion.png",
-        "prompt": "Justice scales balanced high above the Brazilian flag-draped cityscape at sunset, symbolizing the fight for democracy."
-      },
-      "general_summary": {
-        "image": "general_summary.png",
-        "prompt": "Brazilian president and ministers gathered in Brasilia for a symbolic act to defend democracy."
-      },
-      "tiktok_summary": "🚨 Lula convoca ministros para ato contra Bolsonaro! Golpe de 2023 lembrado e defesa da democracia promovida. Até 8 de janeiro, Brasília se prepara para mais um dia de manifestações.\n\n#Politica #Brasil #Lula #Bolsonaro #Golpe #Democracia\n\n🔗 https://veja.abril.com.br/brasil/lula-convoca-ministros-para-ato-em-defesa-da-democracia-no-dia-8-de-janeiro/"
-    }
-  },
-  {
     "id": "3_A_polêmica_das_Havaianas_é_típica_de_um_país_quadr",
     "title": "A polêmica das Havaianas é típica de um país quadrúpede",
     "date": null,
