@@ -150,36 +150,6 @@ const newsData = [
     }
   },
   {
-    "id": "4_Desconfiamos_porque_temos_memória",
-    "title": "Desconfiamos porque temos memória",
-    "date": null,
-    "url": "https://www.brasil247.com/blog/desconfiamos-porque-temos-memoria",
-    "assets_path": "assets/4_Desconfiamos_porque_temos_memória",
-    "zip_path": "assets/4_Desconfiamos_porque_temos_memória/4_Desconfiamos_porque_temos_memória.zip",
-    "content": {
-      "introduction": {
-        "text": "A Mesa Diretora da Câmara dos Deputados decidiu cassar os mandatos de Eduardo Bolsonaro (PL-SP) e Alexandre Ramagem (PL-RJ), seguindo o artigo 55 da Constituição Federal. A decisão foi tomada nesta quinta-feira, 18 de dezembro.",
-        "image": "introduction.png",
-        "prompt": "Eduardo 's tense face illuminated by a flickering streetlight, silhouettes of worried citizens in the background as rain pours down on the city's neon-lit streets."
-      },
-      "development": {
-        "text": "Eduardo Bolsonaro está foragido nos Estados Unidos desde março deste ano, onde articula ações contra o Brasil. Ramagem foi condenado a 16 anos de prisão por envolvimento na tentativa de golpe de Estado e também está foragido em território norte-americano desde setembro.",
-        "image": "development.png",
-        "prompt": "A dramatic shot of Alexandre Ramagem being led away in handcuffs, his back to the viewer, as a swirling dust cloud engulfs him. The foreground is cluttered with newspaper clippings and protest signs, as the sound of rain drums against the pavement."
-      },
-      "conclusion": {
-        "text": "Com essas cassações, três deputados ligados ao bolsonarismo perderam seus mandatos em menos de uma semana. A operação 'Vaza Jato' revelou informações que mostram o papel determinante de veículos de imprensa na trama farsesca que usou a justiça para perseguir adversários.",
-        "image": "conclusion.png",
-        "prompt": "A desolate, abandoned city square at dawn, the only light coming from a lone, flickering lantern. Three empty chairs, once occupied by the ousted deputies, now stand as a haunting reminder of power and corruption."
-      },
-      "general_summary": {
-        "image": "general_summary.png",
-        "prompt": "A hauntingly beautiful image of a darkened cityscape at dusk, with rain-soaked streets and towering skyscrapers, set against a backdrop of a fiery sky in shades of crimson and gold."
-      },
-      "tiktok_summary": "🚨 Câmara cassa mandatos de Eduardo Bolsonaro e Ramagem! Ambos estão foragidos nos EUA. A operação 'Vaza Jato' revelou informações sobre o papel dos veículos de imprensa na trama farsesca que usou a justiça para perseguir adversários.\n\n#Politica #Brasil #Bolsonaro\n\n🔗 https://www.brasil247.com/blog/desconfiamos-porque-temos-memoria"
-    }
-  },
-  {
     "id": "3_Lula_assina_indulto_de_Natal_e_deixa_de_fora_preso",
     "title": "Lula assina indulto de Natal e deixa de fora presos pelo 8/1 e delatores",
     "date": null,
