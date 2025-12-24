@@ -1,5 +1,65 @@
 const newsData = [
   {
+    "id": "6_Melhor_efeito_manada_que_efeito_burrada",
+    "title": "Melhor “efeito manada” que “efeito burrada”",
+    "date": null,
+    "url": "https://www.brasil247.com/blog/melhor-efeito-manada-que-efeito-burrada",
+    "assets_path": "assets/6_Melhor_efeito_manada_que_efeito_burrada",
+    "zip_path": "assets/6_Melhor_efeito_manada_que_efeito_burrada/6_Melhor_efeito_manada_que_efeito_burrada.zip",
+    "content": {
+      "introduction": {
+        "text": "Ninguém reagiu compulsivamente à denúncia de Malu Gaspar sobre Alexandre de Moraes, afirma o jornalista Breno Altman. A colunista criticou a forma irresponsável que Gaspar divulgou informações em off que lhe foram passadas. Sua matéria cita meia dúzia de testemunhas relatando que Moraes praticou tráfico de influência em favor de sua esposa, que participou de um dos 77 mil processos do Banco Master.",
+        "image": "introduction.png",
+        "prompt": "A low-angle shot of a rainy street, with pedestrians hastily retreating into the neon-lit awning of a newsstand, where Breno Altman stands with a newspaper clutched in his fist, his face aglow with determination, as he addresses the gathered crowd."
+      },
+      "development": {
+        "text": "Estranho, também, que Gaspar nada escreveu sobre o instituto Iter, do Terrivelmente Evangélico, que vendeu 5 milhões em cursos a órgãos públicos e entes privados. Além disso, a agência de checagem dita Projeto Comprova publicou uma matéria que minimizou o teor do diálogo entre Moraes e Daniel Vorcaro, dono do Banco Master.",
+        "image": "development.png",
+        "prompt": "Gaspar's words echo through the chamber like daggers, casting long shadows on the walls as testifiers take the stand, their faces etched with unease, while 's countenance remains steadfast, illuminated only by the faint light of a dying ember."
+      },
+      "conclusion": {
+        "text": "O jornalista Breno Altman argumenta que as acusações contra Moraes feitas por Gaspar são infames. Ele também cita um texto de Kamala Harris que parece justificar a reação dos críticos de Moraes, mas afirma que isso não reflete a opinião do Brasil 247.",
+        "image": "conclusion.png",
+        "prompt": "As the room falls silent, Breno Altman stands tall, his voice carrying like a beacon through the darkness, 'The truth is not in the lies, but in the silence between.' A single tear rolls down Gaspar's cheek as she vanishes into the shadows, leaving behind only the faint scent of smoke and the echoes of a thousand whispered words."
+      },
+      "general_summary": {
+        "image": "general_summary.png",
+        "prompt": "Amidst a swirling vortex of grey-blue hues, a haunting figure of Alexandre de stands defiant, surrounded by the eerie glow of flickering candles and the faint hum of rain-laden city streets, as Breno Altman's intense gaze pierces through the shadows."
+      },
+      "tiktok_summary": "🚨 Jornalista Breno Altman fala contra o estilo denunciador de Malu Gaspar em relação à atuação de Alexandre de Moraes.\n\n #Journalismo #Verdade #Brasil\n\n🔗 https://www.brasil247.com/blog/melhor-efeito-manada-que-efeito-burrada"
+    }
+  },
+  {
+    "id": "5_Uma_redação_estressada_em_busca_de_provas",
+    "title": "Uma redação estressada em busca de provas",
+    "date": null,
+    "url": "https://www.brasil247.com/blog/uma-redacao-estressada-em-busca-de-provas",
+    "assets_path": "assets/5_Uma_redação_estressada_em_busca_de_provas",
+    "zip_path": "assets/5_Uma_redação_estressada_em_busca_de_provas/5_Uma_redação_estressada_em_busca_de_provas.zip",
+    "content": {
+      "introduction": {
+        "text": "O jornalista Moisés Mendes alerta sobre a situação no Globo em relação à colunista Malu Gaspar e ao ministro Alexandre de Moraes. A colunista acusou o ministro de fazer lobby para o Banco Master, o que gerou uma mobilização de repórteres para tentar salvar Malu e proteger a empresa do jornal. Moisés Mendes afirma que há uma 'guerra declarada' contra o ministro que prendeu generais e que é preciso conter Moraes para conter Lula.",
+        "image": "introduction.png",
+        "prompt": "A dark, low-angle shot of the Globo newsroom, where Moisés Mendes sits at his desk, typing away on his laptop, surrounded by scattered papers and coffee cups, with a faint hint of a cityscape outside through the rain-soaked window."
+      },
+      "development": {
+        "text": "A coluna de Malu Gaspar está parada desde as 4h01min da madrugada do terça-feira, quando publicou uma nota sobre Cláudio Castro planejando se desincompatibilizar do cargo para disputar uma vaga no Senado em 2026. Moisés Mendes afirma que a notinha fria está parada na capa do jornal e que há uma tempestade nesse momento no Globo. As redações estão mobilizadas para saber quem prova primeiro contra o ministro.",
+        "image": "development.png",
+        "prompt": "A tense scene: Malu Gaspar's face illuminated by a flickering light, silhouettes of reporters in the background, their faces filled with determination as they storm out of the newsroom to investigate. In the foreground, a blurred portrait of Moisés Mendes looking concerned."
+      },
+      "conclusion": {
+        "text": "Se Malu Gaspar conseguir provar o que divulgou, Moraes estará frito. Se não conseguir, o Globo e os outros jornalões enfrentarão uma crise danada. Moisés Mendes reafirma seu compromisso público de divulgar as provas contra Alexandre de Moraes se elas forem apresentadas.",
+        "image": "conclusion.png",
+        "prompt": "A haunting scene: the Globo logo fading into darkness, as Moisés Mendes stands alone in front of a cityscape at dusk, a single glowing ember of hope lingering on his face."
+      },
+      "general_summary": {
+        "image": "general_summary.png",
+        "prompt": "Masterpiece portrait of Moisés Mendes amidst a stormy, grey-blue-toned cityscape, with swirling dust and rain-streaked windows, a subtle glow of a phone screen illuminating his determined face."
+      },
+      "tiktok_summary": "🚨 Câmara cassa mandatos de Eduardo Bolsonaro e Ramagem! Ambos estão foragidos nos EUA desde março e setembro. Eduardo por excesso de faltas, Ramagem condenado a 16 anos por golpe.\n\n#Politica #Brasil #Bolsonaro #Noticias #Atualidades\n\n🔗 https://www.brasil247.com/blog/uma-redacao-estressada-em-busca-de-provas"
+    }
+  },
+  {
     "id": "4_Desconfiamos_porque_temos_memória",
     "title": "Desconfiamos porque temos memória",
     "date": null,
