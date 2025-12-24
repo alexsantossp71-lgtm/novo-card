@@ -120,66 +120,6 @@ const newsData = [
     }
   },
   {
-    "id": "5_Uma_redação_estressada_em_busca_de_provas",
-    "title": "Uma redação estressada em busca de provas",
-    "date": null,
-    "url": "https://www.brasil247.com/blog/uma-redacao-estressada-em-busca-de-provas",
-    "assets_path": "assets/5_Uma_redação_estressada_em_busca_de_provas",
-    "zip_path": "assets/5_Uma_redação_estressada_em_busca_de_provas/5_Uma_redação_estressada_em_busca_de_provas.zip",
-    "content": {
-      "introduction": {
-        "text": "O jornalista Moisés Mendes alerta sobre a situação no Globo em relação à colunista Malu Gaspar e ao ministro Alexandre de Moraes. A colunista acusou o ministro de fazer lobby para o Banco Master, o que gerou uma mobilização de repórteres para tentar salvar Malu e proteger a empresa do jornal. Moisés Mendes afirma que há uma 'guerra declarada' contra o ministro que prendeu generais e que é preciso conter Moraes para conter Lula.",
-        "image": "introduction.png",
-        "prompt": "A dark, low-angle shot of the Globo newsroom, where Moisés Mendes sits at his desk, typing away on his laptop, surrounded by scattered papers and coffee cups, with a faint hint of a cityscape outside through the rain-soaked window."
-      },
-      "development": {
-        "text": "A coluna de Malu Gaspar está parada desde as 4h01min da madrugada do terça-feira, quando publicou uma nota sobre Cláudio Castro planejando se desincompatibilizar do cargo para disputar uma vaga no Senado em 2026. Moisés Mendes afirma que a notinha fria está parada na capa do jornal e que há uma tempestade nesse momento no Globo. As redações estão mobilizadas para saber quem prova primeiro contra o ministro.",
-        "image": "development.png",
-        "prompt": "A tense scene: Malu Gaspar's face illuminated by a flickering light, silhouettes of reporters in the background, their faces filled with determination as they storm out of the newsroom to investigate. In the foreground, a blurred portrait of Moisés Mendes looking concerned."
-      },
-      "conclusion": {
-        "text": "Se Malu Gaspar conseguir provar o que divulgou, Moraes estará frito. Se não conseguir, o Globo e os outros jornalões enfrentarão uma crise danada. Moisés Mendes reafirma seu compromisso público de divulgar as provas contra Alexandre de Moraes se elas forem apresentadas.",
-        "image": "conclusion.png",
-        "prompt": "A haunting scene: the Globo logo fading into darkness, as Moisés Mendes stands alone in front of a cityscape at dusk, a single glowing ember of hope lingering on his face."
-      },
-      "general_summary": {
-        "image": "general_summary.png",
-        "prompt": "Masterpiece portrait of Moisés Mendes amidst a stormy, grey-blue-toned cityscape, with swirling dust and rain-streaked windows, a subtle glow of a phone screen illuminating his determined face."
-      },
-      "tiktok_summary": "🚨 Câmara cassa mandatos de Eduardo Bolsonaro e Ramagem! Ambos estão foragidos nos EUA desde março e setembro. Eduardo por excesso de faltas, Ramagem condenado a 16 anos por golpe.\n\n#Politica #Brasil #Bolsonaro #Noticias #Atualidades\n\n🔗 https://www.brasil247.com/blog/uma-redacao-estressada-em-busca-de-provas"
-    }
-  },
-  {
-    "id": "3_Lula_assina_indulto_de_Natal_e_deixa_de_fora_preso",
-    "title": "Lula assina indulto de Natal e deixa de fora presos pelo 8/1 e delatores",
-    "date": null,
-    "url": "https://www.cnnbrasil.com.br/politica/lula-assina-indulto-de-natal-e-deixa-de-fora-presos-pelo-8-1-e-delatores/",
-    "assets_path": "assets/3_Lula_assina_indulto_de_Natal_e_deixa_de_fora_preso",
-    "zip_path": "assets/3_Lula_assina_indulto_de_Natal_e_deixa_de_fora_preso/3_Lula_assina_indulto_de_Natal_e_deixa_de_fora_preso.zip",
-    "content": {
-      "introduction": {
-        "text": "O presidente Luiz Inácio Lula da Silva (PT) publicou nesta terça-feira (23) o decreto do indulto natalino de 2025. A decisão concede perdão de pena a pessoas presas que cumpram critérios específicos, e foi publicada no DOU (Diário Oficial da União) nesta madrugada.",
-        "image": "introduction.png",
-        "prompt": "A sweeping low-angle shot of Lula standing atop a hill, overlooking a cityscape shrouded in a misty dawn, with neon lights flickering like fireflies, as he holds aloft a decree, its words illuminated by a warm golden glow."
-      },
-      "development": {
-        "text": "De acordo com o decreto, o indulto não se aplica a condenados por atentados ao Estado Democrático de Direito, quem firmou acordos de colaboração premiada, presos por violência contra a mulher e terrorismo, entre outros. O decreto segue o entendimento do CNPCP (Conselho Nacional de Políticas Criminais e Penais), conforme antecipado pela CNN Brasil no começo do mês.",
-        "image": "development.png",
-        "prompt": "Tense face illuminated by a flickering light, silhouettes of protesters in the background, as Lula signs the indulto natalino, the weight of his decision evident on his features, amidst swirling dust and rain-streaked windows."
-      },
-      "conclusion": {
-        "text": "Estão excluídos do indulto presos por crimes com violência ou grave ameaça, reincidentes e condenados a penas acima de oito anos. O indulto estabelece condicionantes quanto ao tamanho da pena, reincidência e natureza do crime. Pode ser beneficiadas também pessoas com deficiências físicas graves adquiridas após o crime, além de presos com HIV em estágio terminal ou com doenças graves e crônicas que exijam cuidados não oferecidos pela unidade prisional.",
-        "image": "conclusion.png",
-        "prompt": "Golden hour light breaking through heavy clouds, vibrant colors dancing across the faces of those set free, as they emerge from a prison cell, their eyes cast upwards, bathed in hope and redemption, with the weight of chains broken, like shackles of darkness lifted."
-      },
-      "general_summary": {
-        "image": "general_summary.png",
-        "prompt": "Masterpiece portrait of President Luiz Inácio Lula da Silva, set against a swirling vortex of newspapers and pens, with ink lines bleeding into the background, conveying a sense of chaos and change."
-      },
-      "tiktok_summary": "🚨 Lula concede indulto natalino para presos! Mas não vale pra quem cometeu crimes contra o Estado ou violência. Condenados por violência contra a mulher e terrorismo também ficam de fora. Prisos com deficiências físicas graves e doenças graves podem ser beneficiados.\n\n#Indulto #Lula #Presos #DireitosHumanos #CNN\n\n🔗 https://www.cnnbrasil.com.br/politica/lula-assina-indulto-de-natal-e-deixa-de-fora-presos-pelo-8-1-e-delatores/"
-    }
-  },
-  {
     "id": "2_Canetas_emagrecedoras_o_que_acontece_quando_você_p",
     "title": "Canetas emagrecedoras: o que acontece quando você para de usar?",
     "date": "2025-12-21T09:37:05Z",
