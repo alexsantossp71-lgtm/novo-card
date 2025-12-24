@@ -88,35 +88,5 @@ const newsData = [
       },
       "tiktok_summary": "\\nA acarea\\u00e231\\oe marcada pelo ministro Dias Toffoli, que determinou que a disputa entre o presidente do Banco Master, Daniel Vorcaro, o ex-presidente do Banco de Bras\\u00edlia (BRB) Paulo Henrique Costa e o diretor da Fiscal\\u00edzio do Banco Central Ailton de Aquino Santos seja realizada em 30 de dezembro.\\n\\n#Acarea\\u00c3o #BancoMaster #Brasil #TribunalDeContas\n\n🔗 https://www.metropoles.com/brasil/master-toffoli-determina-acareacao-entre-vorcaro-o-ex-presidente-do-brb-e-o-diretor-do-bc"
     }
-  },
-  {
-    "id": "6_Melhor_efeito_manada_que_efeito_burrada",
-    "title": "Melhor “efeito manada” que “efeito burrada”",
-    "date": null,
-    "url": "https://www.brasil247.com/blog/melhor-efeito-manada-que-efeito-burrada",
-    "assets_path": "assets/6_Melhor_efeito_manada_que_efeito_burrada",
-    "zip_path": "assets/6_Melhor_efeito_manada_que_efeito_burrada/6_Melhor_efeito_manada_que_efeito_burrada.zip",
-    "content": {
-      "introduction": {
-        "text": "Ninguém reagiu compulsivamente à denúncia de Malu Gaspar sobre Alexandre de Moraes, afirma o jornalista Breno Altman. A colunista criticou a forma irresponsável que Gaspar divulgou informações em off que lhe foram passadas. Sua matéria cita meia dúzia de testemunhas relatando que Moraes praticou tráfico de influência em favor de sua esposa, que participou de um dos 77 mil processos do Banco Master.",
-        "image": "introduction.png",
-        "prompt": "A low-angle shot of a rainy street, with pedestrians hastily retreating into the neon-lit awning of a newsstand, where Breno Altman stands with a newspaper clutched in his fist, his face aglow with determination, as he addresses the gathered crowd."
-      },
-      "development": {
-        "text": "Estranho, também, que Gaspar nada escreveu sobre o instituto Iter, do Terrivelmente Evangélico, que vendeu 5 milhões em cursos a órgãos públicos e entes privados. Além disso, a agência de checagem dita Projeto Comprova publicou uma matéria que minimizou o teor do diálogo entre Moraes e Daniel Vorcaro, dono do Banco Master.",
-        "image": "development.png",
-        "prompt": "Gaspar's words echo through the chamber like daggers, casting long shadows on the walls as testifiers take the stand, their faces etched with unease, while 's countenance remains steadfast, illuminated only by the faint light of a dying ember."
-      },
-      "conclusion": {
-        "text": "O jornalista Breno Altman argumenta que as acusações contra Moraes feitas por Gaspar são infames. Ele também cita um texto de Kamala Harris que parece justificar a reação dos críticos de Moraes, mas afirma que isso não reflete a opinião do Brasil 247.",
-        "image": "conclusion.png",
-        "prompt": "As the room falls silent, Breno Altman stands tall, his voice carrying like a beacon through the darkness, 'The truth is not in the lies, but in the silence between.' A single tear rolls down Gaspar's cheek as she vanishes into the shadows, leaving behind only the faint scent of smoke and the echoes of a thousand whispered words."
-      },
-      "general_summary": {
-        "image": "general_summary.png",
-        "prompt": "Amidst a swirling vortex of grey-blue hues, a haunting figure of Alexandre de stands defiant, surrounded by the eerie glow of flickering candles and the faint hum of rain-laden city streets, as Breno Altman's intense gaze pierces through the shadows."
-      },
-      "tiktok_summary": "🚨 Jornalista Breno Altman fala contra o estilo denunciador de Malu Gaspar em relação à atuação de Alexandre de Moraes.\n\n #Journalismo #Verdade #Brasil\n\n🔗 https://www.brasil247.com/blog/melhor-efeito-manada-que-efeito-burrada"
-    }
   }
 ];
