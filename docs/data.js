@@ -1,35 +1,5 @@
 const newsData = [
   {
-    "id": "9_Bolsonaro_é_internado_em_hospital_em_Brasília_expr",
-    "title": "Bolsonaro é internado em hospital em Brasília; ex-presidente fará cirurgia para tratar hérnia",
-    "date": null,
-    "url": "https://g1.globo.com/politica/noticia/2025/12/24/bolsonaro-deixa-pf-para-ser-internado-em-hospital-em-brasilia-ex-presidente-fara-cirurgia-para-tratar-hernia.ghtml",
-    "assets_path": "assets/9_Bolsonaro_é_internado_em_hospital_em_Brasília_expr",
-    "zip_path": "assets/9_Bolsonaro_é_internado_em_hospital_em_Brasília_expr/9_Bolsonaro_é_internado_em_hospital_em_Brasília_expr.zip",
-    "content": {
-      "introduction": {
-        "text": "O ex-presidente Jair Bolsonaro foi internado na quarta-feira (24) no hospital DF Star, em Brasília, após autorização do ministro Alexandre de Moraes para deixar a sede da Polícia Federal, onde está preso. Ele passará por uma cirurgia para tratar uma hérnia na quinta-feira (25). A hérnia inguinal bilateral é um problema que afeta os dois lados da região da virilha e precisaria de intervenção cirúrgica.",
-        "image": "introduction.png",
-        "prompt": "Low-angle shot of walking alone towards a distant, rain-streaked window in the background, his silhouette illuminated only by faint streetlights. A faint image of the Polícia Federal building can be seen through the foggy glass."
-      },
-      "development": {
-        "text": "Bolsonaro deixou a sede da PF por volta das 9h30, depois de embarcar em uma viatura da polícia pela garagem. O trajeto até o hospital dura em torno de cinco minutos. A previsão é que ex-presidente permaneça internado para acompanhamento após o procedimento por cerca de cinco a sete dias.",
-        "image": "development.png",
-        "prompt": "A swirling vortex of dust and debris engulfs the scene as steps out of the police vehicle, into a bright spotlight that casts dramatic shadows on the hospital's facade. His face is tense, illuminated by a flickering light bulb above his bed."
-      },
-      "conclusion": {
-        "text": "A autorização para a cirurgia foi concedida pelo ministro do Supremo Tribunal Federal (STF) Alexandre de Moraes na última quinta-feira (19). A defesa, no entanto, ainda não havia submetido oficialmente um pedido para marcar a data, o que ocorreu na última terça-feira (23).",
-        "image": "conclusion.png",
-        "prompt": "A serene, moonlit landscape unfolds outside the rain-streaked window, with 's figure slumped in exhaustion against the panes. Soft, golden hues seep into the room, as if the dawn breaks on his fragile state."
-      },
-      "general_summary": {
-        "image": "general_summary.png",
-        "prompt": "A haunting portrait of Jair 's confinement, set against a backdrop of Brasília's grey-blue twilight, with the hospital's imposing structure looming large."
-      },
-      "tiktok_summary": "🚨 Câmara cassa mandatos de Eduardo Bolsonaro e Ramagem! Ambos estão foragidos nos EUA desde março e setembro. Eduardo por excesso de faltas, Ramagem condenado a 16 anos por golpe.\n\n#Politica #Brasil #Bolsonaro #Noticias #Atualidades\n\n🔗 https://g1.globo.com/politica/noticia/2025/12/24/bolsonaro-deixa-pf-para-ser-internado-em-hospital-em-brasilia-ex-presidente-fara-cirurgia-para-tratar-hernia.ghtml"
-    }
-  },
-  {
     "id": "7_Master_Toffoli_determina_acareação_entre_Vorcaro_e",
     "title": "Master: Toffoli determina acareação entre Vorcaro, ex-presidente do BRB e diretor do BC",
     "date": null,
