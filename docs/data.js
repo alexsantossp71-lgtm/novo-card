@@ -30,36 +30,6 @@ const newsData = [
     }
   },
   {
-    "id": "8_Bolsonaro_terá_dupla_de_policiais_vigiando_24h_na_",
-    "title": "Bolsonaro terá dupla de policiais vigiando 24h na porta do quarto do hospital",
-    "date": null,
-    "url": "https://g1.globo.com/politica/noticia/2025/12/24/bolsonaro-tera-dupla-de-policiais-vigiando-24h-na-porta-do-quarto-do-hospital.ghtml",
-    "assets_path": "assets/8_Bolsonaro_terá_dupla_de_policiais_vigiando_24h_na_",
-    "zip_path": "assets/8_Bolsonaro_terá_dupla_de_policiais_vigiando_24h_na_/8_Bolsonaro_terá_dupla_de_policiais_vigiando_24h_na_.zip",
-    "content": {
-      "introduction": {
-        "text": "A Polícia Federal montou um esquema de segurança para o período em que Jair Bolsonaro estará internado no hospital DF Star, em Brasília. O ex-presidente vai passar por uma cirurgia para tratar um quadro de hérnia nesta quinta-feira (25). A decisão foi detalhada na decisão do ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), que autorizou a transferência de Bolsonaro da sede da PF, onde está preso, até a unidade hospitalar.",
-        "image": "introduction.png",
-        "prompt": "Masterpiece portrait of a suited figure standing in front of a cityscape at dusk, with a hint of rain-soaked windows and streetlights casting long shadows. The atmosphere is tense, foreboding."
-      },
-      "development": {
-        "text": "Segundo a decisão, o transporte de Bolsonaro da Superintendência da PF em Brasília, onde ele está preso, para o Hospital DF Star, onde ele será internado, deveria ser realizado de maneira discreta, e o desembarque deverá ser feito nas garagens do hospital. Bolsonaro entrou no carro pela garagem, na sede da PF, e deixou o local por volta de 9h30. O trajeto até o hospital durou cerca de cinco minutos.",
-        "image": "development.png",
-        "prompt": "The scene unfolds as emerges from the darkness, surrounded by the swirling dust of his motorcade. Michelle's face is visible in the background, illuminated only by the flickering light of a nearby billboard."
-      },
-      "conclusion": {
-        "text": "A equipe médica avalia que ex-presidente permanecerá internado para acompanhamento após o procedimento por cerca de cinco a sete dias. A defesa havia pedido três acompanhantes — a esposa, Michelle, e os filhos Flávio e Carlos Bolsonaro. Moraes autorizou que Michelle seja 'acompanhante durante toda sua internação', e determinou que 'as demais visitas somente poderão ocorrer com prévia autorização judicial'.",
-        "image": "conclusion.png",
-        "prompt": "Golden hour light breaks through the clouds as lies hospital-bound, an aura of hope surrounding him. The scene fades to black as the city awakens, a new dawn beginning amidst the shadows."
-      },
-      "general_summary": {
-        "image": "general_summary.png",
-        "prompt": "A dramatic, high-contrast image of a dark alleyway with bold shadows and neon lights reflecting off wet pavement. Jair 's silhouette is visible in the distance, shrouded in misty fog."
-      },
-      "tiktok_summary": " 🚨 Jair Bolsonaro será transferido para o Hospital DF Star de Brasília para uma cirurgia de hérnia. A Polícia Federal montou um esquema de segurança para o ex-presidente. #Bolsonaro #HospitalDFStar #Cirurgia\n\n🔗 https://g1.globo.com/politica/noticia/2025/12/24/bolsonaro-tera-dupla-de-policiais-vigiando-24h-na-porta-do-quarto-do-hospital.ghtml"
-    }
-  },
-  {
     "id": "7_Master_Toffoli_determina_acareação_entre_Vorcaro_e",
     "title": "Master: Toffoli determina acareação entre Vorcaro, ex-presidente do BRB e diretor do BC",
     "date": null,
@@ -87,6 +57,36 @@ const newsData = [
         "prompt": "A dramatic, high-contrast image of a ruined cityscape at dusk, with the Banco Master's logo shattered in the foreground, surrounded by flames and smoke."
       },
       "tiktok_summary": "\\nA acarea\\u00e231\\oe marcada pelo ministro Dias Toffoli, que determinou que a disputa entre o presidente do Banco Master, Daniel Vorcaro, o ex-presidente do Banco de Bras\\u00edlia (BRB) Paulo Henrique Costa e o diretor da Fiscal\\u00edzio do Banco Central Ailton de Aquino Santos seja realizada em 30 de dezembro.\\n\\n#Acarea\\u00c3o #BancoMaster #Brasil #TribunalDeContas\n\n🔗 https://www.metropoles.com/brasil/master-toffoli-determina-acareacao-entre-vorcaro-o-ex-presidente-do-brb-e-o-diretor-do-bc"
+    }
+  },
+  {
+    "id": "people_library",
+    "title": null,
+    "date": null,
+    "url": null,
+    "assets_path": "assets/people_library",
+    "zip_path": "assets/people_library/people_library.zip",
+    "content": {
+      "introduction": {
+        "text": "",
+        "image": "introduction.png",
+        "prompt": ""
+      },
+      "development": {
+        "text": "",
+        "image": "development.png",
+        "prompt": ""
+      },
+      "conclusion": {
+        "text": "",
+        "image": "conclusion.png",
+        "prompt": ""
+      },
+      "general_summary": {
+        "image": "general_summary.png",
+        "prompt": ""
+      },
+      "tiktok_summary": ""
     }
   }
 ];
