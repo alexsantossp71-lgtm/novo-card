@@ -1,24 +1,24 @@
 const newsData = [
   {
-    "id": "1_2025_O_choque_entre_hegemonia_imperialista_e_a_con",
-    "title": "2025: O choque entre hegemonia imperialista e a construção do mundo multipolar",
-    "date": null,
-    "url": "https://www.brasil247.com/blog/2025-o-choque-entre-hegemonia-imperialista-e-a-construcao-do-mundo-multipolar",
-    "assets_path": "assets/1_2025_O_choque_entre_hegemonia_imperialista_e_a_con",
-    "zip_path": "assets/1_2025_O_choque_entre_hegemonia_imperialista_e_a_con/1_2025_O_choque_entre_hegemonia_imperialista_e_a_con.zip",
+    "id": "1_Causa_Animal_atende_mais_de_92_mil_cães_e_gatos_em",
+    "title": "Causa Animal atende mais de 92 mil cães e gatos em Porto Alegre em 2025",
+    "date": "2025-12-26T10:51:55Z",
+    "url": "https://www.terra.com.br/noticias/causa-animal-atende-mais-de-92-mil-caes-e-gatos-em-porto-alegre-em-2025,2dfcef11d10676f20c58514e0b9ff3bef0gdietw.html",
+    "assets_path": "assets/1_Causa_Animal_atende_mais_de_92_mil_cães_e_gatos_em",
+    "zip_path": "assets/1_Causa_Animal_atende_mais_de_92_mil_cães_e_gatos_em/1_Causa_Animal_atende_mais_de_92_mil_cães_e_gatos_em.zip",
     "content": {
       "introduction": {
-        "text": "O ano de 2025 foi marcado por disputas estratégicas no cenário internacional, com iniciativas de paz das forças anti-imperialistas e fortalecimento do Sul Global em meio à ofensiva dos EUA. O genocídio contra o povo palestino continuou sendo a questão mais chocante do ano, apesar da adopção de um acordo de cessar-fogo que foi violado várias vezes pelo governo israelense. No campo econômico, destacou-se a escalada da guerra comercial promovida pelo governo Trump e a nova estratégia de segurança nacional dos EUA, que colocou a América Latina como alvo prioritário de uma política neocolonial. Em contraposição a essas tendências imperialistas, 2025 também foi marcado por importantes iniciativas multilaterais lideradas pelo Sul Global.",
+        "text": "Em um marco histórico no cuidado com animais em Porto Alegre, a prefeitura consolidou, em 2025, mais de 92.4 mil atendimentos para cães e gatos, através do Gabinete da Causa Animal (GCA). O maior volume registrado nos últimos quatro anos foi alcançado por meio de castrações, consultas, exames, cirurgias e adoções.",
         "image": "introduction.png",
         "prompt": ""
       },
       "development": {
-        "text": "O ano iniciou com a continuidade do genocídio executado pelo estado sionista israelense contra o povo palestino, com a cumplicidade dos Estados Unidos. Ao longo de 2025, a violência sistemática, a destruição de territórios e a limpeza étnica seguiram chocando a opinião pública mundial, ao mesmo tempo em que se intensificaram os esforços diplomáticos e populares por um cessar-fogo e pelo reconhecimento pleno do Estado nacional da Palestina. No campo econômico, 2025 foi profundamente impactado pela escalada da guerra comercial promovida pelo governo Trump, com a imposição generalizada de tarifas e medidas protecionistas que expuseram o unilateralismo dos Estados Unidos e sua tentativa de conter o avanço da multipolaridade. A ofensiva imperialista ganhou contornos ainda mais explícitos com o lançamento da nova estratégia de segurança nacional dos EUA, que recolocou a América Latina como alvo prioritário de uma política neocolonial e desestabilizadora.",
+        "text": "Os serviços foram oferecidos na Unidade de Saúde Animal Victória (Usav) e as equipes de veterinários ampliaram a presença em todas as regiões da cidade, com atenção especial às áreas mais vulneráveis. As ações incluíram atendimentos pela Unidade Móvel de Saúde Animal, visitas domiciliares e iniciativas conjuntas com a Fiscalização. No controle populacional, Porto Alegre atingiu a meta anual e contabilizou 25 mil castrações, todas acompanhadas de microchipagem gratuita.",
         "image": "development.png",
         "prompt": ""
       },
       "conclusion": {
-        "text": "Em contraposição ao cenário de disputas estratégicas e ofensivas imperialistas, 2025 também foi marcado por importantes iniciativas multilaterais lideradas pelo Sul Global. A realização da 17ª Cúpula do BRICS e da Cúpula do G20 evidenciou a articulação de países que reivindicam uma nova ordem econômica e política internacional, com maior equilíbrio, justiça e representatividade. Esses encontros reforçaram a crítica ao sistema financeiro internacional vigente e defenderam reformas nas instituições globais. O protagonismo da China também destacou-se na política e na economia globais, com o país consolidando seu desenvolvimento e lançando iniciativas de governança global. No entanto, o ano termina com pressão por cessar-fogo no conflito na Ucrânia, mas sem acordo sólido sobre território, neutralidade da Otan e papel da Otan.",
+        "text": "A secretária da Causa Animal, Tatiana Guerra, destaca que os resultados refletem o esforço conjunto do poder público e da sociedade. 'A adoção responsável e o cuidado com animais domésticos e comunitários são fundamentais para prevenir o abandono e combater os maus-tratos. Esse compromisso compartilhado contribui para uma cidade mais solidária e consciente', afirma.",
         "image": "conclusion.png",
         "prompt": ""
       },
@@ -26,7 +26,7 @@ const newsData = [
         "image": "general_summary.png",
         "prompt": ""
       },
-      "tiktok_summary": "🚨 O ano de 2025 foi marcado por disputas estratégicas no cenário internacional. Iniciativas de paz das forças anti-imperialistas e fortalecimento do Sul Global contrastaram com a ofensiva dos EUA e o genocídio contra o povo palestino #politica #internacional #diplomacia #multilateralismo\n\n🔗 https://www.brasil247.com/blog/2025-o-choque-entre-hegemonia-imperialista-e-a-construcao-do-mundo-multipolar"
+      "tiktok_summary": "🚨 Porto Alegre atinge marca histórica em cuidados com cães e gatos! Em 2025, foram mais de 92k atendimentos. Castrações, consultas e adoções. Unidade Móvel chegou a áreas vulneráveis. Meta anual de castrações foi batida: 25k\n\n#Animais #Cuidados #PortoAlegre #Prefeitura #Solidariedade\n\n🔗 https://www.terra.com.br/noticias/causa-animal-atende-mais-de-92-mil-caes-e-gatos-em-porto-alegre-em-2025,2dfcef11d10676f20c58514e0b9ff3bef0gdietw.html"
     }
   }
 ];
