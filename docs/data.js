@@ -1,5 +1,35 @@
 const newsData = [
   {
+    "id": "2_Risco_de_Toffoli_anular_a_liquidação_do_Master_é_c",
+    "title": "Risco de Toffoli anular a liquidação do Master é concreto, crescente e atual",
+    "date": null,
+    "url": "https://www.estadao.com.br/economia/alvaro-gribel/risco-de-toffoli-anular-a-liquidacao-do-master-e-concreto-crescente-e-atual-3/",
+    "assets_path": "assets/2_Risco_de_Toffoli_anular_a_liquidação_do_Master_é_c",
+    "zip_path": "assets/2_Risco_de_Toffoli_anular_a_liquidação_do_Master_é_c/2_Risco_de_Toffoli_anular_a_liquidação_do_Master_é_c.zip",
+    "content": {
+      "introduction": {
+        "text": "O ministro Alexandre de Moraes está sob forte pressão devido à sua suposta influência sobre o Banco Central (BC) no caso do banco Master. Enquanto isso, o presidente do Supremo Tribunal Federal (STF), Luiz Fux, decidiu anular a liquidação do banco privado e punir os técnicos que investigaram o caso, encontrando R$ 12,2 bilhões em créditos podres. A acareação entre o banqueiro Daniel Vorcaro e o diretor de fiscalização Ailton de Aquino será sigilosa, com o objetivo de intimidar Aquino e extrair declarações para tumultuar ou anular o caso (450 caracteres).",
+        "image": "introduction.png",
+        "prompt": ""
+      },
+      "development": {
+        "text": "A liquidação do banco Master aterrissou no STF após a Polícia Federal encontrar um documento que estabelecia as condições para a compra de um imóvel de Vorcaro pelo deputado federal João Carlos Bacelar (PL-BA). A esposa de Moraes tinha um contrato milionário com o Master, o que poderia configurar crime de advocacia administrativa. although acts formal of Moraes não houve, o ministro não utilizou a caneta para tentar favorecer Vorcaro. A pressão sobre o BC expõe uma fragilidade no sistema de freios e contrapesos, já que uma decisão judicial pode reverter o trabalho de fiscalização do BC, minando a credibilidade da autoridade monetária (480 caracteres).",
+        "image": "development.png",
+        "prompt": ""
+      },
+      "conclusion": {
+        "text": "A decisão de Fux pode ter impacto significativo no longo prazo sobre a solidez do sistema financeiro. O caso expõe também a necessidade do Supremo Tribunal Federal adotar um código de ética que crie um constrangimento adicional para a postura dos ministros da corte e do Poder Judiciário. A urgência e a necessidade dessa adoção são confirmadas pelo contrato da esposa de Moraes com o Master (470 caracteres).",
+        "image": "conclusion.png",
+        "prompt": ""
+      },
+      "general_summary": {
+        "image": "general_summary.png",
+        "prompt": ""
+      },
+      "tiktok_summary": "🚨 Pressão sobre Moraes no caso Master expõe fragilidades no sistema de freios e contrapesos\n\nFux decide anular liquidação do banco privado e punir técnicos. Acareação sigilosa entre Vorcaro e Aquino pode intimidar técnico. Caso expõe necessidade de código de ética para ministros do STF.\n#Politica #Justiça #Economia #MasterBank #STF\n\n🔗 https://www.estadao.com.br/economia/alvaro-gribel/risco-de-toffoli-anular-a-liquidacao-do-master-e-concreto-crescente-e-atual-3/"
+    }
+  },
+  {
     "id": "1_O_cerco_midiático_a_Alexandre_de_Moraes",
     "title": "O cerco midiático a Alexandre de Moraes",
     "date": null,
