@@ -1,5 +1,65 @@
 const newsData = [
   {
+    "id": "3_Agronegócio_sai_de_recordes_em_2025_para_estagnaçã",
+    "title": "Agronegócio sai de recordes em 2025 para estagnação em 2026, com queda de produtividade; entenda",
+    "date": null,
+    "url": "https://www.estadao.com.br/economia/agronegocio-sai-de-recordes-em-2025-para-estagnacao-em-2026-com-queda-de-produtividade-entenda/",
+    "assets_path": "assets/3_Agronegócio_sai_de_recordes_em_2025_para_estagnaçã",
+    "zip_path": "assets/3_Agronegócio_sai_de_recordes_em_2025_para_estagnaçã/3_Agronegócio_sai_de_recordes_em_2025_para_estagnaçã.zip",
+    "content": {
+      "introduction": {
+        "text": "Após um ano recorde, a agropecuária deve desacelerar em 2026. Estimativas apontam que a produtividade das lavouras deverá cair no próximo ano, fazendo com que o crescimento do PIB do setor fique ao redor de zero. Ainda assim, o resultado não poderá ser considerado ruim, dado que a agropecuária terminará 2025 em um patamar elevado, no qual ela permanecerá em 2026.",
+        "image": "introduction.png",
+        "prompt": ""
+      },
+      "development": {
+        "text": "O Instituto Brasileiro de Economia (Ibre/FGV) projeta que o PIB do agro crescerá 0,4% em 2026, após avançar 10,6% em 2025. O Itaú também estima uma alta próxima a 11% em 2025 e 0% em 2026. A agropecuária será o setor com melhor resultado no País neste ano, seguida pela indústria e pelos serviços, com crescimentos estimados pelo Ibre de 2% e 1,6%, respectivamente. Já em 2026, ela deverá apresentar o pior resultado entre os três setores, com a indústria avançando 2,3% e os serviços, 1,7%. Economistas ponderam que, embora não seja um resultado ruim, a estagnação em 2026 pode ser atribuída ao fato de a agropecuária ter atingido seu máximo. A Conab apontou que a produtividade por área plantada deverá cair no ano que vem devido ao aumento da área semeada e à produção total não acompanhando esse crescimento.",
+        "image": "development.png",
+        "prompt": ""
+      },
+      "conclusion": {
+        "text": "Os principais produtos do setor, como a soja e o milho, devem encerrar 2025 com crescimento significativo na produção. No entanto, para 2026, as estimativas apontam que a soja crescerá no máximo 1% e que o milho pode puxar a safra brasileira para baixo, com queda de 6%. Apesar disso, o setor ainda deve terminar o ano em um patamar elevado.",
+        "image": "conclusion.png",
+        "prompt": ""
+      },
+      "general_summary": {
+        "image": "general_summary.png",
+        "prompt": ""
+      },
+      "tiktok_summary": "🚨 A agropecuária depois de recorde em 2025 deve desacelerar. Ibre/FGV prevê crescimento de 0,4% e Itaú estima alta próxima a zero em 2026. Economistas dizem que não é ruim, mas pode ser devido ao alcance do máximo da agropecuária.\n\n#Agropecuaria #Economia #PIB #Brazil\n\n🔗 https://www.estadao.com.br/economia/agronegocio-sai-de-recordes-em-2025-para-estagnacao-em-2026-com-queda-de-produtividade-entenda/"
+    }
+  },
+  {
+    "id": "2_Agronegócio_sai_de_recordes_em_2025_para_estagnaçã",
+    "title": "Agronegócio sai de recordes em 2025 para estagnação em 2026, com queda de produtividade; entenda",
+    "date": null,
+    "url": "https://www.estadao.com.br/economia/agronegocio-sai-de-recordes-em-2025-para-estagnacao-em-2026-com-queda-de-produtividade-entenda/",
+    "assets_path": "assets/2_Agronegócio_sai_de_recordes_em_2025_para_estagnaçã",
+    "zip_path": "assets/2_Agronegócio_sai_de_recordes_em_2025_para_estagnaçã/2_Agronegócio_sai_de_recordes_em_2025_para_estagnaçã.zip",
+    "content": {
+      "introduction": {
+        "text": "",
+        "image": "introduction.png",
+        "prompt": ""
+      },
+      "development": {
+        "text": "",
+        "image": "development.png",
+        "prompt": ""
+      },
+      "conclusion": {
+        "text": "",
+        "image": "conclusion.png",
+        "prompt": ""
+      },
+      "general_summary": {
+        "image": "general_summary.png",
+        "prompt": ""
+      },
+      "tiktok_summary": ""
+    }
+  },
+  {
     "id": "1_2025_O_choque_entre_hegemonia_imperialista_e_a_con",
     "title": "2025: O choque entre hegemonia imperialista e a construção do mundo multipolar",
     "date": null,
