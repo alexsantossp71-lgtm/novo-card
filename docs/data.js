@@ -28,35 +28,5 @@ const newsData = [
       },
       "tiktok_summary": ""
     }
-  },
-  {
-    "id": "1_STM_cassou_patente_de_oficiais_em_86_dos_casos_mas",
-    "title": "STM cassou patente de oficiais em 86% dos casos, mas nunca julgou generais após Constituição de 1988",
-    "date": null,
-    "url": "https://www.estadao.com.br/politica/stm-cassou-patente-de-oficiais-em-86-dos-casos-mas-nunca-julgou-generais-apos-constituicao-de-1988/",
-    "assets_path": "assets/1_STM_cassou_patente_de_oficiais_em_86_dos_casos_mas",
-    "zip_path": "assets/1_STM_cassou_patente_de_oficiais_em_86_dos_casos_mas/1_STM_cassou_patente_de_oficiais_em_86_dos_casos_mas.zip",
-    "content": {
-      "introduction": {
-        "text": "",
-        "image": "introduction.png",
-        "prompt": ""
-      },
-      "development": {
-        "text": "",
-        "image": "development.png",
-        "prompt": ""
-      },
-      "conclusion": {
-        "text": "",
-        "image": "conclusion.png",
-        "prompt": ""
-      },
-      "general_summary": {
-        "image": "general_summary.png",
-        "prompt": ""
-      },
-      "tiktok_summary": ""
-    }
   }
 ];
