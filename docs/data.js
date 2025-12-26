@@ -28,35 +28,5 @@ const newsData = [
       },
       "tiktok_summary": "🚨 Colunista do Globo frustra com silêncio após acusar ministro Moraes\nMalu Gaspar publica artigo sobre heróis sem adicionar novas informações à denúncia\nColunistas tentam apoiar, mas não têm fontes identificáveis\nJornalismo precisa de provas, não só de fofocas.\n\n#Politica #Midia #Noticias #Moraes #Master\n\n🔗 https://www.brasil247.com/blog/a-humanidade-precisa-de-herois-tanto-quanto-o-jornalismo-precisa-de-provas"
     }
-  },
-  {
-    "id": "people_library",
-    "title": null,
-    "date": null,
-    "url": null,
-    "assets_path": "assets/people_library",
-    "zip_path": "assets/people_library/people_library.zip",
-    "content": {
-      "introduction": {
-        "text": "",
-        "image": "introduction.png",
-        "prompt": ""
-      },
-      "development": {
-        "text": "",
-        "image": "development.png",
-        "prompt": ""
-      },
-      "conclusion": {
-        "text": "",
-        "image": "conclusion.png",
-        "prompt": ""
-      },
-      "general_summary": {
-        "image": "general_summary.png",
-        "prompt": ""
-      },
-      "tiktok_summary": ""
-    }
   }
 ];
